@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -18,6 +22,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +39,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Small Business"
          "description" : "Oversight: - City Services and Supports for Immigrant Business Owners"
    "description" : "Oversight: - City Services and Supports for Immigrant Business Owners"
@@ -45,12 +52,14 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Immigration"
    "name" : "Committee on Immigration"
          "name" : "Committee on Small Business"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +85,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-11T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=742940&GUID=3BCCF7E4-A832-401E-99DB-7E82980F1CD6&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=742940&GUID=3BCCF7E4-A832-401E-99DB-7E82980F1CD6"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17643"

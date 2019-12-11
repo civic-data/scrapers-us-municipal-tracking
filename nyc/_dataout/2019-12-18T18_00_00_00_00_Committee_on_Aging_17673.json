@@ -11,6 +11,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -67,6 +69,7 @@
          "note" : "participant"
          "notes" : []
          "notes" : []
+         "note" : "web"
          "order" : "0"
          "order" : "1"
          "organization_id" : "~{\"name\": \"Committee on Aging\"}"
@@ -82,5 +85,6 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746539&GUID=0D0E4A54-B874-401B-BD4E-C68006ADC04C&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746539&GUID=0D0E4A54-B874-401B-BD4E-C68006ADC04C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17673"
