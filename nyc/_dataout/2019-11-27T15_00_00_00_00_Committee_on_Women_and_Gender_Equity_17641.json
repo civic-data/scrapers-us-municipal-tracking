@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5408\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "Oversight - Gender Equity in NYC: Access, Resources, and Support for Transgender and Gender Non-Conforming New Yorkers."
+   "description" : "Oversight - Gender Equity in NYC: Access, Resources, and Support for Transgender and Gender Non-Conforming New Yorkers."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Women and Gender Equity"
+   "name" : "Committee on Women and Gender Equity"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2019-5408"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17641"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-27T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=739209&GUID=F26F2B9E-6C06-48CF-A2A5-AA088169A77D&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTExMjctMTAxNDE0Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=739209&GUID=F26F2B9E-6C06-48CF-A2A5-AA088169A77D"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=739209&GUID=F26F2B9E-6C06-48CF-A2A5-AA088169A77D"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17641"

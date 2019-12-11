@@ -1,0 +1,136 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0946-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0947-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1724-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1812-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1813-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating a demonstration program to use photographic evidence to impose liability on vehicle owners for passing a stopped school bus and providing for the repeal of such provision upon the expiration thereof"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting on-call scheduling for utility safety workers and providing advance notice of work schedules to utility safety workers"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring certification of safety training for street permits"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to establishing an office of active transportation and an active transportation advisory board"
+         "description" : "A Local Law to amend the New York city charter, in relation to establishing an office of pedestrians"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Int 0946-2018"
+               "name" : "Int 0947-2018"
+               "name" : "Int 1724-2019"
+               "name" : "Int 1812-2019"
+               "name" : "Int 1813-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "17691"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-16T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747387&GUID=ADE07D05-73B0-4ED6-AC8A-10388593F6CE&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747387&GUID=ADE07D05-73B0-4ED6-AC8A-10388593F6CE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17691"

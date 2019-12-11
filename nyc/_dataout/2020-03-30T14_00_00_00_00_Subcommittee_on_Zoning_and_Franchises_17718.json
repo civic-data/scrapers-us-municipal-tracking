@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "See Land Use Calendar"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "Committee Room - City Hall"
+         "name" : "Subcommittee on Zoning and Franchises"
+   "name" : "Subcommittee on Zoning and Franchises"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Zoning and Franchises\"}"
+   "participants" : [
+   "pupa_id" : "17718"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-03-30T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749799&GUID=013D4773-1765-42D4-82B4-AF1DED1FA032&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=749799&GUID=013D4773-1765-42D4-82B4-AF1DED1FA032"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17718"

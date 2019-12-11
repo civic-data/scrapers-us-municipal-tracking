@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5302\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "Oversight - Examining Automation within the NYC Labor Force. "
+   "description" : "Oversight - Examining Automation within the NYC Labor Force."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2019-5302"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+   "participants" : [
+   "pupa_id" : "17579"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-13T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=734011&GUID=F63883ED-9044-4C46-A04C-5D80B958B1F8&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTExMTMtMTA1MDU5Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=734011&GUID=F63883ED-9044-4C46-A04C-5D80B958B1F8"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=734011&GUID=F63883ED-9044-4C46-A04C-5D80B958B1F8"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17579"

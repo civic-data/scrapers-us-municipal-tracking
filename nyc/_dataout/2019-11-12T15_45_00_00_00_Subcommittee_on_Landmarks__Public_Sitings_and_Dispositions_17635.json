@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"LU 0563-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "Application No. 20205105 HAQ (Hunters Point South Parcels F & G) submitted by the New York City Department of Housing Preservation and Development pursuant to Section 577 of Article XI of the Private Housing Finance Law for the approval of an exemption from real property taxation for property located at Block 6, Lots 20 and 30, Borough of Queens, Council District 26, Community District 2."
+   "description" : "Landmarks, Hunters Point South Parcels F & G, Queens (20205105 HAQ)"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "Committee Room - City Hall"
+               "name" : "LU 0563-2019"
+         "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+   "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Landmarks, Public Sitings and Dispositions\"}"
+   "participants" : [
+   "pupa_id" : "17635"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-12T15:45:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=737953&GUID=919152A6-7C9A-4424-9395-D83C9F4AC0F0&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj0xMTEzMTlMYW5kbWFya3MubXA0&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=737953&GUID=919152A6-7C9A-4424-9395-D83C9F4AC0F0"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=737953&GUID=919152A6-7C9A-4424-9395-D83C9F4AC0F0"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17635"

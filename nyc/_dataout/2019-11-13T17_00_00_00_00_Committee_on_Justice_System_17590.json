@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1156-2018\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring the office of nightlife to report on multi-agency response to community hotspots operations and the mayor’s office of criminal justice to ensure reporting on inspections overseen by the office of special enforcement, as well as providing establishment owners with a notice about conduct or complaints that could lead to a multi-agency response to community hotspots operation and the opportunity to provide information relevant to such notice"
+   "description" : "Requiring the office of nightlife to report on multi-agency response to community hotspots operations and the mayor’s office of criminal justice to ensure reporting on inspections overseen by the office of special enforcement."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Justice System"
+   "name" : "Committee on Justice System"
+               "name" : "Int 1156-2018"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+   "participants" : [
+   "pupa_id" : "17590"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-13T17:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=734359&GUID=E5DDE409-F515-42A7-B6C3-8D16AB92DEC3&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8xOTExMTMtMTIxMzI4Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=734359&GUID=E5DDE409-F515-42A7-B6C3-8D16AB92DEC3"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=734359&GUID=E5DDE409-F515-42A7-B6C3-8D16AB92DEC3"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17590"

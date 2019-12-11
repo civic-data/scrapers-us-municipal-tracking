@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "See Land Use Calendar"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+   "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Landmarks, Public Sitings and Dispositions\"}"
+   "participants" : [
+   "pupa_id" : "17711"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-01-30T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749776&GUID=5D5BE7FA-22FB-4714-A09F-5D48F350F376&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=749776&GUID=5D5BE7FA-22FB-4714-A09F-5D48F350F376"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17711"

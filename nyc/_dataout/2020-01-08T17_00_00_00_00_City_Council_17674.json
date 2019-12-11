@@ -1,0 +1,56 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "CHARTER MEETING - Agenda – 12:00 p.m."
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "CHARTER MEETING"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "Council Chambers - City Hall"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "17674"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-01-08T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746779&GUID=03A1BB23-AFBE-4E42-B9B2-732405CF4A97&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746779&GUID=03A1BB23-AFBE-4E42-B9B2-732405CF4A97"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17674"

@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5421\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Women and Gender Equity"
+         "description" : "Off-Site Hearing:  CUNY Child Care Centers\r\n\r\nLocation:  Shepard Hall Building\r\n                  The City College of New York\r\n                  Room 250 - 2nd Floor\r\n                  160 Convent Avenue \r\n                      (@ 139th Street)\r\n                  New York, NY  10031\r\n"
+   "description" : "Off-Site Hearing: Oversight - CUNY Child Care Centers"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Higher Education"
+   "name" : "Committee on Higher Education"
+         "name" : "Committee on Women and Gender Equity"
+      "name" : "Shepard Hall Building The City College of New York Room 250 - 2nd Floor 160 Convent Avenue (@ 139th Street) New York, NY 10031"
+               "name" : "T2019-5421"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Higher Education\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17652"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-18T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743311&GUID=A840FD8B-B92D-445F-AA1D-6F5B9F93C8EA&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743311&GUID=A840FD8B-B92D-445F-AA1D-6F5B9F93C8EA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17652"

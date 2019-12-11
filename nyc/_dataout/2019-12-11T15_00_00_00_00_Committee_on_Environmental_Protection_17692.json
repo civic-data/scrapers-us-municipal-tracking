@@ -1,0 +1,80 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5523\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "Oversight - Challenges in Managing the Department of Environmental Protection Wastewater Infrastructure."
+   "description" : "Oversight - Challenges in Managing the Department of Environmental Protection Wastewater Infrastructure."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2019-5523"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "17692"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-11T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747597&GUID=53B162CE-329C-4C9B-A2D6-E506B789D2B3&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747597&GUID=53B162CE-329C-4C9B-A2D6-E506B789D2B3"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17692"

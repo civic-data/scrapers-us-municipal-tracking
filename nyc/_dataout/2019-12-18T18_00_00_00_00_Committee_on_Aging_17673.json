@@ -1,0 +1,86 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5305\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Mental Health, Disabilities and Addiction and the Committee on Transportation"
+         "description" : "Oversight - Access-A-Ride"
+   "description" : "Oversight - Access-A-Ride"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+   "name" : "Committee on Aging"
+         "name" : "Committee on Mental Health, Disabilities and Addiction"
+         "name" : "Committee on Transportation"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2019-5305"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+         "organization_id" : "~{\"name\": \"Committee on Mental Health, Disabilities and Addiction\"}"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "17673"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-18T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746539&GUID=0D0E4A54-B874-401B-BD4E-C68006ADC04C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17673"

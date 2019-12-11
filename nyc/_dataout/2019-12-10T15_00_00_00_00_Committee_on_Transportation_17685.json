@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1412-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to removing vehicles obstructing a sidewalk, crosswalk, fire hydrant, bicycle lane, or bus lane"
+   "description" : "Removing vehicles obstructing a sidewalk, crosswalk, fire hydrant, bicycle lane, or bus lane."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1412-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "17685"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-10T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747267&GUID=2426A3BD-E2AB-4C77-9DB5-35AE2CBBD231&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTAtMTAzMTE2Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747267&GUID=2426A3BD-E2AB-4C77-9DB5-35AE2CBBD231"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=747267&GUID=2426A3BD-E2AB-4C77-9DB5-35AE2CBBD231"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17685"

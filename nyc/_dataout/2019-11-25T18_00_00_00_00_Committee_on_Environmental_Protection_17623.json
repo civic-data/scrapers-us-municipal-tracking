@@ -1,0 +1,159 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0417-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0419-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0834-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1182-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5366\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to generating, capturing and utilizing energy from city’s water supply, wastewater treatment systems and natural bodies of water"
+         "description" : "A Local Law to amend the administrative code of the city of New York in relation to identifying all vacant and underutilized municipally-owned sites that would be suitable for the development of renewable energy and assessing the renewable-energy generation potential and feasibility of such sites."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to incentivizing water leak reporting"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to use of potable water hoses in all department of environmental protection capital projects"
+         "description" : "Oversight - Effectively utilizing water resources for energy generation, safety and conservation."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 0417-2018"
+               "name" : "Int 0419-2018"
+               "name" : "Int 0834-2018"
+               "name" : "Int 1182-2018"
+               "name" : "T2019-5366"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "17623"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-25T18:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=736705&GUID=083885F3-3AF3-483D-A846-1D1087886AD7&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTExMjUtMTMwMjM0Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=736705&GUID=083885F3-3AF3-483D-A846-1D1087886AD7"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=736705&GUID=083885F3-3AF3-483D-A846-1D1087886AD7"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17623"

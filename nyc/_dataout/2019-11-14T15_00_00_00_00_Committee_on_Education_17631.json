@@ -1,0 +1,142 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1547-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1550-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1552-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1554-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to creating district diversity working groups"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to expanding reports on demographic data in New York city public schools"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reporting on the demographics of school staff in New York city public schools"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of a school diversity advisory group"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1547-2019"
+               "name" : "Int 1550-2019"
+               "name" : "Int 1552-2019"
+               "name" : "Int 1554-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+   "participants" : [
+   "pupa_id" : "17631"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-14T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=737908&GUID=F0BF603A-7C37-4B0A-9540-F1F324DF8493&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTExMTQtMTAyMzE4Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=737908&GUID=F0BF603A-7C37-4B0A-9540-F1F324DF8493"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=737908&GUID=F0BF603A-7C37-4B0A-9540-F1F324DF8493"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17631"

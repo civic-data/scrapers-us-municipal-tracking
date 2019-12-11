@@ -1,0 +1,130 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5491\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5492\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5493\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to establishing a day-fines pilot program in the office of administrative trials and hearings"
+         "description" : "A Local Law to amend the New York city charter, in relation to mandating a citywide audit of collateral consequences for drug arrests and convictions"
+         "description" : "Jointly with the Committee on Justice System"
+         "description" : "Oversight - Day Fine Pilot\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+         "name" : "Committee on Justice System"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2019-5491"
+               "name" : "T2019-5492"
+               "name" : "T2019-5493"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+   "participants" : [
+   "pupa_id" : "17645"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-11T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=742984&GUID=3BDCA7D2-DD56-4C8D-B65F-72CA41DC31FB&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=742984&GUID=3BDCA7D2-DD56-4C8D-B65F-72CA41DC31FB"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17645"

@@ -1,0 +1,108 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1095-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1249-2018\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to notification of expiration of variances and special permits granted by the board of standards and appeals"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to repealing the critical driver program and amending the persistent violators program relating to drivers of taxicabs and for-hire vehicles"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1095-2018"
+               "name" : "Int 1249-2018"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "17688"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-09T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747270&GUID=CBBB9C8B-2BE0-480D-B1B1-F2C61792806B&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNl8xOTEyMDktMTEwMjI1Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747270&GUID=CBBB9C8B-2BE0-480D-B1B1-F2C61792806B"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=747270&GUID=CBBB9C8B-2BE0-480D-B1B1-F2C61792806B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17688"

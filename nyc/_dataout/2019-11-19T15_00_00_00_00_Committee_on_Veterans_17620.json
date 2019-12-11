@@ -1,0 +1,103 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5361\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "Jointly with the Committee on Contracts"
+         "description" : "Oversight - DVS’ Contracts"
+   "description" : "Oversight - DVS’ Contracts"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Contracts"
+         "name" : "Committee on Veterans"
+   "name" : "Committee on Veterans"
+               "name" : "T2019-5361"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Contracts\"}"
+         "organization_id" : "~{\"name\": \"Committee on Veterans\"}"
+   "participants" : [
+   "pupa_id" : "17620"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-11-19T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8xOTExMTktMTAxMTE5Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=735901&GUID=6959629D-4467-4CE5-B7A1-2A5088AF8846"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=735901&GUID=6959629D-4467-4CE5-B7A1-2A5088AF8846"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17620"

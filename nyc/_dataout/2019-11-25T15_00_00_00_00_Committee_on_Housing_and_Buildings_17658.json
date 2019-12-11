@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1661-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to provide construction workers with information pertaining to site safety training during site safety orientations and refreshers"
+   "description" : "Provide construction workers with information pertaining to site safety training during site safety orientations and refreshers."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+               "name" : "Int 1661-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "17658"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-25T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743843&GUID=D23ABE5A-5295-4751-B5EF-D5BCCE702E1D&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNl8xOTExMjUtMTAyMzE5Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743843&GUID=D23ABE5A-5295-4751-B5EF-D5BCCE702E1D"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=743843&GUID=D23ABE5A-5295-4751-B5EF-D5BCCE702E1D"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17658"

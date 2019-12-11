@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5500\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - NYCHA’s Winter Preparedness"
+   "description" : "Oversight - NYCHA’s Winter Preparedness"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Housing"
+   "name" : "Committee on Public Housing"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2019-5500"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Public Housing\"}"
+   "participants" : [
+   "pupa_id" : "17690"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-18T15:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747386&GUID=422A4DE5-5E2B-405A-84FC-5E2C1EFC4696&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747386&GUID=422A4DE5-5E2B-405A-84FC-5E2C1EFC4696"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17690"

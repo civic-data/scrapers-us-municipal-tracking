@@ -1,0 +1,96 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1136-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5353\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York City police department to issue public reports on the department’s use of body-worn cameras"
+         "description" : "Oversight - NYPD’s Roll-Out of Body Worn Cameras"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1136-2018"
+               "name" : "T2019-5353"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "17610"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-18T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=735835&GUID=84D658B7-4202-487F-877F-BB05006147ED&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=735835&GUID=84D658B7-4202-487F-877F-BB05006147ED"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=735835&GUID=84D658B7-4202-487F-877F-BB05006147ED"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17610"

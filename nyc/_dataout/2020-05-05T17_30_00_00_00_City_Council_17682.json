@@ -1,0 +1,64 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Agenda – 1:30 p.m."
+         "description" : "Ceremonial Tributes – 1:00 p.m."
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "Council Chambers - City Hall"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+   "participants" : []
+   "pupa_id" : "17682"
+         "related_entities" : []
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-05T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746787&GUID=398EC8D5-7CAB-4CFF-B4A2-2C4492AF0E6E&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746787&GUID=398EC8D5-7CAB-4CFF-B4A2-2C4492AF0E6E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17682"

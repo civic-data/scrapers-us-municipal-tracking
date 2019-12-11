@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1591-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1592-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1593-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the New York city charter, in relation to the department of environmental protection and Rikers Island."
+         "description" : "A Local Law to direct the Commissioner of Environmental Protection to conduct a study to determine if a new wastewater treatment facility can be constructed on Rikers Island."
+         "description" : "A Local Law to direct the mayor’s office of sustainability to study the feasibility of different types of renewable energy sources combined with battery storage are practical on Rikers Island."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Int 1591-2019"
+               "name" : "Int 1592-2019"
+               "name" : "Int 1593-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "17667"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-11T18:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=744635&GUID=9002B8AA-55D8-43C7-8E04-01BA4BCA5FE1&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=744635&GUID=9002B8AA-55D8-43C7-8E04-01BA4BCA5FE1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17667"

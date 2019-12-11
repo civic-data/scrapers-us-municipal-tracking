@@ -1,0 +1,135 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1785-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1786-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1810-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5460\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to health insurance benefits for surviving family members of certain deceased employees of the department of sanitation"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving family members of certain deceased employees of the department of transportation"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to health insurance coverage for the surviving family members of certain deceased employees of the city of New York"
+         "description" : "Jointly with the Committee on Civil Service and Labor"
+         "description" : "Oversight - Status of Implementation of the City’s Pay Equity Law."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil Service and Labor"
+         "name" : "Committee on Women and Gender Equity"
+   "name" : "Committee on Women and Gender Equity"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1785-2019"
+               "name" : "Int 1786-2019"
+               "name" : "Int 1810-2019"
+               "name" : "T2019-5460"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17665"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-17T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=744504&GUID=BF744B82-6577-4699-A3B4-38CC368D438E&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=744504&GUID=BF744B82-6577-4699-A3B4-38CC368D438E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17665"

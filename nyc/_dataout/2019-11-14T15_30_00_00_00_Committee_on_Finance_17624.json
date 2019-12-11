@@ -1,0 +1,176 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1780-2019\"}"
+               "bill_id" : "~{\"identifier\": \"LU 0577-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1152-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1153-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1154-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1155-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to extending the rate of the additional tax on the occupancy of hotel rooms"
+         "description" : "J2, Block 9998, Lot 25; Queens, Community District No. 12, Council District No. 27."
+         "description" : "RESOLUTION AMENDING AND RESTATING THE RESOLUTION COMPUTING AND CERTIFYING ADJUSTED BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2020 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES PURSUANT TO SECTION 1803-a, REAL PROPERTY TAX LAW."
+         "description" : "RESOLUTION AMENDING AND RESTATING THE RESOLUTION COMPUTING AND CERTIFYING BASE PERCENTAGE, CURRENT PERCENTAGE AND CURRENT BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2020 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES PURSUANT TO SECTION 1803-a, REAL PROPERTY TAX LAW."
+         "description" : "Resolution amending and restating the resolution to provide the amounts necessary for the support of the government of the city of New York and the counties therein and for the payment of indebtedness thereof, for the fiscal year beginning on July 1, 2019 and ending on June 30, 2020, by the levy of the taxes on the real property in the city of New York, in accordance with the provisions of the constitution of the state of New York, the real property tax law and the charter of the city of New York."
+         "description" : "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1780-2019"
+               "name" : "LU 0577-2019"
+               "name" : "Res 1152-2019"
+               "name" : "Res 1153-2019"
+               "name" : "Res 1154-2019"
+               "name" : "Res 1155-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17624"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-11-14T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=736846&GUID=953AAEDE-4AD7-40A6-BC1E-C84DCEA64B3B&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTExMTQtMTExNTMwLm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=736846&GUID=953AAEDE-4AD7-40A6-BC1E-C84DCEA64B3B"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=736846&GUID=953AAEDE-4AD7-40A6-BC1E-C84DCEA64B3B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17624"

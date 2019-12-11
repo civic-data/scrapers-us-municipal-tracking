@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "See Land Use Calendar"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "Committee Room - City Hall"
+         "name" : "Subcommittee on Zoning and Franchises"
+   "name" : "Subcommittee on Zoning and Franchises"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Zoning and Franchises\"}"
+   "participants" : [
+   "pupa_id" : "17408"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-02T14:30:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=714112&GUID=842FBC42-D85A-4070-8B9F-6F33373F7C9E&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=714112&GUID=842FBC42-D85A-4070-8B9F-6F33373F7C9E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17408"

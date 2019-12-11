@@ -1,0 +1,79 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"LU 0590-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "Application No. 20205152 HAM (MMN1902 – LEMLE West 117th Street) submitted by the Department of Housing Preservation and Development pursuant to Article 16 of the General Municipal Law and Article XI of the Private Housing Finance Law for the approval of an Urban Development Action Area Project, the waiver of the area designation requirements, the waiver of the requirements of Section 197-c and 197-d of the Charter, and an exemption from real property taxes for property located at 138, 140, and 264 West 117th Street (Block 1901, Lots 51, 52 and 53), Borough of Manhattan, Council District 9, Community District 10."
+   "description" : "Landmarks, MMN1902 – LEMLE West 117th Street, Manhattan (20205152 HAM)"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+               "name" : "LU 0590-2019"
+         "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+   "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Landmarks, Public Sitings and Dispositions\"}"
+   "participants" : [
+   "pupa_id" : "17540"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-02T18:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=723048&GUID=309D4CEE-F1F4-4597-A5D0-8402DD271099&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=723048&GUID=309D4CEE-F1F4-4597-A5D0-8402DD271099"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=723048&GUID=309D4CEE-F1F4-4597-A5D0-8402DD271099"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17540"
