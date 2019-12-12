@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -28,6 +36,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -47,6 +58,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to evictions of elderly tenants"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the installation of protective devices for seniors and persons with a disability who reside in multiple dwellings, and the provision of a tax abatement for certain related installations"
@@ -65,14 +78,18 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Aging"
          "name" : "Committee on Housing and Buildings"
    "name" : "Committee on Housing and Buildings"
@@ -86,8 +103,10 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -107,12 +126,16 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-12T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743350&GUID=DFFFCE42-57E3-403B-8F41-17A1494AC221&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTEyMTItMTAyMjIyLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743350&GUID=DFFFCE42-57E3-403B-8F41-17A1494AC221"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=743350&GUID=DFFFCE42-57E3-403B-8F41-17A1494AC221"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17655"

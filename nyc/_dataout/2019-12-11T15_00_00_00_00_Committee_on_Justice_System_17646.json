@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -28,6 +36,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -47,6 +58,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to establishing a day-fines pilot program in the office of administrative trials and hearings"
          "description" : "A Local Law to amend the New York city charter, in relation to mandating a citywide audit of collateral consequences for drug arrests and convictions"
@@ -65,14 +78,18 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Governmental Operations"
          "name" : "Committee on Justice System"
    "name" : "Committee on Justice System"
@@ -86,8 +103,10 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -113,6 +132,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=742985&GUID=CFFF378E-F0D3-44E9-81BD-1BCE80FCC873&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTEtMTAwNDQ4Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=742985&GUID=CFFF378E-F0D3-44E9-81BD-1BCE80FCC873"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=742985&GUID=CFFF378E-F0D3-44E9-81BD-1BCE80FCC873"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17646"

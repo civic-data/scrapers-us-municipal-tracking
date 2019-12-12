@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -19,6 +22,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -47,6 +52,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to evictions of elderly tenants"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the installation of protective devices for seniors and persons with a disability who reside in multiple dwellings, and the provision of a tax abatement for certain related installations"
@@ -65,6 +71,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -72,6 +79,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
@@ -86,6 +94,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -107,12 +116,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-12T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17654"

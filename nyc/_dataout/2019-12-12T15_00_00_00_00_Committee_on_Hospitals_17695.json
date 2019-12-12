@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - Rising Health Care Costs "
    "description" : "Oversight - Rising Health Care Costs"
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
       "name" : "250 Broadway - Committee Rm, 14th Fl."
          "name" : "Committee on Health"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-12T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=748778&GUID=27F5E5ED-6F0B-4188-9E4B-A11CEFED8413&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=748778&GUID=27F5E5ED-6F0B-4188-9E4B-A11CEFED8413"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=748778&GUID=27F5E5ED-6F0B-4188-9E4B-A11CEFED8413"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17695"
