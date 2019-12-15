@@ -1,0 +1,101 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1621-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0976-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to create a nuclear disarmament and nuclear weapons-free zone advisory committee"
+         "description" : "Jointly with the Committee on Governmental Operations"
+         "description" : "Resolution calling on the New York City Comptroller to instruct the pension funds of public employees in New York City to divest from and avoid any financial exposure to companies involved in the production and maintenance of nuclear weapons, reaffirming New York City as a Nuclear Weapons Free Zone, and joining the ICAN Cities Appeal and calling on the United States to support and join the Treaty on the Prohibition of Nuclear Weapons."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+         "name" : "Committee on Governmental Operations"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Int 1621-2019"
+               "name" : "Res 0976-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "17697"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-01-28T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=748920&GUID=E110C1BC-0F06-4C4C-A9D7-C396FB54F607&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=748920&GUID=E110C1BC-0F06-4C4C-A9D7-C396FB54F607"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17697"
