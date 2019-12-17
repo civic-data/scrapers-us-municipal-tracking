@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -18,6 +22,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +39,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Contracts"
          "description" : "Oversight - DHS Homeless Service Provider Contracts "
    "description" : "Oversight - DHS Homeless Service Provider Contracts"
@@ -45,12 +52,14 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Contracts"
          "name" : "Committee on General Welfare"
    "name" : "Committee on General Welfare"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +85,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-16T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=745515&GUID=975310CB-684C-49B1-B664-D41317F50D41&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTEyMTYtMTAyNTM2Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=745515&GUID=975310CB-684C-49B1-B664-D41317F50D41"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17668"

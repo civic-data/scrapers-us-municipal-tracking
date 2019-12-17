@@ -4,6 +4,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -16,6 +18,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -34,6 +38,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -56,6 +62,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating a demonstration program to use photographic evidence to impose liability on vehicle owners for passing a stopped school bus and providing for the repeal of such provision upon the expiration thereof"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting on-call scheduling for utility safety workers and providing advance notice of work schedules to utility safety workers"
@@ -77,6 +84,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -84,8 +92,9 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
       "name" : "Council Chambers - City Hall"
@@ -103,6 +112,7 @@
                "note" : "consideration"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -124,13 +134,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2019-12-16T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747387&GUID=ADE07D05-73B0-4ED6-AC8A-10388593F6CE&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTEyMTYtMTMzNjAzLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747387&GUID=ADE07D05-73B0-4ED6-AC8A-10388593F6CE"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17691"

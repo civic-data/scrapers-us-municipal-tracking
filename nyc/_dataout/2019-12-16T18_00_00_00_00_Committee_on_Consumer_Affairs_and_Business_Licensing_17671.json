@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to remedying fraudulent, deceptive and unconscionable business practices"
          "description" : "A Local Law to amend the charter and administrative code of the city of New York, in relation to changing the name of the Department of Consumer Affairs to the Department of Consumer and Worker Protection, and to repeal sections 20-a and 2204 of the New York city charter, and to repeal subdivision b of section 20-9016 of chapter 1 of title 20-A of the administrative code of the city of New York in relation thereto"
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
       "name" : "Committee Room - City Hall"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2019-12-16T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746528&GUID=35DDCAE2-B0E4-4371-BF54-E0D192034C0A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTYtMTMwOTEzLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746528&GUID=35DDCAE2-B0E4-4371-BF54-E0D192034C0A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=746528&GUID=35DDCAE2-B0E4-4371-BF54-E0D192034C0A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17671"
