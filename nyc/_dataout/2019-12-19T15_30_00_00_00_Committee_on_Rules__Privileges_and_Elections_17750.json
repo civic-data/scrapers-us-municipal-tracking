@@ -1,0 +1,146 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"M 0196-2019\"}"
+               "bill_id" : "~{\"identifier\": \"M 0197-2019\"}"
+               "bill_id" : "~{\"identifier\": \"M 0198-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5539\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5540\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Christopher Bastardi, a candidate for recommendation by the Council to the Youth Board, pursuant to § 734 of the New York City Charter. "
+         "description" : "Communication from the Mayor – Submitting the name of Frances Henn to the City Council for advice and consent concerning her appointment to the New York City Tax Commission, pursuant to Sections 31 and 153 of the New York City Charter."
+         "description" : "Communication from the Mayor - Submitting the name of Kenneth J. Knuckles to the Council for its advice and consent regarding his appointment to the City Planning Commission, pursuant to Sections 192 of the City Charter."
+         "description" : "Communication from the Mayor – Submitting the name of Thomas V. Nichols to the City Council for advice and consent concerning his appointment to the New York City Tax Commission, pursuant to Sections 31 and 153 of the New York City Charter."
+         "description" : "Continuation of the December 16, 2019 - Recessed Meeting"
+         "description" : "Melanie Kruvelis, a candidate for recommendation by the Council to the Youth Board, pursuant to § 734 of the New York City Charter. "
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+      "name" : "Council Chambers - City Hall"
+               "name" : "M 0196-2019"
+               "name" : "M 0197-2019"
+               "name" : "M 0198-2019"
+               "name" : "T2019-5539"
+               "name" : "T2019-5540"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "17750"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2019-12-19T15:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751731&GUID=481DF4D4-86C0-43FC-B339-FBB0C7FFDA85&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751731&GUID=481DF4D4-86C0-43FC-B339-FBB0C7FFDA85"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17750"

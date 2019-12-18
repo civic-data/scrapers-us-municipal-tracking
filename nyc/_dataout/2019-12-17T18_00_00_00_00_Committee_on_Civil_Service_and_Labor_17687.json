@@ -1,0 +1,119 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1604-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1786-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1810-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0040-2018\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to health insurance benefits for surviving family members of certain deceased employees of the department of sanitation"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving family members of certain deceased employees of the department of transportation"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reporting of workers’ compensation data"
+         "description" : "Resolution calling upon the New York City Employees’ Retirement System to determine that members are disabled for purposes of disability pensions, if the New York State Workers’ Compensation Board determines that a member has a permanent partial disability, and the U.S. Social Security Administration determines that a member is disabled for substantial gainful (work) activity, and approved for social security disability benefits"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1604-2019"
+               "name" : "Int 1786-2019"
+               "name" : "Int 1810-2019"
+               "name" : "Res 0040-2018"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+   "participants" : [
+   "pupa_id" : "17687"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-17T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747269&GUID=E48655B3-4DF5-45AD-8F54-26F97E3762FC&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747269&GUID=E48655B3-4DF5-45AD-8F54-26F97E3762FC"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17687"
