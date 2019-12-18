@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -33,6 +37,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -51,6 +57,7 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
          "date" : ""
          "date" : ""
    "description" : ""
@@ -72,15 +79,17 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
          "name" : "Committee on Housing and Buildings"
@@ -97,6 +106,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -123,7 +133,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTEyMTItMTAyMjIyLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=743349&GUID=49718508-988E-44D7-A581-231490891F9C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17654"
