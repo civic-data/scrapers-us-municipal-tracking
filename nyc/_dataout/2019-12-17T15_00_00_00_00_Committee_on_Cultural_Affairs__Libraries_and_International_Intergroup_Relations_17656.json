@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5434\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : "Oversight - Percent for Art and Public Art in NY"
+         "description" : "Oversight - Percent for Art and Public Art in NYC."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+   "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2019-5434"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Cultural Affairs, Libraries and International Intergroup Relations\"}"
+   "participants" : [
+   "pupa_id" : "17656"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2019-12-17T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=743802&GUID=3E567EA6-DAD1-4A20-8E61-D2803A098FCB&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8xOTEyMTctMTAyMzM5Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=743802&GUID=3E567EA6-DAD1-4A20-8E61-D2803A098FCB"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=743802&GUID=3E567EA6-DAD1-4A20-8E61-D2803A098FCB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17656"
