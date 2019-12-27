@@ -1,0 +1,119 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1636-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1835-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1836-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-5453\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to establishing a department of immigrant affairs and to repeal section 18 of the New York city charter, relating to the office of immigrant affairs"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to repealing subdivision f of section 18 of such charter relating to the office of immigrant affairs reporting requirement, placing such reporting requirement in the administrative code of the city of New York, and expanding such reporting"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to repealing subdivision g of section 18 of such charter relating to the interagency task force on immigrant affairs, placing such task force in the administrative code of the city of New York, and expanding such interagency task force"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to replacing the term “alien” with “noncitizen,” and to repeal section 17-124 of the administrative code of the city of New York, relating to the quarantine of those with communicable diseases"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1636-2019"
+               "name" : "Int 1835-2019"
+               "name" : "Int 1836-2019"
+               "name" : "T2019-5453"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "17743"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-01-09T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751469&GUID=C0053530-26F8-4738-B82B-90D776AADE88&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751469&GUID=C0053530-26F8-4738-B82B-90D776AADE88"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17743"

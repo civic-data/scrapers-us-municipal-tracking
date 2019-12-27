@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1731-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1062-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5592\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code, in relation to requiring the fire department to report annually on emergency medical services personnel resignations"
+         "description" : "Oversight - EMS Attrition"
+         "description" : "Resolution calling for the salaries of New York City emergency medical service personnel to be comparable to New York City’s firefighters and police officers."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Fire and Emergency Management"
+   "name" : "Committee on Fire and Emergency Management"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Int 1731-2019"
+               "name" : "Res 1062-2019"
+               "name" : "T2020-5592"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Fire and Emergency Management\"}"
+   "participants" : [
+   "pupa_id" : "17737"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-01-16T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751461&GUID=8720F6EF-DE25-4DE8-A203-903B1BF85FF1&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751461&GUID=8720F6EF-DE25-4DE8-A203-903B1BF85FF1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17737"
