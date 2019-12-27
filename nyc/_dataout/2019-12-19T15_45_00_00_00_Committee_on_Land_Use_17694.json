@@ -1,11 +1,21 @@
             {
+            {
+            {
             }
+            }
+            }
+         ]
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      {
+      }
+      }
       }
       }
       }
@@ -15,6 +25,8 @@
    ]
    ]
    ]
+   ]
+   }
    }
 {
 }
@@ -24,26 +36,35 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
-   "description" : ""
+         "date" : ""
+         "date" : ""
+   "description" : "Landmarks, MMN1902 – LEMLE West 117th Street, Manhattan (20205152 HAM)"
          "description" : "See Land Use Calendar"
    "documents" : [
    "end_date" : ""
          "entity_type" : "organization"
          "extras" : {}
-   "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Land Use"
    "name" : "Committee on Land Use"
       "name" : "Committee Room - City Hall"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -53,9 +74,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2019-12-19T15:45:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=748770&GUID=59A64254-B8E5-4D0C-A11A-4837C11FE5C1&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTktMTEyMjE3Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=748770&GUID=59A64254-B8E5-4D0C-A11A-4837C11FE5C1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=748770&GUID=59A64254-B8E5-4D0C-A11A-4837C11FE5C1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17694"
