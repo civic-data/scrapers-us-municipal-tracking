@@ -1,0 +1,152 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1420-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1525-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1830-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1832-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5596\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to requiring a study and report on unsubstantiated 311 complaints"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to conducting 311 customer satisfaction surveys in designated citywide languages"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to publication of 311 service level agreements"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring 311 to notify each agency when a request for service or complaint has not been closed within the number of days specified by such agency’s service level agreement"
+         "description" : "Jointly with the Committee on Governmental Operations"
+         "description" : "Oversight – 311"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Governmental Operations"
+         "name" : "Committee on Technology"
+   "name" : "Committee on Technology"
+               "name" : "Int 1420-2019"
+               "name" : "Int 1525-2019"
+               "name" : "Int 1830-2019"
+               "name" : "Int 1832-2019"
+               "name" : "T2020-5596"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+   "participants" : [
+   "pupa_id" : "17746"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-01-21T15:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751472&GUID=86F71BDB-05E7-4AA3-8292-735A7C6CD48A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751472&GUID=86F71BDB-05E7-4AA3-8292-735A7C6CD48A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17746"

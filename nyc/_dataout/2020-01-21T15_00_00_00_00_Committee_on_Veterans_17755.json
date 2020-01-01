@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2019-5578\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Oversight - The Future of DVS"
+         "description" : "Oversight - The Future of DVS\r\n\r\nIn 2020, DVS will be entering its fourth year, with an expanded staff of about 40 employees, a budget of $4.6 million, and a new Commissioner. Because of the growth of the agency and the start of the new commissioner, the Committee on Veterans would like to start the new year by holding an oversight hearing about DVS as an agency—from 2016 to now and going forward. The Committee would like to know how the agency has changed since its beginning, lessons learned, plans for the future, and what goals it has to improve and expand its reach and mandate going forward. Advocates invited to testify are encouraged to provide insight into how the agency has changed, what things DVS can improve upon, as well as any pertinent issues that advocates have encountered when dealing with DVS. "
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Veterans"
+   "name" : "Committee on Veterans"
+               "name" : "T2019-5578"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Veterans\"}"
+   "participants" : [
+   "pupa_id" : "17755"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-01-21T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=752126&GUID=76B78442-8B9D-4337-8D38-53F837341A7F&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=752126&GUID=76B78442-8B9D-4337-8D38-53F837341A7F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17755"
