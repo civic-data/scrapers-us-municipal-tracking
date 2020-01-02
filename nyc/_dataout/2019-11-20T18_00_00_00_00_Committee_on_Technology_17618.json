@@ -18,6 +18,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -81,6 +83,7 @@
          "note" : "Recording"
          "notes" : []
          "notes" : []
+         "note" : "web"
          "order" : "0"
          "order" : "1"
          "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
@@ -97,6 +100,7 @@
                "text" : ""
                "text" : ""
                "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=735891&GUID=5121FEB0-087D-4955-BCF0-4F1A18B7ABF9&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTExMjAtMTMxNTEwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=735891&GUID=5121FEB0-087D-4955-BCF0-4F1A18B7ABF9"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=735891&GUID=5121FEB0-087D-4955-BCF0-4F1A18B7ABF9"
