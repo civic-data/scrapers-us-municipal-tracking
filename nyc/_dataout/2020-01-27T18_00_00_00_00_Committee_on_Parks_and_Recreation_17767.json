@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5620\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Overview of the Parks Department Concessions Process. "
+   "description" : "Oversight - Overview of the Parks Department Concessions Process."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Parks and Recreation"
+   "name" : "Committee on Parks and Recreation"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5620"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "17767"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-01-27T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=756280&GUID=EBA7DD52-E462-4740-A750-8BC15CFC5706&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=756280&GUID=EBA7DD52-E462-4740-A750-8BC15CFC5706"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17767"
