@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5641\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Resiliency and Waterfronts"
+         "description" : "Oversight - Seven Years Later: Update on the Expenditure and Reimbursement of Superstorm Sandy Federal Funding."
+   "description" : "Oversight - Seven Years Later: Update on the Expenditure and Reimbursement of Superstorm Sandy Federal Funding."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Resiliency and Waterfronts"
+      "name" : "Council Chambers - City Hall"
+         "name" : "Subcommittee on Capital Budget"
+   "name" : "Subcommittee on Capital Budget"
+               "name" : "T2020-5641"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
+   "participants" : [
+   "pupa_id" : "17777"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-01-30T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=757224&GUID=36E14174-0E80-49D0-837B-64BF6F2DF80A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=757224&GUID=36E14174-0E80-49D0-837B-64BF6F2DF80A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17777"
