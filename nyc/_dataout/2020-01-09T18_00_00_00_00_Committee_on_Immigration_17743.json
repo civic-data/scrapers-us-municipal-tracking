@@ -3,6 +3,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -13,6 +17,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -29,6 +37,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -49,6 +60,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to establishing a department of immigrant affairs and to repeal section 18 of the New York city charter, relating to the office of immigrant affairs"
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to repealing subdivision f of section 18 of such charter relating to the office of immigrant affairs reporting requirement, placing such reporting requirement in the administrative code of the city of New York, and expanding such reporting"
@@ -67,14 +80,18 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Immigration"
    "name" : "Committee on Immigration"
       "name" : "Committee Room - City Hall"
@@ -89,7 +106,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -108,12 +127,16 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-01-09T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751469&GUID=C0053530-26F8-4738-B82B-90D776AADE88&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAxMDktMTMxNTQ3Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751469&GUID=C0053530-26F8-4738-B82B-90D776AADE88"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=751469&GUID=C0053530-26F8-4738-B82B-90D776AADE88"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17743"
