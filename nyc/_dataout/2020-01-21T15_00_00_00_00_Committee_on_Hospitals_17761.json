@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,14 @@
       {
       {
       {
+      {
       }
       }
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +37,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Oversight - Prenatal Care in NYC Hospitals. "
    "description" : "Oversight - Prenatal Care in NYC Hospitals."
    "documents" : [
@@ -37,22 +48,27 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Hospitals"
    "name" : "Committee on Hospitals"
-      "name" : "Council Chambers - City Hall"
+      "name" : "Committee Room - City Hall"
                "name" : "T2020-5625"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
-         "note" : "web"
          "order" : "0"
          "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
    "participants" : [
@@ -60,9 +76,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-01-21T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=755541&GUID=84413025-6BFF-4FA6-9520-262400A7C8C9&Options=info&Search="
+               "text" : ""
+               "text" : ""
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAxMjEtMTAxMzUzLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=755541&GUID=84413025-6BFF-4FA6-9520-262400A7C8C9"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=755541&GUID=84413025-6BFF-4FA6-9520-262400A7C8C9"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17761"

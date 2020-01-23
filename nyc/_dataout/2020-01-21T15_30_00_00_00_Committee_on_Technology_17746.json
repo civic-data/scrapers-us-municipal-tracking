@@ -4,6 +4,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -16,6 +20,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -38,6 +46,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -60,6 +71,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring a study and report on unsubstantiated 311 complaints"
@@ -85,6 +98,8 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -93,8 +108,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "250 Broadway - Committee Rm, 14th Fl."
          "name" : "Committee on Governmental Operations"
          "name" : "Committee on Technology"
@@ -112,8 +129,10 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -139,7 +158,7 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-01-21T15:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
@@ -147,6 +166,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751472&GUID=86F71BDB-05E7-4AA3-8292-735A7C6CD48A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yMDAxMjEtMTA0NzM3Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751472&GUID=86F71BDB-05E7-4AA3-8292-735A7C6CD48A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=751472&GUID=86F71BDB-05E7-4AA3-8292-735A7C6CD48A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17746"
