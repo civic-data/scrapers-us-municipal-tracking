@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to investigations of lead-based paint hazards by independent and certified inspectors, and contractor certifications for construction activities that disturb lead-based paint, and to repeal subdivision 9 of section 20-386 and subdivision 15 of section 20-393 of such administrative code, relating to salespersons for home improvement businesses"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to lead poisoning prevention and control in certain dwellings, and to repeal section 27-2056.1 of such administrative code relating to the findings and purpose of provisions of such code relating to lead poisoning from paint"
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Housing and Buildings"
    "name" : "Committee on Housing and Buildings"
       "name" : "Council Chambers - City Hall"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +111,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-01-23T15:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759053&GUID=C5D94DB4-8730-4873-A350-D2802421F1AE&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAxMjMtMTA1MjQ4Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759053&GUID=C5D94DB4-8730-4873-A350-D2802421F1AE"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=759053&GUID=C5D94DB4-8730-4873-A350-D2802421F1AE"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17782"

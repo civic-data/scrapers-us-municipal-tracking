@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "319-321 West 38th Street.HPO.FY20, Block 762, p/o Lot 23; Manhattan, Community District No. 4, Council District No. 3"
          "description" : "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget."
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
       "name" : "Committee Room - City Hall"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +111,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-01-23T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=758476&GUID=30349AC4-4D15-45DB-A8BB-28C3D9C1767D&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAxMjMtMTAyNTM1Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=758476&GUID=30349AC4-4D15-45DB-A8BB-28C3D9C1767D"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=758476&GUID=30349AC4-4D15-45DB-A8BB-28C3D9C1767D"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17781"
