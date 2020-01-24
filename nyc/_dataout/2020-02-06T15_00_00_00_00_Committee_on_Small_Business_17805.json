@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5707\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight: “Ghost Kitchens” “Virtual Restaurants” and the Future of the Restaurant Industry."
+   "description" : "Oversight: “Ghost Kitchens” “Virtual Restaurants” and the Future of the Restaurant Industry."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Small Business"
+   "name" : "Committee on Small Business"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5707"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "17805"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-06T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759804&GUID=B42220FE-417A-484C-B7CF-51725F784A71&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759804&GUID=B42220FE-417A-484C-B7CF-51725F784A71"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17805"
