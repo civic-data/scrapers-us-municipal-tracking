@@ -29,6 +29,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -74,6 +76,7 @@
                "entity_type" : "bill"
                "entity_type" : "bill"
          "entity_type" : "organization"
+         "entity_type" : "organization"
          "extras" : {}
          "extras" : {}
          "extras" : {}
@@ -94,6 +97,7 @@
                "media_type" : "text/html"
          "name" : "Committee on Civil Service and Labor"
    "name" : "Committee on Civil Service and Labor"
+         "name" : "Committee on Women and Gender Equity"
       "name" : "Committee Room - City Hall"
                "name" : "Int 1604-2019"
                "name" : "Int 1786-2019"
@@ -108,6 +112,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "participant"
          "note" : "Recording"
          "notes" : []
          "notes" : []
@@ -119,6 +124,7 @@
          "order" : "2"
          "order" : "3"
          "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
    "participants" : [
    "pupa_id" : "17687"
          "related_entities" : [
@@ -135,8 +141,8 @@
                "text" : ""
                "text" : ""
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=747269&GUID=E48655B3-4DF5-45AD-8F54-26F97E3762FC&Options=info&Search="
-               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTctMTMxNTI2Lm1wNA%3d%3d&Mode2=Video"
-               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=747269&GUID=E48655B3-4DF5-45AD-8F54-26F97E3762FC"
-               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=747269&GUID=E48655B3-4DF5-45AD-8F54-26F97E3762FC"
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=744503&GUID=978D2A35-4E61-417D-AC8B-8AF1FA4E1100&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8xOTEyMTctMTM1NzI1Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=744503&GUID=978D2A35-4E61-417D-AC8B-8AF1FA4E1100"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=744503&GUID=978D2A35-4E61-417D-AC8B-8AF1FA4E1100"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17687"
