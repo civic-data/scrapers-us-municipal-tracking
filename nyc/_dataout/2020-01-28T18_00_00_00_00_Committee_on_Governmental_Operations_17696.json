@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -23,6 +27,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -40,6 +46,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to create a nuclear disarmament and nuclear weapons-free zone advisory committee"
          "description" : "Jointly with the Committee on Civil Service and Labor"
@@ -55,13 +62,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Civil Service and Labor"
          "name" : "Committee on Governmental Operations"
    "name" : "Committee on Governmental Operations"
@@ -75,6 +84,7 @@
                "note" : "consideration"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -91,11 +101,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-01-28T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=748919&GUID=D1C0F4D0-9710-40E0-A13F-FD1019E07DED&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=748919&GUID=D1C0F4D0-9710-40E0-A13F-FD1019E07DED"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17696"

@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -24,6 +28,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +48,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code, in relation to requiring the fire department to report annually on emergency medical services personnel resignations"
          "description" : "Oversight - EMS Attrition"
@@ -57,13 +64,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
       "name" : "Committee Room - City Hall"
@@ -77,6 +86,7 @@
                "note" : "consideration"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +102,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-01-28T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=756632&GUID=90963639-2505-4D38-BA21-9C494206150E&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=756632&GUID=90963639-2505-4D38-BA21-9C494206150E"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17769"

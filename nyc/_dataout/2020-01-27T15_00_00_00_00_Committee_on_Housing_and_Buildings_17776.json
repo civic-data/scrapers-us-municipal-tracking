@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +45,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to conforming the New York city energy conservation code to the New York state energy code with amendments unique to construction in the city and incorporate therein provisions of the NYStretch energy code-2020, and to repeal section 28-1001.2 of such administrative code relating to such conforming amendments"
