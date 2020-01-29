@@ -1,0 +1,85 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1173-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5720\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - The Dismantling of the U.S. Asylum System and the Impact on Immigrant New Yorkers."
+         "description" : "Resolution in support of the amicus brief submitted by the District of Columbia and the States of California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New York, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, and Washington, calling on the U.S. Court of Appeals for the D.C. Circuit to maintain the availability of asylum-related protections for individuals and families with a well-founded fear of persecution due to domestic or gang-related violence."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "Committee Room - City Hall"
+               "name" : "Res 1173-2019"
+               "name" : "T2020-5720"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "17793"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-10T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759265&GUID=61B7131C-3940-48DF-9E23-0DC893F2B205&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759265&GUID=61B7131C-3940-48DF-9E23-0DC893F2B205"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17793"
