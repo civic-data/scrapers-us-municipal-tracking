@@ -1,16 +1,27 @@
             {
+            {
+            {
             }
+            }
+            }
+         ]
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -24,6 +35,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "See Land Use Calendar"
    "documents" : [
@@ -32,18 +45,24 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
-      "name" : "Committee Room - City Hall"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "Council Chambers - City Hall"
          "name" : "Subcommittee on Zoning and Franchises"
    "name" : "Subcommittee on Zoning and Franchises"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -53,9 +72,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-01-30T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749775&GUID=E1D793BF-AEFD-47C2-B768-12BC888935A3&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAxMzAtMTAyNjQzLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=749775&GUID=E1D793BF-AEFD-47C2-B768-12BC888935A3"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=749775&GUID=E1D793BF-AEFD-47C2-B768-12BC888935A3"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17710"

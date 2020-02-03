@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -14,6 +18,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Jail Violence"
    "description" : "Oversight - Jail Violence"
    "documents" : [
@@ -37,11 +44,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Criminal Justice"
    "name" : "Committee on Criminal Justice"
       "name" : "Council Chambers - City Hall"
@@ -51,6 +60,7 @@
          "note" : "api"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +70,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-03T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759517&GUID=A9B8F08C-1F72-4C89-A8A2-D42C25342EB8&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759517&GUID=A9B8F08C-1F72-4C89-A8A2-D42C25342EB8"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17802"

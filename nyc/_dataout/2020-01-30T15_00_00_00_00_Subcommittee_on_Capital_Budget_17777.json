@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Resiliency and Waterfronts"
          "description" : "Oversight - Seven Years Later: Update on the Expenditure and Reimbursement of Superstorm Sandy Federal Funding."
    "description" : "Oversight - Seven Years Later: Update on the Expenditure and Reimbursement of Superstorm Sandy Federal Funding."
@@ -45,14 +58,18 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Resiliency and Waterfronts"
-      "name" : "Council Chambers - City Hall"
+      "name" : "Committee Room - City Hall"
          "name" : "Subcommittee on Capital Budget"
    "name" : "Subcommittee on Capital Budget"
                "name" : "T2020-5641"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +94,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-01-30T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=757224&GUID=36E14174-0E80-49D0-837B-64BF6F2DF80A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAxMzAtMTAwODIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=757224&GUID=36E14174-0E80-49D0-837B-64BF6F2DF80A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=757224&GUID=36E14174-0E80-49D0-837B-64BF6F2DF80A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17777"
