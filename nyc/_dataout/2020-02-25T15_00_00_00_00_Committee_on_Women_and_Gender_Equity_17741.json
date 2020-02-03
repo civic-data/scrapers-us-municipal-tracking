@@ -1,0 +1,152 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1625-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1662-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0919-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0920-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5740\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to make available FDA-approved methods of non-surgical contraception and long-acting reversible contraception at its health centers, health stations, health clinics and other health facilities"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to training and inspections regarding lactation rooms"
+         "description" : "Jointly with the Committee on Health"
+         "description" : "Oversight - Reproductive Health "
+         "description" : "Resolution calling on the Federal Government to dismiss the change to Title X funding, specifically to prohibit recipients from using Title X funds to perform, promote, refer for, or support abortion as a method of family planning."
+         "description" : "Resolution urging the United States Congress and the New York State Legislature to support a woman’s right to abortion, and to oppose a ban on sex-selective abortions, which perpetuate racial stereotypes and undermine access to care."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+         "name" : "Committee on Women and Gender Equity"
+   "name" : "Committee on Women and Gender Equity"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Int 1625-2019"
+               "name" : "Int 1662-2019"
+               "name" : "Res 0919-2019"
+               "name" : "Res 0920-2019"
+               "name" : "T2020-5740"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17741"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-02-25T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751467&GUID=69EC3235-9A74-4538-9C42-AD982AA282A2&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751467&GUID=69EC3235-9A74-4538-9C42-AD982AA282A2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17741"
