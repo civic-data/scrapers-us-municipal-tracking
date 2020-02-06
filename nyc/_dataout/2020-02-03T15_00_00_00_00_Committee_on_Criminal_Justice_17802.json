@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Jail Violence"
    "description" : "Oversight - Jail Violence"
    "documents" : [
@@ -45,10 +51,12 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : [
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
                "media_type" : "text/html"
          "name" : "Committee on Criminal Justice"
@@ -59,6 +67,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "Recording"
          "notes" : []
@@ -74,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759517&GUID=A9B8F08C-1F72-4C89-A8A2-D42C25342EB8&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAyMDMtMTAxMjQ2Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759517&GUID=A9B8F08C-1F72-4C89-A8A2-D42C25342EB8"
-               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=759517&GUID=A9B8F08C-1F72-4C89-A8A2-D42C25342EB8"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17802"

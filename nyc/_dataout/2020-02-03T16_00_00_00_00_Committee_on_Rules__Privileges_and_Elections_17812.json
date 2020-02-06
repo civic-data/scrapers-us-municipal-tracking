@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,6 +15,10 @@
       {
       {
       {
+      {
+      {
+      }
+      }
       }
       }
       }
@@ -18,6 +28,8 @@
    ]
    ]
    ]
+   ]
+   }
    }
 {
 }
@@ -28,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : "Aloysee Heredia Jarmoszuk, Taxi and Limousine Commission"
          "description" : "Communication from the Mayor - Submitting the name of Aloysee Heredia Jarmoszuk to the Council for its advice and consent regarding her appointment as a member and chair to the New York City Taxi and Limousine Commission, pursuant to Sections 31 and 2301 of the City Charter."
    "documents" : [
@@ -35,13 +49,18 @@
                "entity_type" : "bill"
          "entity_type" : "organization"
          "extras" : {}
-   "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "Meeting in Recess"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Rules, Privileges and Elections"
    "name" : "Committee on Rules, Privileges and Elections"
       "name" : "Committee Room - City Hall"
@@ -50,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -63,6 +84,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759891&GUID=C87E31DB-02F1-4599-A0B0-3A9CB1D22689&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAyMDMtMTExNDM0Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759891&GUID=C87E31DB-02F1-4599-A0B0-3A9CB1D22689"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=759891&GUID=C87E31DB-02F1-4599-A0B0-3A9CB1D22689"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17812"
