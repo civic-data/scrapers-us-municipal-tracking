@@ -1,0 +1,80 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"M 0206-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Aloysee Heredia Jarmoszuk, Taxi and Limousine Commission"
+         "description" : "Communication from the Mayor - Submitting the name of Aloysee Heredia Jarmoszuk to the Council for its advice and consent regarding her appointment as a member and chair to the New York City Taxi and Limousine Commission, pursuant to Sections 31 and 2301 of the City Charter."
+         "description" : "Continuation of the February 3, 2020 - Recessed Meeting"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Continuation of the February 3, 2020 Recessed Meeting"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+      "name" : "Council Chambers - City Hall"
+               "name" : "M 0206-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "17825"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-02-11T15:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=761617&GUID=EA37CF06-1C68-46CE-A4A6-84291F8D00D4&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=761617&GUID=EA37CF06-1C68-46CE-A4A6-84291F8D00D4"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17825"
