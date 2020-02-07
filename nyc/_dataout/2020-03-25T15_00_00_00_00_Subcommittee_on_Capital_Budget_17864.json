@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5800\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:00 a.m.    Department of Design and Construction\r\n12:00 p.m.    Office of Management and Budget \r\n  2:00 p.m.    Public\r\n   \r\n\r\nJointly with the Committee on Finance"
+   "description" : "Preliminary Budget Hearing - Captial Budget"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+      "name" : "Council Chambers - City Hall"
+         "name" : "Subcommittee on Capital Budget"
+   "name" : "Subcommittee on Capital Budget"
+               "name" : "T2020-5800"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
+   "participants" : [
+   "pupa_id" : "17864"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-25T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762254&GUID=7CA33D6B-66E4-46AC-B585-277DF9640EFA&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762254&GUID=7CA33D6B-66E4-46AC-B585-277DF9640EFA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17864"

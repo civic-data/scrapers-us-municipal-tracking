@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5794\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.    Department of Citywide Administrative Services  \r\n11:00 a.m.    Law Department  \r\n12:00 p.m.    Board of Elections   \r\n  1:00 p.m.    Office of Administrative Trials & Hearings \r\n  2:00 p.m.    Community Boards \r\n  3:00 p.m.    Public\r\n"
+   "description" : "Preliminary Budget Hearing - Governmental Operations"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5794"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "17858"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-20T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762209&GUID=AC09B820-7D70-4B78-B3C1-B4421DB0B5F5&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762209&GUID=AC09B820-7D70-4B78-B3C1-B4421DB0B5F5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17858"

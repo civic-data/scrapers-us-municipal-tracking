@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5801\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n  10:30 a.m.   MTA/NYC Transit\r\n*11:00 a.m.   Department of Transportation\r\n    1:00 p.m.   Taxi and Limousine Commission\r\n    2:00 p.m.   Public\r\n\r\n* Jointly with the Subcommittee on Capital Budget"
+   "description" : "Preliminary Budget Hearing - Transportation"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5801"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "17865"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-09T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762267&GUID=03204E87-658F-4EB6-A653-5581F63918E2&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762267&GUID=03204E87-658F-4EB6-A653-5581F63918E2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17865"

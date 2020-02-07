@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5798\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n2:00 p.m.   Department of Health & Mental Hygiene\r\n4:00 p.m.   Public "
+   "description" : "Preliminary Budget Hearing - Mental Health, Disabilities and Addiction"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Mental Health, Disabilities and Addiction"
+   "name" : "Committee on Mental Health, Disabilities and Addiction"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5798"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Mental Health, Disabilities and Addiction\"}"
+   "participants" : [
+   "pupa_id" : "17862"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-24T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762252&GUID=9FC859EF-CF0D-4EC1-A610-0E2D5211BD7D&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762252&GUID=9FC859EF-CF0D-4EC1-A610-0E2D5211BD7D"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17862"

@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5799\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.    Department of Finance\r\n\r\n_________________________________\r\n\r\nAGENCIES BELOW ARE JOINTLY WITH THE SUBCOMMITTEE ON CAPITAL BUDGET\r\n\r\n\r\n11:00 a.m.    Department of Design and Construction\r\n12:00 p.m.    Office of Management and Budget \r\n  2:00 p.m.    Public\r\n   "
+   "description" : "Preliminary Budget Hearing - Finance"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5799"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17863"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-25T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762253&GUID=B24AC221-EAC5-48C7-AB29-842473CF9668&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762253&GUID=B24AC221-EAC5-48C7-AB29-842473CF9668"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17863"

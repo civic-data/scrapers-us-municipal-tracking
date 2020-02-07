@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5786\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.     Department of Probation\r\n10:30 a.m.     Department of Correction \r\n12:30 p.m.     Board of Correction\r\n  1:30 p.m.     Public"
+   "description" : "Preliminary Budget Hearing - Criminal Justice"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Criminal Justice"
+   "name" : "Committee on Criminal Justice"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5786"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Criminal Justice\"}"
+   "participants" : [
+   "pupa_id" : "17849"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-09T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762169&GUID=E6BFE575-881D-4D22-ACF5-C9A7B8F85756&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762169&GUID=E6BFE575-881D-4D22-ACF5-C9A7B8F85756"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17849"

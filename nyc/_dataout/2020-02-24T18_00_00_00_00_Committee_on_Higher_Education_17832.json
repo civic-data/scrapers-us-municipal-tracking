@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5702\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Research Foundation of CUNY"
+   "description" : "Oversight - The Research Foundation of CUNY"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Higher Education"
+   "name" : "Committee on Higher Education"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5702"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Higher Education\"}"
+   "participants" : [
+   "pupa_id" : "17832"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-24T18:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762054&GUID=685BA9CF-8C29-43B0-ADB4-5591345D26A6&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762054&GUID=685BA9CF-8C29-43B0-ADB4-5591345D26A6"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17832"

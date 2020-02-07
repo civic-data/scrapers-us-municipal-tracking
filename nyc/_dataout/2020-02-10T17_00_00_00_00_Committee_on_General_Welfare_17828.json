@@ -1,0 +1,119 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1650-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1659-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1024-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1025-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a plan to identify and enroll seniors eligible for supplemental nutrition assistance benefits"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the provision of information regarding the health bucks program and farmers’ markets"
+         "description" : "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, legislation to opt into the Supplemental Nutrition Assistance Program (SNAP) Restaurant Meals Program to allow disabled, elderly and homeless SNAP recipients to use their benefits on hot meals and other prepared foods at participating grocery stores, delis and restaurants."
+         "description" : "Resolution calling upon the New York State Office of Temporary and Disability Assistance (OTDA) to expand eligibility for the Supplemental Nutrition Assistance Program (SNAP) to public college students."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on General Welfare"
+   "name" : "Committee on General Welfare"
+               "name" : "Int 1650-2019"
+               "name" : "Int 1659-2019"
+               "name" : "Res 1024-2019"
+               "name" : "Res 1025-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "17828"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-10T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=761907&GUID=57BFB71B-67CF-4A80-A050-E3BE4FEA7E4A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=761907&GUID=57BFB71B-67CF-4A80-A050-E3BE4FEA7E4A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17828"

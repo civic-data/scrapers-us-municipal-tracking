@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5773\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n3:00 p.m.   Department of Information, Technology \r\n                         & Telecommunications \r\n4:00 p.m.   Public\r\n\r\n\r\nJointly with the Committee on Land Use"
+   "description" : "Preliminary Budget Hearing - Technology"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Land Use"
+         "name" : "Committee on Technology"
+   "name" : "Committee on Technology"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5773"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+   "participants" : [
+   "pupa_id" : "17838"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-03T20:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762091&GUID=9755FC9B-EC6A-41CD-BFAB-5DD10065AD66&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762091&GUID=9755FC9B-EC6A-41CD-BFAB-5DD10065AD66"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17838"
