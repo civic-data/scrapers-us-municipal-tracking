@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5706\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - NYCEDC 2020 Snapshot - Borough-by-Borough Projects: Jamaica NOW, Bronx Point, Manhattan Life Sciences Campus, Bedford Union Armory & Stapleton Waterfront."
+   "description" : "Oversight - NYCEDC 2020 Snapshot - Borough-by-Borough Projects: Jamaica NOW, Bronx Point, Manhattan Life Sciences Campus, Bedford Union Armory & Stapleton Waterfront."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Economic Development"
+   "name" : "Committee on Economic Development"
+               "name" : "T2020-5706"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Economic Development\"}"
+   "participants" : [
+   "pupa_id" : "17804"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-25T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759803&GUID=EDA887F4-0DFE-4976-B7C3-D7A161314587&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759803&GUID=EDA887F4-0DFE-4976-B7C3-D7A161314587"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17804"
