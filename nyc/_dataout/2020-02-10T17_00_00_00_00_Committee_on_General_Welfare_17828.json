@@ -3,6 +3,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -13,6 +17,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -29,6 +37,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -49,6 +60,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a plan to identify and enroll seniors eligible for supplemental nutrition assistance benefits"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the provision of information regarding the health bucks program and farmers’ markets"
@@ -67,14 +80,18 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "250 Broadway - Committee Rm, 16th Fl."
          "name" : "Committee on General Welfare"
    "name" : "Committee on General Welfare"
@@ -89,7 +106,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -108,12 +127,16 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-10T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=761907&GUID=57BFB71B-67CF-4A80-A050-E3BE4FEA7E4A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNl8yMDAyMTAtMTIxNTA5Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=761907&GUID=57BFB71B-67CF-4A80-A050-E3BE4FEA7E4A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=761907&GUID=57BFB71B-67CF-4A80-A050-E3BE4FEA7E4A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17828"

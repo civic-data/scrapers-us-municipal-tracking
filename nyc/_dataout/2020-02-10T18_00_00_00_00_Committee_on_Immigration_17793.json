@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Oversight - The Dismantling of the U.S. Asylum System and the Impact on Immigrant New Yorkers."
          "description" : "Resolution in support of the amicus brief submitted by the District of Columbia and the States of California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New York, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, and Washington, calling on the U.S. Court of Appeals for the D.C. Circuit to maintain the availability of asylum-related protections for individuals and families with a well-founded fear of persecution due to domestic or gang-related violence."
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Immigration"
    "name" : "Committee on Immigration"
       "name" : "Committee Room - City Hall"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-10T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759265&GUID=61B7131C-3940-48DF-9E23-0DC893F2B205&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAyMTAtMTI1OTAwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759265&GUID=61B7131C-3940-48DF-9E23-0DC893F2B205"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=759265&GUID=61B7131C-3940-48DF-9E23-0DC893F2B205"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17793"
