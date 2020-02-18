@@ -16,8 +16,6 @@
       {
       {
       {
-      {
-      }
       }
       }
       }
@@ -80,7 +78,6 @@
          "notes" : []
          "notes" : []
          "notes" : []
-         "note" : "web"
          "order" : "0"
          "order" : "1"
          "order" : "2"
@@ -97,6 +94,5 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751459&GUID=6220F0AF-086B-46CA-8411-CE155492671A&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751459&GUID=6220F0AF-086B-46CA-8411-CE155492671A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17735"
