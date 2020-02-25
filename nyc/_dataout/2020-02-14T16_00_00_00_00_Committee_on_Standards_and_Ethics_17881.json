@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5866\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "Oversight – Meeting Pursuant to Rule 10.80."
+   "description" : "Oversight – Meeting Pursuant to Rule 10.80."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Standards and Ethics"
+   "name" : "Committee on Standards and Ethics"
+               "name" : "T2020-5866"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Standards and Ethics\"}"
+   "participants" : [
+   "pupa_id" : "17881"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-14T16:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=763424&GUID=7B0F572D-32FB-4D3B-A2E2-EC74DB211FF2&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yMDAyMTQtMTM0MzEyLm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=763424&GUID=7B0F572D-32FB-4D3B-A2E2-EC74DB211FF2"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=763424&GUID=7B0F572D-32FB-4D3B-A2E2-EC74DB211FF2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17881"

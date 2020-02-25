@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 0335-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0980-2019\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Resolution calling upon the New York State Legislature to pass and fully fund, and the Governor to sign, A.5313/S.4054, legislation that would establish eight demonstration programs throughout New York State and one coordinating center to improve the care of sickle cell disease patients and educate about sickle cell trait"
+         "description" : "Resolution declaring June 19 of each year Sickle Cell Awareness Day in the City of New York."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+               "name" : "Res 0335-2018"
+               "name" : "Res 0980-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+   "participants" : [
+   "pupa_id" : "17894"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-26T16:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764336&GUID=DAA3C5B7-5671-45E2-B7D0-28EDE683FFB5&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764336&GUID=DAA3C5B7-5671-45E2-B7D0-28EDE683FFB5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17894"

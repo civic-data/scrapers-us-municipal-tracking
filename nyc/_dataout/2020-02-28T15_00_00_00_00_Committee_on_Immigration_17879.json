@@ -1,0 +1,101 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 0274-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5852\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Jointly with the Committee on Hospitals"
+         "description" : "Oversight - ICE’s Escalated Attacks on NYC Policies Protecting Immigrants."
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign the Combating Deceptive Immigration Enforcement Practices Act of 2019 (H.R. 3498), prohibiting agents of the United States Department of Homeland Security from wearing clothing or equipment that bears the word “police,” and ..Titlecalling upon the Department of Homeland Security to prohibit United States Immigration and Customs Enforcement (ICE) agents from identifying themselves as police officers while conducting immigration enforcement activities in New York City."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Hospitals"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "Council Chambers - City Hall"
+               "name" : "Res 0274-2018"
+               "name" : "T2020-5852"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "17879"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-02-28T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=763385&GUID=321D43C9-B565-4FAE-A48A-7E5DE94E9019&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=763385&GUID=321D43C9-B565-4FAE-A48A-7E5DE94E9019"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17879"

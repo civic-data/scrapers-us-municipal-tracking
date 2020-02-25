@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5791\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n2:00 p.m.   Health & Hospitals  \r\n4:00 p.m.   Public "
+   "description" : "Preliminary Budget Hearing - Hospitals"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Hospitals"
+   "name" : "Committee on Hospitals"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5791"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+   "participants" : [
+   "pupa_id" : "17889"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-09T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764168&GUID=E83D22B4-4B31-4832-9C62-985D990F5E09&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764168&GUID=E83D22B4-4B31-4832-9C62-985D990F5E09"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17889"

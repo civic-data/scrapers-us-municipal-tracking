@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5775\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.   Department of Parks & Recreation \r\n12:00 p.m.   Public"
+   "description" : "Preliminary Budget Hearing - Parks and Recreation"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Parks and Recreation"
+   "name" : "Committee on Parks and Recreation"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5775"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "17875"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-13T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=763119&GUID=9E4E2743-9E9A-469F-8C20-653E90E11D9F&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=763119&GUID=9E4E2743-9E9A-469F-8C20-653E90E11D9F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17875"

@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1847-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the New York city charter, in relation to individualized responses to violent hate crimes"
+   "description" : "Individualized responses to violent hate crimes."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1847-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "17897"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-25T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764339&GUID=D3754FAD-C479-460D-BA24-C1F266BB0FC6&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764339&GUID=D3754FAD-C479-460D-BA24-C1F266BB0FC6"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17897"

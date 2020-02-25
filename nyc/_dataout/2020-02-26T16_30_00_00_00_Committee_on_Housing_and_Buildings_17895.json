@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1816-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to conforming the New York city energy conservation code to the New York state energy code with amendments unique to construction in the city and incorporate therein provisions of the NYStretch energy code-2020, and to repeal section 28-1001.2 of such administrative code relating to such conforming amendments"
+   "description" : "Amendments unique to construction in the city and incorporate therein provisions of the NYStretch energy code-2020, and to repeal section 28-1001.2 of such administrative code relating to such conforming amendments."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+               "name" : "Int 1816-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "17895"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-26T16:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764337&GUID=3FE3E8DC-FD09-4137-B339-932CC6760EFB&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764337&GUID=3FE3E8DC-FD09-4137-B339-932CC6760EFB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17895"

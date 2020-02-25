@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5872\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Class Size Reduction"
+   "description" : "Oversight - Class Size Reduction"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+               "name" : "T2020-5872"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+   "participants" : [
+   "pupa_id" : "17883"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-24T18:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=763471&GUID=6C4C760B-84BC-4E15-8331-BCDD06200983&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=763471&GUID=6C4C760B-84BC-4E15-8331-BCDD06200983"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17883"

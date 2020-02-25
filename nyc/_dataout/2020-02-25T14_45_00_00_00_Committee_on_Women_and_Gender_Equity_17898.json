@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1536-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reporting on efforts to prevent and address sex- and gender-based discrimination and harassment"
+   "description" : "Reporting on efforts to prevent and address sex- and gender-based discrimination and harassment."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 16th Fl."
+         "name" : "Committee on Women and Gender Equity"
+   "name" : "Committee on Women and Gender Equity"
+               "name" : "Int 1536-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17898"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-02-25T14:45:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764340&GUID=35DA6F80-72BA-4647-8765-8E3602124CCC&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764340&GUID=35DA6F80-72BA-4647-8765-8E3602124CCC"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17898"

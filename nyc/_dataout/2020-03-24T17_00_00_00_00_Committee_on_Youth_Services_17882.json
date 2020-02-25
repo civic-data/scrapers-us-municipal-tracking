@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5788\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n1:00 p.m.      Department of Youth and Community \r\n                          Development\r\n2:00 p.m.      Public"
+   "description" : "Preliminary Budget Hearing - Youth Services"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Youth Services"
+   "name" : "Committee on Youth Services"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5788"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Youth Services\"}"
+   "participants" : [
+   "pupa_id" : "17882"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-24T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=763469&GUID=C0891B1C-2686-4A32-8677-317A49AC9982&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=763469&GUID=C0891B1C-2686-4A32-8677-317A49AC9982"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17882"
