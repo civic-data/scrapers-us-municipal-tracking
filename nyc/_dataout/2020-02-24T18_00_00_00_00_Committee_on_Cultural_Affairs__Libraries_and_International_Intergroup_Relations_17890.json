@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law in relation to the creation of a task force regarding a museum about New York city’s African-American civil rights history"
    "description" : "Creating a NYC museum of African American history."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "250 Broadway - Committee Rm, 14th Fl."
          "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
    "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -62,9 +81,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-24T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764332&GUID=621A2300-BA96-4F0E-94B3-E20673E83D38&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yMDAyMjQtMTMwNzQwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764332&GUID=621A2300-BA96-4F0E-94B3-E20673E83D38"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=764332&GUID=621A2300-BA96-4F0E-94B3-E20673E83D38"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17890"

@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -24,6 +28,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +48,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating a mental health coordinator to inform city employees about mental health support and services"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to providing information relating to behavioral health services"
@@ -57,13 +64,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Mental Health, Disabilities and Addiction"
    "name" : "Committee on Mental Health, Disabilities and Addiction"
       "name" : "Committee Room - City Hall"
@@ -77,6 +86,7 @@
                "note" : "consideration"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +102,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-24T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=759238&GUID=C48379B4-44EB-44B2-BE27-311D9FCB3EC3&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAyMjQtMTMxMjQ3Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=759238&GUID=C48379B4-44EB-44B2-BE27-311D9FCB3EC3"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17785"

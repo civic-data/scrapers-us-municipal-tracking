@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring the fire department to implement a pilot program for the deployment of motorized scooters for the transportation of emergency medical service personnel"
          "description" : "Oversight - Innovative Approaches to Improving FDNY/EMS Emergency Response."
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "250 Broadway - Committee Rm, 16th Fl."
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-24T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=761521&GUID=240364F6-5A11-4F5D-B448-C494511E073E&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNl8yMDAyMjQtMTMxNzU4Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=761521&GUID=240364F6-5A11-4F5D-B448-C494511E073E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=761521&GUID=240364F6-5A11-4F5D-B448-C494511E073E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17822"
