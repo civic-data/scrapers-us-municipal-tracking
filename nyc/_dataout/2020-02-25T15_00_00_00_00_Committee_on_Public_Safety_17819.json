@@ -9,6 +9,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -34,6 +36,7 @@
    "end_date" : ""
                "entity_type" : "bill"
          "entity_type" : "organization"
+         "entity_type" : "organization"
          "extras" : {}
    "extras" : {}
          "links" : [
@@ -42,6 +45,7 @@
          "media" : []
    "media" : []
                "media_type" : "application/pdf"
+         "name" : "Committee on Justice System"
          "name" : "Committee on Public Safety"
    "name" : "Committee on Public Safety"
       "name" : "Committee Room - City Hall"
@@ -51,9 +55,11 @@
          "note" : "api"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "participant"
          "notes" : []
          "note" : "web"
          "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
          "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
    "participants" : [
    "pupa_id" : "17819"
