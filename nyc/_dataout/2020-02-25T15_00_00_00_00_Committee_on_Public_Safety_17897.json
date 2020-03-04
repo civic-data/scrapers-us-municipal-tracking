@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the New York city charter, in relation to individualized responses to violent hate crimes"
    "description" : "Individualized responses to violent hate crimes."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Public Safety"
    "name" : "Committee on Public Safety"
       "name" : "Committee Room - City Hall"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -62,9 +81,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-02-25T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764339&GUID=D3754FAD-C479-460D-BA24-C1F266BB0FC6&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNPTV8yMDAyMjUtMTAyNjAwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=764339&GUID=D3754FAD-C479-460D-BA24-C1F266BB0FC6"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=764339&GUID=D3754FAD-C479-460D-BA24-C1F266BB0FC6"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17897"

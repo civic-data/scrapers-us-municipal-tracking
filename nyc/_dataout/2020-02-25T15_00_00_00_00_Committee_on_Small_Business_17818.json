@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Technology"
          "description" : "Oversight – Cybersecurity for Small Businesses"
    "description" : "Oversight – Cybersecurity for Small Businesses"
@@ -45,12 +58,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "250 Broadway - Committee Rm, 14th Fl."
          "name" : "Committee on Small Business"
    "name" : "Committee on Small Business"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +94,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-02-25T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=761171&GUID=92EB4A8B-5603-4C04-80B5-43B1BE995FD1&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yMDAyMjUtMTAxODA1Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=761171&GUID=92EB4A8B-5603-4C04-80B5-43B1BE995FD1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=761171&GUID=92EB4A8B-5603-4C04-80B5-43B1BE995FD1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17818"
