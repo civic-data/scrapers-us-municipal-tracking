@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5909\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:30 a.m.   Landmarks Preservation Commission\r\n\r\n"
+   "description" : "Preliminary Budget Hearing - Land Use"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Land Use"
+   "name" : "Committee on Land Use"
+      "name" : "Committee Room - City Hall"
+               "name" : "T2020-5909"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+   "participants" : [
+   "pupa_id" : "17902"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-16T15:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=765027&GUID=6111B588-5315-4BC6-9329-33BDCFBFBD8F&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=765027&GUID=6111B588-5315-4BC6-9329-33BDCFBFBD8F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17902"

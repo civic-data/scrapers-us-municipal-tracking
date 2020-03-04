@@ -1,0 +1,120 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"M 0217-2020\"}"
+               "bill_id" : "~{\"identifier\": \"M 0218-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "Communication from the Mayor - Submitting the name of Nisha Agarwal to the Council for its advice and consent concerning her appointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter."
+         "description" : "Communication from the Mayor - Submitting the name of Wayne Hawley to the Council for its advice and consent concerning his appointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter."
+         "description" : "Continuation of the February 25, 2020 - Recessed Meeting"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Continuation of the February 25, 2020 Recessed Meeting"
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+      "name" : "Council Chambers - City Hall"
+               "name" : "M 0217-2020"
+               "name" : "M 0218-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "17903"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-02-27T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=765044&GUID=186436A1-531A-4CFC-8F9B-F82B256E2208&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAyMjctMTA0OTI0Lm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=765044&GUID=186436A1-531A-4CFC-8F9B-F82B256E2208"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=765044&GUID=186436A1-531A-4CFC-8F9B-F82B256E2208"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17903"

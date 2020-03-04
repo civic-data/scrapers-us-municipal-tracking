@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5933\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Health"
+         "description" : "Oversight - New York City’s preparations for Coronavirus/COVID-19."
+   "description" : "Oversight - New York City’s preparations for Coronavirus/COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+         "name" : "Committee on Hospitals"
+   "name" : "Committee on Hospitals"
+      "name" : "Council Chambers - City Hall"
+               "name" : "T2020-5933"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+   "participants" : [
+   "pupa_id" : "17904"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-03-05T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=765795&GUID=98E3015F-BE05-423A-B611-CD3925DA550A&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=765795&GUID=98E3015F-BE05-423A-B611-CD3925DA550A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17904"
