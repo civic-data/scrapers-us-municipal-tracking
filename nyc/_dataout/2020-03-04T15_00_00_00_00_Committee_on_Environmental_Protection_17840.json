@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -14,6 +18,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.           Department of Environmental Protection\r\n12:30 p.m.           Public"
    "description" : "Preliminary Budget Hearing - Environmental Protection"
    "documents" : [
@@ -37,11 +44,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Environmental Protection"
    "name" : "Committee on Environmental Protection"
       "name" : "Committee Room - City Hall"
@@ -51,6 +60,7 @@
          "note" : "api"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +70,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-03-04T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762146&GUID=454CD80F-FDF5-4C7E-83C7-80D4091C233C&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762146&GUID=454CD80F-FDF5-4C7E-83C7-80D4091C233C"
+               "url" : "https://legistar.council.nyc.gov/Webcasts/Default.aspx?From=InSite&LocationID=2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17840"

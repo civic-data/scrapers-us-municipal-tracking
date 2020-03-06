@@ -13,8 +13,6 @@
       {
       {
       {
-      {
-      }
       }
       }
       }
@@ -64,7 +62,6 @@
          "note" : "participant"
          "note" : "Recording"
          "notes" : []
-         "note" : "web"
          "order" : "0"
          "organization_id" : "~{\"name\": \"Subcommittee on Zoning and Franchises\"}"
    "participants" : [
@@ -77,7 +74,6 @@
                "text" : ""
                "text" : ""
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749777&GUID=ACF1152F-7ABD-440E-B460-EA5D5F6E8635&Options=info&Search="
                "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAyMTItMTAxNDA3Lm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=749777&GUID=ACF1152F-7ABD-440E-B460-EA5D5F6E8635"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=749777&GUID=ACF1152F-7ABD-440E-B460-EA5D5F6E8635"
