@@ -1,0 +1,136 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0810-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1635-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1737-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1745-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1760-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to after hours work authorization"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring multiple dwelling owners to provide notice to their tenants prior to temporarily or permanently making building amenities unavailable"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to tenant data privacy"
+         "description" : "A Local Law to amend the New York city building code, in relation to requiring newly constructed multiple dwellings to provide adequate space to store and sort organic waste"
+         "description" : "A Local Law to amend the New York city charter and the New York city building code in relation to the display of artwork on temporary protective structures on construction sites"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "250 Broadway - Committee Rm, 14th Fl."
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+               "name" : "Int 0810-2018"
+               "name" : "Int 1635-2019"
+               "name" : "Int 1737-2019"
+               "name" : "Int 1745-2019"
+               "name" : "Int 1760-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "17734"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-23T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=751456&GUID=278F07D4-FD20-49E9-A3B0-56C40557A472&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=751456&GUID=278F07D4-FD20-49E9-A3B0-56C40557A472"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17734"
