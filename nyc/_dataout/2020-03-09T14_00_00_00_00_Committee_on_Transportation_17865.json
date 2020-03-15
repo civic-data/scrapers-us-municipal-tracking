@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -14,6 +18,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Capital Budget for Fiscal Year 2021-2024, The Preliminary Capital Commitment Plan for Fiscal Year 2020-2024 and The Fiscal 2020 Preliminary Mayor’s Management Report\r\n\r\n\r\n  10:30 a.m.   MTA/NYC Transit\r\n*11:00 a.m.   Department of Transportation\r\n    1:00 p.m.   Taxi and Limousine Commission\r\n    2:00 p.m.   Public\r\n\r\n* Jointly with the Subcommittee on Capital Budget"
    "description" : "Preliminary Budget Hearing - Transportation"
    "documents" : [
@@ -37,11 +44,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
       "name" : "Council Chambers - City Hall"
@@ -51,6 +60,7 @@
          "note" : "api"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +70,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-03-09T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=762267&GUID=03204E87-658F-4EB6-A653-5581F63918E2&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLUNILUNIQV8yMDAzMDktMTAxMzIyLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=762267&GUID=03204E87-658F-4EB6-A653-5581F63918E2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17865"
