@@ -1,0 +1,240 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1854-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5972\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5988\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5990\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5992\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5994\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5996\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-5998\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6000\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6003\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6015\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "1898 Harrison Avenue.GHPP.FY20, Block 2869, Lot 87; Bronx, Community District No. 5, Council District No. 14."
+         "description" : "757 East 169th Street, Block 2961, Lot 15; Bronx, Community District No. 3, Council District No. 17."
+         "description" : "A Local Law in relation to the date by which the council shall hold hearings and submit recommendations in regard to the preliminary budget, relating to the fiscal year two thousand twenty-one"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to authorizing an increase in the amount to be expended annually in the Downtown Flushing Transit Hub business improvement district, an extension of the boundaries of such district, the provision of additional services and the modification of existing services in such district, a change in the method of assessment upon which the district charge is based, and an increase in the maximum total amount to be expended for improvements in such district."
+         "description" : "Belmont Daniel, Block 20, Lot 8; Staten Island, Community District No. 1, Council District No. 49."
+         "description" : "Grace Senior Housing, Block 9754, Lot 1; Queens, Community District No. 12, Council District No. 24."
+         "description" : "Howard Amron House, Block 1627, Lot 43; Manhattan, Community District No. 11, Council District No. 5."
+         "description" : "HP Morningside Heights Portfolio HDFC.YR15.FY20, Block 1831, Lots 8, 9, 13, 14, 18, and 121; Block 1848, Lots 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17 and 18; Block 1860, Lots 31, 32, and 33; Block 1861, Lots 59, 60, and 61; Block 1862, Lot 2; Block 1863, Lots 45, 46, 54, 55, and 56; Block 1880, Lots 37, 39, 42, and 44; Block 1881, Lots 7, 8, 9, 10, 11, 12, 15, 19, 24, 25, 26, 27, and 28; Manhattan, Community District Nos. 12 and 10, Council District Nos. 7 and 9."
+         "description" : "Manhattan Ave Apartments, Block 1843, Lot 20; Manhattan, Community District No. 7, Council District No. 7."
+         "description" : "Schreiber, Block 2047, Lots 21, 23 and 25; Block 2054, Lots 12 and 15; Manhattan, Community District Nos. 9 and 10, Council District No. 9."
+         "description" : "Turin House, Block 1203, Lot 1; Manhattan, Community District No. 7, Council District No. 6."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "Committee Room - City Hall"
+               "name" : "Int 1854-2020"
+               "name" : "T2020-5972"
+               "name" : "T2020-5988"
+               "name" : "T2020-5990"
+               "name" : "T2020-5992"
+               "name" : "T2020-5994"
+               "name" : "T2020-5996"
+               "name" : "T2020-5998"
+               "name" : "T2020-6000"
+               "name" : "T2020-6003"
+               "name" : "T2020-6015"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "10"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "order" : "8"
+         "order" : "9"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17912"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-03-18T14:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=769975&GUID=23F682FD-438C-4D00-8B88-C59AE0986A2F&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=769975&GUID=23F682FD-438C-4D00-8B88-C59AE0986A2F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17912"
