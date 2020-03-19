@@ -44,7 +44,7 @@
                "media_type" : "application/pdf"
          "name" : "Committee on Criminal Justice"
    "name" : "Committee on Criminal Justice"
-      "name" : "Committee Room - City Hall"
+      "name" : "Council Chambers - City Hall"
                "name" : "T2020-5786"
       "note" : ""
          "note" : "Agenda"
@@ -60,7 +60,7 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-03-16T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "cancelled"
          "subjects" : []
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=764167&GUID=7B88AF13-2294-4344-8DFF-5C697C98DF91&Options=info&Search="
