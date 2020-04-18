@@ -1,0 +1,54 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Agenda – 1:30 p.m."
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "REMOTE STATED MEETING"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "17921"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-04-22T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=775289&GUID=1E5D9967-C29D-4DD7-AE39-3160AE4271F5&Options=info&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=775289&GUID=1E5D9967-C29D-4DD7-AE39-3160AE4271F5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17921"
