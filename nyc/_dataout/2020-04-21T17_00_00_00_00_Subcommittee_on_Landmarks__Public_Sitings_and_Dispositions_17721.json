@@ -56,6 +56,6 @@
    "status" : "cancelled"
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749823&GUID=93831E33-189C-4232-A4F0-DFDAA379C8FA&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=749823&GUID=93831E33-189C-4232-A4F0-DFDAA379C8FA&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=749823&GUID=93831E33-189C-4232-A4F0-DFDAA379C8FA"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17721"

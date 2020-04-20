@@ -471,6 +471,6 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=775298&GUID=8A170CA4-1345-4661-84DD-33FFE355AFEE&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=775298&GUID=8A170CA4-1345-4661-84DD-33FFE355AFEE&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=775298&GUID=8A170CA4-1345-4661-84DD-33FFE355AFEE"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17923"

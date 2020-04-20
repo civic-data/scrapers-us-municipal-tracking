@@ -59,6 +59,6 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746785&GUID=EB392C8D-1D86-4CEA-A42B-1300C1A89D29&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746785&GUID=EB392C8D-1D86-4CEA-A42B-1300C1A89D29&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746785&GUID=EB392C8D-1D86-4CEA-A42B-1300C1A89D29"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17680"

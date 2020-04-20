@@ -235,6 +235,6 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=769975&GUID=23F682FD-438C-4D00-8B88-C59AE0986A2F&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=769975&GUID=23F682FD-438C-4D00-8B88-C59AE0986A2F&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=769975&GUID=23F682FD-438C-4D00-8B88-C59AE0986A2F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17912"

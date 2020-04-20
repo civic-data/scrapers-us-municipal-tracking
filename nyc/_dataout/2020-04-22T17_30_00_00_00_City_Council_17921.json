@@ -49,6 +49,6 @@
    "status" : "confirmed"
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=775289&GUID=1E5D9967-C29D-4DD7-AE39-3160AE4271F5&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=775289&GUID=1E5D9967-C29D-4DD7-AE39-3160AE4271F5&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=775289&GUID=1E5D9967-C29D-4DD7-AE39-3160AE4271F5"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17921"
