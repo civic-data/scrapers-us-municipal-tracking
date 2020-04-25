@@ -1,0 +1,432 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Motion 0001-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Motion 0002-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "Invocation"
+         "description" : "MEETING IN RECESS UNTIL 3:00 PM"
+         "description" : "Motion to amend the Rules of the Council pursuant to Rule 10.20 in relation to certain emergency measures to respond to the public health risk posed by the COVID 19 Coronavirus."
+         "description" : "Motion to Recess"
+         "description" : "Roll Call"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "entity_type" : "person"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Adrienne E. Adams"
+         "name" : "Alan N. Maisel"
+         "name" : "Alicka Ampry-Samuel"
+         "name" : "Andrew Cohen"
+         "name" : "Andy L. King"
+         "name" : "Antonio Reynoso"
+         "name" : "Barry S. Grodenchik"
+         "name" : "Ben Kallos"
+         "name" : "Bill Perkins"
+         "name" : "Brad S. Lander"
+         "name" : "Carlina Rivera"
+         "name" : "Carlos Menchaca"
+         "name" : "Chaim M. Deutsch"
+   "name" : "City Council"
+         "name" : "Corey D. Johnson"
+         "name" : "Costa G. Constantinides"
+         "name" : "Daniel Dromm"
+         "name" : "Deborah L. Rose"
+         "name" : "Diana Ayala"
+         "name" : "Donovan J. Richards"
+         "name" : "Eric A. Ulrich"
+         "name" : "Farah N. Louis"
+         "name" : "Fernando Cabrera"
+         "name" : "Francisco P. Moya"
+         "name" : "Helen K. Rosenthal"
+         "name" : "I. Daneek Miller"
+         "name" : "Inez D. Barron"
+         "name" : "James G. Van Bramer"
+         "name" : "Joseph C. Borelli"
+         "name" : "Justin L. Brannan"
+         "name" : "Kalman Yeger"
+         "name" : "Karen Koslowitz"
+         "name" : "Keith Powers"
+         "name" : "Laurie A. Cumbo"
+         "name" : "Margaret S. Chin"
+         "name" : "Mark Gjonaj"
+         "name" : "Mark Levine"
+         "name" : "Mark Treyger"
+         "name" : "Mathieu Eugene"
+               "name" : "Motion 0001-2020"
+               "name" : "Motion 0002-2020"
+         "name" : "Paul A. Vallone"
+         "name" : "Peter A. Koo"
+         "name" : "Rafael Salamanca, Jr."
+      "name" : "REMOTE HEARING"
+         "name" : "Ritchie J. Torres"
+         "name" : "Robert E. Cornegy, Jr."
+         "name" : "Robert F. Holden"
+         "name" : "Rory I. Lancman"
+         "name" : "Ruben Diaz, Sr."
+         "name" : "Stephen T. Levin"
+         "name" : "Steven Matteo"
+         "name" : "Vanessa L. Gibson"
+         "name" : "Ydanis A. Rodriguez"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+   "participants" : [
+         "person_id" : "~{\"name\": \"Adrienne E. Adams\"}"
+         "person_id" : "~{\"name\": \"Alan N. Maisel\"}"
+         "person_id" : "~{\"name\": \"Alicka Ampry-Samuel\"}"
+         "person_id" : "~{\"name\": \"Andrew Cohen\"}"
+         "person_id" : "~{\"name\": \"Andy L. King\"}"
+         "person_id" : "~{\"name\": \"Antonio Reynoso\"}"
+         "person_id" : "~{\"name\": \"Barry S. Grodenchik\"}"
+         "person_id" : "~{\"name\": \"Ben Kallos\"}"
+         "person_id" : "~{\"name\": \"Bill Perkins\"}"
+         "person_id" : "~{\"name\": \"Brad S. Lander\"}"
+         "person_id" : "~{\"name\": \"Carlina Rivera\"}"
+         "person_id" : "~{\"name\": \"Carlos Menchaca\"}"
+         "person_id" : "~{\"name\": \"Chaim M. Deutsch\"}"
+         "person_id" : "~{\"name\": \"Corey D. Johnson\"}"
+         "person_id" : "~{\"name\": \"Costa G. Constantinides\"}"
+         "person_id" : "~{\"name\": \"Daniel Dromm\"}"
+         "person_id" : "~{\"name\": \"Deborah L. Rose\"}"
+         "person_id" : "~{\"name\": \"Diana Ayala\"}"
+         "person_id" : "~{\"name\": \"Donovan J. Richards\"}"
+         "person_id" : "~{\"name\": \"Eric A. Ulrich\"}"
+         "person_id" : "~{\"name\": \"Farah N. Louis\"}"
+         "person_id" : "~{\"name\": \"Fernando Cabrera\"}"
+         "person_id" : "~{\"name\": \"Francisco P. Moya\"}"
+         "person_id" : "~{\"name\": \"Helen K. Rosenthal\"}"
+         "person_id" : "~{\"name\": \"I. Daneek Miller\"}"
+         "person_id" : "~{\"name\": \"Inez D. Barron\"}"
+         "person_id" : "~{\"name\": \"James G. Van Bramer\"}"
+         "person_id" : "~{\"name\": \"Joseph C. Borelli\"}"
+         "person_id" : "~{\"name\": \"Justin L. Brannan\"}"
+         "person_id" : "~{\"name\": \"Kalman Yeger\"}"
+         "person_id" : "~{\"name\": \"Karen Koslowitz\"}"
+         "person_id" : "~{\"name\": \"Keith Powers\"}"
+         "person_id" : "~{\"name\": \"Laurie A. Cumbo\"}"
+         "person_id" : "~{\"name\": \"Margaret S. Chin\"}"
+         "person_id" : "~{\"name\": \"Mark Gjonaj\"}"
+         "person_id" : "~{\"name\": \"Mark Levine\"}"
+         "person_id" : "~{\"name\": \"Mark Treyger\"}"
+         "person_id" : "~{\"name\": \"Mathieu Eugene\"}"
+         "person_id" : "~{\"name\": \"Paul A. Vallone\"}"
+         "person_id" : "~{\"name\": \"Peter A. Koo\"}"
+         "person_id" : "~{\"name\": \"Rafael Salamanca, Jr.\"}"
+         "person_id" : "~{\"name\": \"Ritchie J. Torres\"}"
+         "person_id" : "~{\"name\": \"Robert E. Cornegy, Jr.\"}"
+         "person_id" : "~{\"name\": \"Robert F. Holden\"}"
+         "person_id" : "~{\"name\": \"Rory I. Lancman\"}"
+         "person_id" : "~{\"name\": \"Ruben Diaz, Sr.\"}"
+         "person_id" : "~{\"name\": \"Stephen T. Levin\"}"
+         "person_id" : "~{\"name\": \"Steven Matteo\"}"
+         "person_id" : "~{\"name\": \"Vanessa L. Gibson\"}"
+         "person_id" : "~{\"name\": \"Ydanis A. Rodriguez\"}"
+   "pupa_id" : "17935"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+         "related_entities" : []
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-04-22T17:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=782586&GUID=13EB4AF7-1047-4D27-9FE2-6A8284D5D2EC&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPWZ2YVNYYWlpYUs2dw%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=782586&GUID=13EB4AF7-1047-4D27-9FE2-6A8284D5D2EC"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=782586&GUID=13EB4AF7-1047-4D27-9FE2-6A8284D5D2EC"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17935"

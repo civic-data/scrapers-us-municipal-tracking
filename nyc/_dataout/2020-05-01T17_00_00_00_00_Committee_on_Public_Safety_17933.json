@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6105\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Women and Gender Equity"
+         "description" : "Oversight - The Impact of Coronavirus (COVID-19) on Domestic Violence in New York City."
+   "description" : "Oversight - The Impact of Coronavirus (COVID-19) on Domestic Violence in New York City."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+         "name" : "Committee on Women and Gender Equity"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6105"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "17933"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-01T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=782367&GUID=AAFC7E84-E9DC-46AE-80E4-02F93B6CDE7E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=782367&GUID=AAFC7E84-E9DC-46AE-80E4-02F93B6CDE7E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17933"
