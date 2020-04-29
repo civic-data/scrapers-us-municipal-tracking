@@ -1,16 +1,12 @@
             {
             {
             {
-            {
-            }
             }
             }
             }
          ]
          ]
          ]
-         ]
-      {
       {
       {
       {
@@ -23,8 +19,6 @@
       }
       }
       }
-      }
-   ]
    ]
    ]
    ]
@@ -40,7 +34,6 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
-         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to temporary space for pedestrians and cyclists"
    "description" : "COVID-19 Relief Package - Temporary space for pedestrians and cyclists."
    "documents" : [
@@ -51,14 +44,12 @@
    "extras" : {}
          "links" : [
          "links" : [
-         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : [
+   "media" : []
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
-               "media_type" : "text/html"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
                "name" : "Int 1933-2020"
@@ -69,7 +60,6 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
-         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -83,9 +73,7 @@
          "subjects" : []
                "text" : ""
                "text" : ""
-               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=781565&GUID=1AA71471-5233-4E76-97AA-D6B02CC040C8&Options=info|&Search="
-               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9saXZlc3RyZWFtLmNvbS9ueWNjb3VuY2lsL2V2ZW50cy85MDgxODQ0L3ZpZGVvcy8yMDUwNTUxNDE%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=781565&GUID=1AA71471-5233-4E76-97AA-D6B02CC040C8"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=781565&GUID=1AA71471-5233-4E76-97AA-D6B02CC040C8"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17926"

@@ -1,12 +1,15 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -15,6 +18,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -40,6 +45,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to ceasing the taking and restitution of property and the execution of money judgments by the city sheriff and marshals due to the impacts of COVID-19"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to amending the definition of harassment to include threats based on a person having been impacted by COVID-19"
@@ -55,12 +61,14 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
@@ -73,6 +81,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -91,11 +100,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-04-28T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=782337&GUID=03C255DE-CC2B-4FCD-B987-1880AA31906F&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=782337&GUID=03C255DE-CC2B-4FCD-B987-1880AA31906F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=782337&GUID=03C255DE-CC2B-4FCD-B987-1880AA31906F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17931"
