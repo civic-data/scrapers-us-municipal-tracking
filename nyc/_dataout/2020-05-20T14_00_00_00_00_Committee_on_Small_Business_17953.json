@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6136\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Small Business"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00  - 11:00     Small Business Services\r\n\r\n\r\nJointly with the Committee on Finance\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on Small Business"
+   "name" : "Committee on Small Business"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6136"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "17953"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-20T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783240&GUID=A9E1041E-6B0E-41ED-AD1D-CF5F2772FE15&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783240&GUID=A9E1041E-6B0E-41ED-AD1D-CF5F2772FE15"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17953"

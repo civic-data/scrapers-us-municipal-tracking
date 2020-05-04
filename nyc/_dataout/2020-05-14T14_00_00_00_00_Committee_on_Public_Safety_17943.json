@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6126\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Public Safety"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n10:00  - 12:00     Police\r\n\r\n\r\nJointly with the Committee on Finance "
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6126"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "17943"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-14T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783198&GUID=6D7B527A-48AF-4000-BA17-6CA9C5400764&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783198&GUID=6D7B527A-48AF-4000-BA17-6CA9C5400764"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17943"

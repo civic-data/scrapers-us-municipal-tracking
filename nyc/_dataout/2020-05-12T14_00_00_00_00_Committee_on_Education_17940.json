@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6123\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Education"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 -  12:00      Education                                 \r\n\r\n\r\nJointly with the Committee on Finance"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+         "name" : "Committee on Finance"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6123"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17940"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-12T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783182&GUID=0D954AA7-3577-462C-8B8F-B5A472AA0882&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783182&GUID=0D954AA7-3577-462C-8B8F-B5A472AA0882"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17940"

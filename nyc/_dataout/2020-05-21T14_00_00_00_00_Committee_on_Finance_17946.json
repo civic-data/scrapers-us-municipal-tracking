@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6129\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Finance"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 A.M - Public Testimony Begins                     \r\n\r\n\r\nJointly with the Subcommittee on Capital Budget"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "PUBLIC TESTIMONY"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6129"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17946"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-21T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783213&GUID=B1C3DD4C-66E2-4ADC-B09C-8577BB0FDFFC&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783213&GUID=B1C3DD4C-66E2-4ADC-B09C-8577BB0FDFFC"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17946"

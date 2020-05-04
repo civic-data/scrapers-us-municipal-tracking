@@ -1,0 +1,163 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1918-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1923-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1926-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1285-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6139\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6145\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to premiums for essential workers."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to just cause employment protections for essential workers."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring health insurance coverage for surviving family members of municipal employees who died as a result of a complication related to the coronavirus disease, COVID-19."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the expansion of worker coverage under the Earned Safe and Sick Time Act, and to repeal subdivision f of section 20-913 of such code, relating to exemptions from coverage under the Act, and the undesignated paragraph defining “employee” in section 20-912 of such code."
+         "description" : "page break"
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation automatically classifying the deaths of all municipal employees who died from COVID-19 as line-of-duty deaths."
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation clarifying the test for classification of workers as independent contractors or employees by extending the test set forth in Articles 25-B and 25-C of the New York Labor Law to apply to all workers."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+               "name" : "Int 1918-2020"
+               "name" : "Int 1923-2020"
+               "name" : "Int 1926-2020"
+      "name" : "REMOTE HEARING"
+               "name" : "Res 1285-2020"
+               "name" : "T2020-6139"
+               "name" : "T2020-6145"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+   "participants" : [
+   "pupa_id" : "17957"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-05T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783249&GUID=BE5553F2-B57A-4F64-9671-52BBD1CEEE0B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783249&GUID=BE5553F2-B57A-4F64-9671-52BBD1CEEE0B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17957"

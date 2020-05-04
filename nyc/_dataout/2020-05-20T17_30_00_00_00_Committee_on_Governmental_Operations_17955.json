@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6138\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Governmental Operations"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n1:30  -   2:30     Citywide Administrative Services \r\n\r\n \r\nJointly with the Committee on Finance\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6138"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "17955"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-20T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783242&GUID=8C302901-FAFF-47F7-A9E3-5709A6F6081B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783242&GUID=8C302901-FAFF-47F7-A9E3-5709A6F6081B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17955"

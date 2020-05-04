@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6127\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Aging"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n1:30  -   2:30     Aging\r\n\r\n\r\nJointly with the Committee on Finance\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+   "name" : "Committee on Aging"
+         "name" : "Committee on Finance"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6127"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "17944"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-14T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783199&GUID=ADA2D85E-978D-4E7A-9EDC-68196E4089BE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783199&GUID=ADA2D85E-978D-4E7A-9EDC-68196E4089BE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17944"

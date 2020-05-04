@@ -1,0 +1,86 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6125\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Finance"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n  *10:00  - 12:00     Police\r\n  **1:30  -   2:30     Aging\r\n***3:00  -   4:00     Sanitation \r\n\r\n\r\n   *Jointly with the Committee on Public Safety\r\n\r\n **Jointly with the Committee on Aging\r\n\r\n***Jointly with the Committee on Sanitation & Solid Waste Management\r\n\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+         "name" : "Committee on Public Safety"
+         "name" : "Committee on Sanitation and Solid Waste Management"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6125"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+         "organization_id" : "~{\"name\": \"Committee on Sanitation and Solid Waste Management\"}"
+   "participants" : [
+   "pupa_id" : "17942"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-14T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783194&GUID=A55F7F3C-244C-4D4E-A807-E1BDF0CA4163&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783194&GUID=A55F7F3C-244C-4D4E-A807-E1BDF0CA4163"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17942"
