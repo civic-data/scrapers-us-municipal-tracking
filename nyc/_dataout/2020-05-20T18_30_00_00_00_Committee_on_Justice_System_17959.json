@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6154\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Justice System"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n2:30  -   3:30     District Attorneys\r\n3:45  -   4:15     Office of Civil Justice (Human \r\n                                    Resources Administration)\r\n4:30  -   5:00     Criminal Justice Coordinator\r\n5:15  -   5:45     Legal Aid\r\n\r\n\r\n\r\nJointly with the Committee on Finance\r\n\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on Justice System"
+   "name" : "Committee on Justice System"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6154"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+   "participants" : [
+   "pupa_id" : "17959"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-20T18:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=786512&GUID=86A3351A-25CD-4213-9445-A4478FB669E6&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=786512&GUID=86A3351A-25CD-4213-9445-A4478FB669E6"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17959"
