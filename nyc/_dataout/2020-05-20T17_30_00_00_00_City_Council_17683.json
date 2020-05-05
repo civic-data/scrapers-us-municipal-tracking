@@ -55,10 +55,10 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-20T17:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "cancelled"
          "subjects" : []
          "subjects" : []
                "text" : ""
-         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746788&GUID=7680C52E-8BD3-45DD-B482-A93AACD81303&Options=info&Search="
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=746788&GUID=7680C52E-8BD3-45DD-B482-A93AACD81303&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=746788&GUID=7680C52E-8BD3-45DD-B482-A93AACD81303"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17683"
