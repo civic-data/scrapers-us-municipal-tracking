@@ -1,15 +1,20 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -30,6 +35,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : "Executive Budget Hearings - Finance"
          "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n  10:00  -   1:00      Office of Management & Budget \r\n    2:00  -   3:00      Independent Budget Office\r\n    3:30  -   4:30      Design & Construction\r\n    \r\n   \r\nJointly with the Subcommittee on Capital Budget"
    "documents" : [
@@ -40,10 +46,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
@@ -54,6 +62,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -66,9 +75,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-05-06T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783163&GUID=6B7953D3-0110-4B9D-9533-C5DF58FF23DE&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783163&GUID=6B7953D3-0110-4B9D-9533-C5DF58FF23DE"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783163&GUID=6B7953D3-0110-4B9D-9533-C5DF58FF23DE"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17938"
