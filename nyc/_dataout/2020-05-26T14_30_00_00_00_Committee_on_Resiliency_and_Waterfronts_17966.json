@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6167\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing "
+         "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
+   "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+         "name" : "Committee on Resiliency and Waterfronts"
+   "name" : "Committee on Resiliency and Waterfronts"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6167"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts\"}"
+   "participants" : [
+   "pupa_id" : "17966"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-26T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17966"

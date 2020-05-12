@@ -1,0 +1,80 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6176\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Justice System"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n12:30  -   1:00     Office of Civil Justice (Human \r\n                                 Resources Administration)\r\n\r\n\r\nJointly with the Committee on Finance and \r\n       the Committee on General Welfare\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on General Welfare"
+         "name" : "Committee on Justice System"
+   "name" : "Committee on Justice System"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6176"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+   "participants" : [
+   "pupa_id" : "17975"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-18T16:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=788836&GUID=C3157794-03D2-47A0-9D8D-D6F3EAE45553&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=788836&GUID=C3157794-03D2-47A0-9D8D-D6F3EAE45553"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17975"
