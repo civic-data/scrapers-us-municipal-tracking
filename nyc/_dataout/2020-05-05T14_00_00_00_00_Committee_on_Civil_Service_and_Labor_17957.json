@@ -6,6 +6,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -22,6 +24,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -46,6 +50,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -70,6 +76,7 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
          "date" : ""
          "date" : ""
    "description" : ""
@@ -99,6 +106,7 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -108,9 +116,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Civil Service and Labor"
    "name" : "Committee on Civil Service and Labor"
                "name" : "Int 1918-2020"
@@ -131,6 +140,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -168,7 +178,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783249&GUID=BE5553F2-B57A-4F64-9671-52BBD1CEEE0B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPU4yajhKdkRnMWVaQw%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783249&GUID=BE5553F2-B57A-4F64-9671-52BBD1CEEE0B"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783249&GUID=BE5553F2-B57A-4F64-9671-52BBD1CEEE0B"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17957"

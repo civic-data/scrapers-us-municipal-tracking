@@ -12,8 +12,6 @@
       {
       {
       {
-      {
-      }
       }
       }
       }
@@ -45,7 +43,6 @@
          "entity_type" : "organization"
          "entity_type" : "organization"
          "entity_type" : "organization"
-         "entity_type" : "organization"
          "extras" : {}
    "extras" : {}
          "links" : [
@@ -59,14 +56,12 @@
          "name" : "Committee on Governmental Operations"
          "name" : "Committee on Justice System"
          "name" : "Committee on Small Business"
-         "name" : "Committee on Youth Services"
       "name" : "REMOTE HEARING"
                "name" : "T2020-6135"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
-         "note" : "participant"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -78,7 +73,6 @@
          "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
          "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
          "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
-         "organization_id" : "~{\"name\": \"Committee on Youth Services\"}"
    "participants" : [
    "pupa_id" : "17952"
          "related_entities" : [

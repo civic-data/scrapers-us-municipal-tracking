@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -29,6 +33,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -48,6 +54,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Application No. 20200140 PPM (266 West 96th Street) submitted by the Department of Housing Preservation and Development pursuant to Section 197-c of New York City Charter, for the disposition of one city-owned property located at 266 West 96th Street (Block 1243, Lot 57), Borough of Manhattan, Council District 6, Community District 7."
          "description" : "Application No. 20205384 HAX (993-995 Union Avenue Cluster) submitted by the New York City Department of Housing Preservation and Development pursuant to Article 16 of the General Municipal Law and Article XI of the Private Housing Finance Law, requesting the waiver of the designation requirements and approval of an urban development action area project, and requesting an exemption from real property taxes for property located at 993 and 995 Union Avenue (Block 2669, Lots 40 and 41), 774 Union Avenue (Block 2676, Lot 36), 1042 Longfellow Avenue (Block 2756, Lot 71), Borough of the Bronx, Council District 17, Community Districts 1, 2, and 3."
@@ -64,14 +71,16 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
                "name" : "LU 0659-2020"
                "name" : "LU 0660-2020"
                "name" : "LU 0661-2020"
@@ -86,6 +95,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -107,7 +117,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=782509&GUID=04977E69-2055-4084-BFC4-D25F6F0DCBB6&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPUVjeW5NTUYzUTBiWQ%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=782509&GUID=04977E69-2055-4084-BFC4-D25F6F0DCBB6"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=782509&GUID=04977E69-2055-4084-BFC4-D25F6F0DCBB6"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17934"
