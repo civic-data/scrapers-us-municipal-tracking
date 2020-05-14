@@ -12,6 +12,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -43,6 +45,7 @@
          "entity_type" : "organization"
          "entity_type" : "organization"
          "entity_type" : "organization"
+         "entity_type" : "organization"
          "extras" : {}
    "extras" : {}
          "links" : [
@@ -55,6 +58,7 @@
    "name" : "Committee on Finance"
          "name" : "Committee on Governmental Operations"
          "name" : "Committee on Justice System"
+         "name" : "Committee on Public Safety"
          "name" : "Committee on Small Business"
       "name" : "REMOTE HEARING"
                "name" : "T2020-6135"
@@ -66,12 +70,14 @@
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "participant"
          "notes" : []
          "note" : "web"
          "order" : "0"
          "organization_id" : "~{\"name\": \"Committee on Finance\"}"
          "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
          "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
          "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
    "participants" : [
    "pupa_id" : "17952"
