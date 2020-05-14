@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1916-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6107\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to license, permit, consent and registration renewal extensions, and requiring at least 45 days notice for renewal following the COVID-19 emergency."
+         "description" : "A Local Law in relation to requiring the waiver and refund of certain sidewalk cafe revocable consent fees, and providing for the repeal of such provision upon the expiration thereof"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+   "name" : "Committee on Consumer Affairs and Business Licensing"
+               "name" : "Int 1916-2020"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6107"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+   "participants" : [
+   "pupa_id" : "17973"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-13T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787282&GUID=19B3B76C-41A5-4253-87D6-40941D27D112&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787282&GUID=19B3B76C-41A5-4253-87D6-40941D27D112"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17973"

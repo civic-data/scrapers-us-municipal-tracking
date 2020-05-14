@@ -1,0 +1,80 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6179\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Executive Budget Hearings - Public Safety"
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n3:00  -   4:15     District Attorneys\r\n\r\n\r\nJointly with the Committee on Finance and \r\n      the Committee on Justice System\r\n\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+         "name" : "Committee on Justice System"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6179"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Justice System\"}"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "17979"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-20T19:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789066&GUID=C7B8FA0E-F9FB-4B6E-934E-125392BB691F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789066&GUID=C7B8FA0E-F9FB-4B6E-934E-125392BB691F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17979"
