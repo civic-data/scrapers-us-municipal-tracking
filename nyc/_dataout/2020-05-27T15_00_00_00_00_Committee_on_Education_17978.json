@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6177\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Remote Learning: The Impact of Coronavirus (COVID-19) on the City's Schools"
+   "description" : "Oversight - Remote Learning: The Impact of Coronavirus (COVID-19) on the City's Schools"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+      "name" : "REMOTE HEARING"
+               "name" : "T2020-6177"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+   "participants" : [
+   "pupa_id" : "17978"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-27T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=788956&GUID=1793E289-B7F2-4343-AE3C-D6FA542A2660&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=788956&GUID=1793E289-B7F2-4343-AE3C-D6FA542A2660"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17978"

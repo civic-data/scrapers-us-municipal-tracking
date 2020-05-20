@@ -1,0 +1,124 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6169\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6197\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6198\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a comprehensive cooling and communication plan."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to annual reporting of heat vulnerability and heat-related deaths."
+         "description" : "Jointly with the Committee on Resiliency and Waterfronts and  the Committee on Consumer Affairs and Business Licensing, and the Committee on Environmental Protection"
+         "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+         "name" : "Committee on Resiliency and Waterfronts and  the Committee on Consumer Affairs and Business Licensing,"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6169"
+               "name" : "T2020-6197"
+               "name" : "T2020-6198"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts and  the Committee on Consumer Affairs and Business Licensing,\"}"
+   "participants" : [
+   "pupa_id" : "17968"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-26T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787229&GUID=FD34F2E1-D069-4119-8703-6DC6481D02D3&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787229&GUID=FD34F2E1-D069-4119-8703-6DC6481D02D3"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17968"

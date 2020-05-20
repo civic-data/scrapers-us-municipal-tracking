@@ -1,0 +1,71 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "All items reported out of the Subcommittees "
+         "description" : "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Land Use"
+   "name" : "Committee on Land Use"
+      "name" : "REMOTE HEARING"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+   "participants" : [
+   "pupa_id" : "17982"
+         "related_entities" : []
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-05-27T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789132&GUID=04E3285D-0192-41FF-A148-69C42A82F9DD&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789132&GUID=04E3285D-0192-41FF-A148-69C42A82F9DD"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17982"
