@@ -11,6 +11,10 @@
       {
       {
       {
+      {
+      {
+      }
+      }
       }
       }
       }
@@ -33,12 +37,14 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+   "description" : ""
          "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing "
          "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
-   "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
          "entity_type" : "organization"
          "entity_type" : "organization"
          "extras" : {}
@@ -52,6 +58,8 @@
    "media" : []
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing"
+         "name" : "Committee on Environmental Protection"
+         "name" : "Committee on Health"
          "name" : "Committee on Resiliency and Waterfronts"
    "name" : "Committee on Resiliency and Waterfronts"
       "name" : "REMOTE HEARING"
@@ -62,12 +70,16 @@
                "note" : "consideration"
          "note" : "participant"
          "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
          "notes" : []
          "notes" : []
          "note" : "web"
          "order" : "0"
          "order" : "1"
          "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
          "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts\"}"
    "participants" : [
    "pupa_id" : "17966"

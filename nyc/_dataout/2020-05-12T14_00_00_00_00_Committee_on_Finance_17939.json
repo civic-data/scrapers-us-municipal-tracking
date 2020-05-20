@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -23,6 +27,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -38,6 +44,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : "Executive Budget Hearings - Finance"
          "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n *10:00 -  12:00      Education                                  \r\n **1:00 -    2:30      Transportation\r\n **3:00 -    4:00      MTA NYC Transit\r\n\r\n\r\n   *Jointly with the Committee on Education\r\n\r\n** Jointly with the Committee on Transportation"
    "documents" : [
@@ -50,12 +57,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Education"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
@@ -70,6 +79,7 @@
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -85,7 +95,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783176&GUID=39F7B0E1-250E-4CBE-A698-2089F2A1D609&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1Db21taXR0ZWUlMjBvbiUyMEZpbmFuY2UlMjB3JTIwRWR1Y2F0aW9uJTIwYW5kJTIwVHJhbnNwb3J0YXRpb24lMjAtJTIwMDUxMjIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783176&GUID=39F7B0E1-250E-4CBE-A698-2089F2A1D609"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783176&GUID=39F7B0E1-250E-4CBE-A698-2089F2A1D609"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17939"

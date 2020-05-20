@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -10,12 +16,17 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -30,6 +41,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : "Executive Budget Hearings - Education"
          "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 -  12:00      Education                                 \r\n\r\n\r\nJointly with the Committee on Finance"
    "documents" : [
@@ -40,11 +53,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Education"
    "name" : "Committee on Education"
          "name" : "Committee on Finance"
@@ -54,8 +71,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -69,6 +88,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783182&GUID=0D954AA7-3577-462C-8B8F-B5A472AA0882&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1Db21taXR0ZWUlMjBvbiUyMEZpbmFuY2UlMjB3JTIwRWR1Y2F0aW9uJTIwYW5kJTIwVHJhbnNwb3J0YXRpb24lMjAtJTIwMDUxMjIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783182&GUID=0D954AA7-3577-462C-8B8F-B5A472AA0882"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783182&GUID=0D954AA7-3577-462C-8B8F-B5A472AA0882"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17940"
