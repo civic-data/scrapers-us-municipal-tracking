@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -21,6 +25,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -36,6 +42,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : "Executive Budget Hearings - Parks and Recreation"
          "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n3:00  -   4:00     Parks and Recreation \r\n\r\n\r\nJointly with the Committee on Finance\r\n"
    "documents" : [
@@ -47,12 +54,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
          "name" : "Committee on Parks and Recreation"
    "name" : "Committee on Parks and Recreation"
@@ -65,6 +74,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -79,7 +89,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783232&GUID=4D509B04-E436-4A6D-A0B2-D9CF20428E7F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPTNzdnFCR2tuMlM2UA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783232&GUID=4D509B04-E436-4A6D-A0B2-D9CF20428E7F"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783232&GUID=4D509B04-E436-4A6D-A0B2-D9CF20428E7F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17951"
