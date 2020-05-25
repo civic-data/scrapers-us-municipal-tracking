@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -25,6 +29,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -40,6 +46,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : "Executive Budget Hearings - Finance"
          "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2021 EXECUTIVE BUDGET HEARINGS\r\n\r\n  *10:00  - 12:00     Police\r\n  **1:30  -   2:30     Aging\r\n***3:00  -   4:00     Sanitation \r\n\r\n\r\n   *Jointly with the Committee on Public Safety\r\n\r\n **Jointly with the Committee on Aging\r\n\r\n***Jointly with the Committee on Sanitation & Solid Waste Management\r\n\r\n"
    "documents" : [
@@ -53,12 +60,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Aging"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
@@ -75,6 +84,7 @@
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -91,7 +101,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=783194&GUID=A55F7F3C-244C-4D4E-A807-E1BDF0CA4163&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPTZISTJpVXFxa1pMNw%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=783194&GUID=A55F7F3C-244C-4D4E-A807-E1BDF0CA4163"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=783194&GUID=A55F7F3C-244C-4D4E-A807-E1BDF0CA4163"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17942"

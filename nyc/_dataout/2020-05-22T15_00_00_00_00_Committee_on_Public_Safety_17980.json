@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - NYPD Enforcement of Social Distancing."
    "description" : "Oversight - NYPD Enforcement of Social Distancing."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Public Safety"
    "name" : "Committee on Public Safety"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-05-22T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789108&GUID=F8ED2485-6C5D-49E9-902F-B26DB455B79D&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789108&GUID=F8ED2485-6C5D-49E9-902F-B26DB455B79D"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=789108&GUID=F8ED2485-6C5D-49E9-902F-B26DB455B79D"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17980"
