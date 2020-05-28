@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -20,6 +23,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -49,6 +54,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a comprehensive cooling and communication plan."
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to annual reporting of heat vulnerability and heat-related deaths."
@@ -68,6 +74,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -75,6 +82,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Environmental Protection"
    "name" : "Committee on Environmental Protection"
@@ -90,6 +98,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -113,12 +122,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-26T14:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789654&GUID=C657016A-1CF9-4BFF-B126-BBD08262E0B4&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789654&GUID=C657016A-1CF9-4BFF-B126-BBD08262E0B4"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=789654&GUID=C657016A-1CF9-4BFF-B126-BBD08262E0B4"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17987"

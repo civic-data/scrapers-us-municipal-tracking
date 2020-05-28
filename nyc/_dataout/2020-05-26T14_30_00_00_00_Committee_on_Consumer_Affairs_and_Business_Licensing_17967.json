@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -13,6 +16,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -37,6 +42,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Resiliency and Waterfronts"
          "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
@@ -51,11 +57,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
@@ -68,6 +76,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -87,10 +96,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-26T14:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787228&GUID=C0847FF2-45A2-4FC5-96A1-9783BFA0A593&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787228&GUID=C0847FF2-45A2-4FC5-96A1-9783BFA0A593"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=787228&GUID=C0847FF2-45A2-4FC5-96A1-9783BFA0A593"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17967"

@@ -1,11 +1,16 @@
             {
+            {
             }
+            }
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -24,6 +29,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "See Land Use Calendar"
    "documents" : [
@@ -32,10 +38,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
          "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
@@ -43,6 +51,7 @@
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -53,9 +62,11 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-27T13:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789129&GUID=C0C6E147-5C7F-43D9-91C6-790750FC7FAB&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789129&GUID=C0C6E147-5C7F-43D9-91C6-790750FC7FAB"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=789129&GUID=C0C6E147-5C7F-43D9-91C6-790750FC7FAB"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17981"

@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -13,6 +16,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -37,6 +42,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing "
          "description" : "Oversight - Consolidated Edison’s Summer Preparations and the City’s Cooling Needs."
@@ -51,11 +57,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing"
          "name" : "Committee on Environmental Protection"
@@ -68,6 +76,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -87,10 +96,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-26T14:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17966"

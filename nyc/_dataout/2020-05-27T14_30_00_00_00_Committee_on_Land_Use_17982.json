@@ -1,5 +1,8 @@
             {
+            {
             }
+            }
+         ]
          ]
       {
       {
@@ -7,6 +10,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -27,6 +32,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "All items reported out of the Subcommittees "
          "description" : "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY"
@@ -37,11 +43,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Land Use"
    "name" : "Committee on Land Use"
@@ -49,6 +57,7 @@
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -62,10 +71,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-05-27T14:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=789132&GUID=04E3285D-0192-41FF-A148-69C42A82F9DD&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=789132&GUID=04E3285D-0192-41FF-A148-69C42A82F9DD"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=789132&GUID=04E3285D-0192-41FF-A148-69C42A82F9DD"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17982"
