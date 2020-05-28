@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1062-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Resolution calling for the salaries of New York City emergency medical service personnel to be comparable to New York City’s firefighters and police officers."
+   "description" : "Salaries of NYC emergency medical service personnel to be comparable to NYC’s firefighters and police officers."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Fire and Emergency Management"
+   "name" : "Committee on Fire and Emergency Management"
+      "name" : "- REMOTE HEARING -"
+               "name" : "Res 1062-2019"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Fire and Emergency Management\"}"
+   "participants" : [
+   "pupa_id" : "17991"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-05-28T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/17991"
