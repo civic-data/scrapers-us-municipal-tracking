@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -29,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Resolution calling for the salaries of New York City emergency medical service personnel to be comparable to New York City’s firefighters and police officers."
    "description" : "Salaries of NYC emergency medical service personnel to be comparable to NYC’s firefighters and police officers."
    "documents" : [
@@ -38,11 +44,13 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
@@ -52,6 +60,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -62,9 +71,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-05-28T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17991"

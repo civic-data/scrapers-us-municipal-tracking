@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -27,6 +31,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -41,6 +47,7 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
          "date" : ""
          "date" : ""
    "description" : ""
@@ -58,13 +65,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
          "name" : "Committee on Environmental Protection"
          "name" : "Committee on Health"
@@ -81,6 +90,7 @@
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -101,7 +111,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDJTIwQ29tbWl0dGVlJTIwb24lMjBIZWFsdGglMjB3JTIwT3RoZXJzJTIwMDUyNjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=787226&GUID=43181089-4FB8-47F2-882D-885FF86D848F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17966"
