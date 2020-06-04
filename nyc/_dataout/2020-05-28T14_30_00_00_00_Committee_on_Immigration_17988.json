@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to prohibiting the use of the word “alien” and removing such words in local laws, rules and other documents and materials"
    "description" : "Prohibiting the use of the word “alien” and removing such words in local laws, rules and other documents and materials."
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Immigration"
    "name" : "Committee on Immigration"
                "name" : "Int 1836-2019"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=790540&GUID=A22AF4A9-4FFF-4D42-BF4F-D254AFB7A293&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1Db21taXR0ZWUgb24gSW1taWdyYXRpb24gVk9URSAwNTI4MjAyMC5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=790540&GUID=A22AF4A9-4FFF-4D42-BF4F-D254AFB7A293"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=790540&GUID=A22AF4A9-4FFF-4D42-BF4F-D254AFB7A293"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17988"

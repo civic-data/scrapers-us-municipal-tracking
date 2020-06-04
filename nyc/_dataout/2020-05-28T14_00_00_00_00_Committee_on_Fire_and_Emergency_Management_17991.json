@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Resolution calling for the salaries of New York City emergency medical service personnel to be comparable to New York City’s firefighters and police officers."
    "description" : "Salaries of NYC emergency medical service personnel to be comparable to NYC’s firefighters and police officers."
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
       "name" : "- REMOTE HEARING -"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1Db21taXR0ZWUgb24gRmlyZSBhbmQgRW1lcmdlbmN5IFNlcnZpY2VzIDA1MjgyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=790543&GUID=0D55AB4D-9334-41BE-911B-DF7FD8A5BFD2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17991"
