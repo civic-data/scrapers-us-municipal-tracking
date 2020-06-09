@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1950-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law in relation to establishing a city restart officer and policies and protocols relating to the safe reopening and operation of city agencies in response to the COVID-19 pandemic"
+   "description" : "Establishing a city restart officer and policies and protocols relating to the safe reopening and operation of city agencies in response to the COVID-19 pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1950-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18011"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-16T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=792092&GUID=7ACD4D68-0DFA-4B34-A3B2-160EA08A9EC3&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=792092&GUID=7ACD4D68-0DFA-4B34-A3B2-160EA08A9EC3"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18011"

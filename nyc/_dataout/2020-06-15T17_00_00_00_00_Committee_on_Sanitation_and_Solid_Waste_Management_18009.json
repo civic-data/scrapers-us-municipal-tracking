@@ -1,0 +1,85 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1942-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1943-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to community recycling centers"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to organic waste drop off sites"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Sanitation and Solid Waste Management"
+   "name" : "Committee on Sanitation and Solid Waste Management"
+               "name" : "Int 1942-2020"
+               "name" : "Int 1943-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Sanitation and Solid Waste Management\"}"
+   "participants" : [
+   "pupa_id" : "18009"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-15T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=792039&GUID=1647EF83-285D-47AB-B3D4-229D9ABED93A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=792039&GUID=1647EF83-285D-47AB-B3D4-229D9ABED93A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18009"
