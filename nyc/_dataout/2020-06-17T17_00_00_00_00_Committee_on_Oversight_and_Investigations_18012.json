@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6268\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Administration's Response to the Disparate Impacts of COVID-19 on Communities of Color."
+   "description" : "Oversight - The Administration's Response to the Disparate Impacts of COVID-19 on Communities of Color."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Oversight and Investigations"
+   "name" : "Committee on Oversight and Investigations"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6268"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Oversight and Investigations\"}"
+   "participants" : [
+   "pupa_id" : "18012"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-17T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=792163&GUID=816FC775-4C76-4C60-87D3-75815CDF191D&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=792163&GUID=816FC775-4C76-4C60-87D3-75815CDF191D"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18012"
