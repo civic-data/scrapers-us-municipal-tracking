@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to the creation of a database to track the expenditure of funds in connection with COVID-19"
          "description" : "A Local Law in relation to the deferral of property tax liability on real property with an assessed value exceeding two hundred fifty thousand dollars owned by certain property owners impacted by COVID-19."
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
                "name" : "Int 1952-2020"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -97,6 +116,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=793243&GUID=84075B31-7F58-46B0-9E76-79090EC634AC&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTA2MTAyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=793243&GUID=84075B31-7F58-46B0-9E76-79090EC634AC"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=793243&GUID=84075B31-7F58-46B0-9E76-79090EC634AC"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18014"

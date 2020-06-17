@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -18,6 +22,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +39,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Mental Health, Disabilities and Addiction"
          "description" : "Oversight - New York City Hospitals' Response to the Mental Health Needs of Frontline Health Care Workers during the COVID-19 Pandemic."
    "description" : "Oversight - New York City Hospitals' Response to the Mental Health Needs of Frontline Health Care Workers during the COVID-19 Pandemic."
@@ -45,12 +52,14 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Hospitals"
    "name" : "Committee on Hospitals"
          "name" : "Committee on Mental Health, Disabilities and Addiction"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +85,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-06-16T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=791165&GUID=D9E83851-8935-4155-9075-7F9208463A61&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IT1NQSVRBTFMtMDYxNjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=791165&GUID=D9E83851-8935-4155-9075-7F9208463A61"
          "url" : "https://webapi.legistar.com/v1/nyc/events/17997"

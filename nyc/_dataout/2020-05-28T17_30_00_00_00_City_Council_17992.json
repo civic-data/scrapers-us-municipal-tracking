@@ -404,6 +404,7 @@
    ]
    ]
    }
+   }
 {
 }
    "agenda" : [
@@ -775,12 +776,13 @@
          "extras" : {}
          "extras" : {}
          "extras" : {}
-   "extras" : {}
+   "extras" : {
          "links" : [
          "links" : [
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "Meeting in Recess"
          "media" : []
          "media" : []
          "media" : []

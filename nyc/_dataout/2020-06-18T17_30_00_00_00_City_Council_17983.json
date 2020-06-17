@@ -13,6 +13,7 @@
    ]
    ]
    }
+   }
 {
 }
    "agenda" : [
@@ -26,10 +27,11 @@
    "documents" : [
    "end_date" : ""
          "extras" : {}
-   "extras" : {}
+   "extras" : {
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "Recessed Meeting of May 28, 2020 HELD on June 18, 2020"
          "media" : []
    "media" : []
                "media_type" : "application/pdf"
