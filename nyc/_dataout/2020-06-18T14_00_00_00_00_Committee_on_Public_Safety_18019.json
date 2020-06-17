@@ -1,0 +1,182 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0487-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0536-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0721-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0760-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1309-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6256\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6267\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to an early intervention system"
+         "description" : "A Local Law to amend the administrative code of the City of New York, in relation to chokeholds and other such restraints"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating comprehensive reporting and oversight of New York city police department surveillance technologies"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to develop an internal disciplinary matrix"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring visible shield numbers and rank designations"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the right to record police activities"
+         "description" : "page break"
+         "description" : "Resolution calling upon the United States Congress to pass, and the President to sign, the Eric Garner Excessive Use of Force Prevention Act of 2019 (H.R. 4408), which would prohibit police chokeholds and other tactics that result in asphyxiation."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+               "name" : "Int 0487-2018"
+               "name" : "Int 0536-2018"
+               "name" : "Int 0721-2018"
+               "name" : "Int 0760-2018"
+               "name" : "Int 1309-2018"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+               "name" : "T2020-6256"
+               "name" : "T2020-6267"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "18019"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-06-18T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=794373&GUID=40FD0350-C552-4685-BE54-74C3968D5D97&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=794373&GUID=40FD0350-C552-4685-BE54-74C3968D5D97"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18019"
