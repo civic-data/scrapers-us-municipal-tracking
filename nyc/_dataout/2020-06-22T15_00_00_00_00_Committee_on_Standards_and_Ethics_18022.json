@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5962\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Oversight"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Standards and Ethics"
+   "name" : "Committee on Standards and Ethics"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
+               "name" : "T2020-5962"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Standards and Ethics\"}"
+   "participants" : [
+   "pupa_id" : "18022"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-22T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=794704&GUID=FB6885D1-3C96-402B-889C-60AF241F3F4F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=794704&GUID=FB6885D1-3C96-402B-889C-60AF241F3F4F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18022"
