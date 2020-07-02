@@ -6,6 +6,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -22,6 +26,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -46,6 +54,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -73,6 +84,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to an early intervention system"
@@ -103,6 +116,8 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
@@ -114,8 +129,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Public Safety"
    "name" : "Committee on Public Safety"
                "name" : "Int 0487-2018"
@@ -123,7 +140,7 @@
                "name" : "Int 0721-2018"
                "name" : "Int 0760-2018"
                "name" : "Int 1309-2018"
-      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
                "name" : "T2020-6256"
                "name" : "T2020-6267"
       "note" : ""
@@ -136,7 +153,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -167,7 +186,7 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-06-18T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
@@ -177,6 +196,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=794373&GUID=40FD0350-C552-4685-BE54-74C3968D5D97&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1QVUJTQUZFVFktMDYxODIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=794373&GUID=40FD0350-C552-4685-BE54-74C3968D5D97"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=794373&GUID=40FD0350-C552-4685-BE54-74C3968D5D97"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18019"
