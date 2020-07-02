@@ -1,0 +1,91 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6342\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "Continuation of the June 22, 2020 Recessed Meeting"
+         "description" : "Oversight – Continuation of Disciplinary Hearing Concerning Council Member Andy King."
+   "description" : "Oversight – Continuation of Disciplinary Hearing Concerning Council Member Andy King."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "EXECUTIVE SESSION (Continuation of the June 22, 2020 Recessed Meeting)"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Standards and Ethics"
+   "name" : "Committee on Standards and Ethics"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-6342"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Standards and Ethics\"}"
+   "participants" : [
+   "pupa_id" : "18030"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-06-29T13:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=795824&GUID=CC37AC9F-603B-48BA-AC00-77A9715F2110&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=795824&GUID=CC37AC9F-603B-48BA-AC00-77A9715F2110"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=795824&GUID=CC37AC9F-603B-48BA-AC00-77A9715F2110"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18030"

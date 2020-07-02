@@ -1,0 +1,93 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1950-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law in relation to the establishment of a task force to recommend policies and protocols relating to the safe reopening and operation of city agencies in response to the COVID-19 pandemic"
+   "description" : "Establishing a city restart officer and policies and protocols relating to the safe reopening and operation of city agencies in response to the COVID-19 pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1950-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18025"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-25T13:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=795147&GUID=710F1A19-E2D4-4A3E-879F-3B018CBB65BE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1HT1ZPUFMtMDYyNTIwMjAubXA0&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=795147&GUID=710F1A19-E2D4-4A3E-879F-3B018CBB65BE"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=795147&GUID=710F1A19-E2D4-4A3E-879F-3B018CBB65BE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18025"

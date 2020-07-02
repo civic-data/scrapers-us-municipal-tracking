@@ -1,0 +1,229 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1952-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1964-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1974-2020\"}"
+               "bill_id" : "~{\"identifier\": \"LU 0664-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1346-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1347-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1348-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1349-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1350-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "3415 Knox Place.GHPP.FY20, Block 3324, Lot 89; Bronx, Community District No. 7, Council District No. 11."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a database to track the expenditure of funds in connection with COVID-19, and to provide for the repeal thereof"
+         "description" : "A Local Law to authorize adoption by resolution of an interest rate for nonpayment of taxes on real property with an assessed value of two-hundred and fifty thousand dollars or less in fiscal year 2021 for property owners adversely affected by COVID-19"
+         "description" : "A Local Law to authorize adoption by resolution of an interest rate for nonpayment of taxes on real property with an assessed value over two hundred fifty thousand dollars in fiscal year 2021 for certain property owners adversely affected by COVID-19"
+         "description" : "Resolution to adopt an interest rate of 7.5 percent for a portion of Fiscal Year 2021 for the non-payment of taxes on real property with an assessed value over $250,000 for property owners adversely affected by COVID-19 as authorized by the local law for the year 2020 as proposed in introduction number 1964-A."
+         "description" : "Resolution to adopt an interest rate of zero percent for a portion of Fiscal Year 2021 for the non-payment of taxes on real property with an assessed value of $250,000 or less for property owners adversely affected by COVID-19 as authorized by the local law for the year 2020 as proposed in introduction number 1974-A."
+         "description" : "Resolution to establish that the discount percentage for early payment of real estate taxes be set at one-half of one percent per annum for Fiscal Year 2021."
+         "description" : "Resolution to establish that the interest rate be 18 percent per annum for Fiscal Year 2021 for non-payment of taxes on properties with an assessed value of over $250,000, or over $250,000 per residential unit for cooperative apartments."
+         "description" : "Resolution to establish that the interest rate be 3.25 percent for the first quarter of Fiscal Year 2021 and 5 percent for the remainder of Fiscal Year 2021 for non-payment of taxes on properties with an assessed value of not more than $250,000, or not more than $250,000 per residential unit for cooperative apartments."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+               "name" : "Int 1952-2020"
+               "name" : "Int 1964-2020"
+               "name" : "Int 1974-2020"
+               "name" : "LU 0664-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "Res 1346-2020"
+               "name" : "Res 1347-2020"
+               "name" : "Res 1348-2020"
+               "name" : "Res 1349-2020"
+               "name" : "Res 1350-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "order" : "8"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18029"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-06-25T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=795365&GUID=0BB4FC51-A982-4221-A1AD-B23831A986BE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTA2MjUyMDIwLm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=795365&GUID=0BB4FC51-A982-4221-A1AD-B23831A986BE"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=795365&GUID=0BB4FC51-A982-4221-A1AD-B23831A986BE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18029"
