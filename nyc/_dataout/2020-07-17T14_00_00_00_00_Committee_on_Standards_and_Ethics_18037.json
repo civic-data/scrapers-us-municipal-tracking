@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5962\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "EXECUTIVE SESSION (Continuation of the July 7, 2020 Recessed Meeting)"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Standards and Ethics"
+   "name" : "Committee on Standards and Ethics"
+      "name" : "- REMOTE HEARING -"
+               "name" : "T2020-5962"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Standards and Ethics\"}"
+   "participants" : [
+   "pupa_id" : "18037"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-07-17T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=797384&GUID=F3917F74-2A31-493C-84AD-08A5B8E15793&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=797384&GUID=F3917F74-2A31-493C-84AD-08A5B8E15793"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18037"
