@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-5962\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "EXECUTIVE SESSION (Continuation of the July 17, 2020 Recessed Meeting)"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Standards and Ethics"
+   "name" : "Committee on Standards and Ethics"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-5962"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Standards and Ethics\"}"
+   "participants" : [
+   "pupa_id" : "18042"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-07-22T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=798532&GUID=98F5CF59-5A1C-499B-A2F8-9B46DD005D9B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=798532&GUID=98F5CF59-5A1C-499B-A2F8-9B46DD005D9B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18042"
