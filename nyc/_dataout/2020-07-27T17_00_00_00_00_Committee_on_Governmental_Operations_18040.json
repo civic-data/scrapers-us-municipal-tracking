@@ -1,0 +1,132 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1091-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1872-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1879-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6412\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the online publication of unconsolidated local laws"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the posting of machine readable executive orders"
+         "description" : "A Local Law to amend the New York city charter, in relation to the designation of administering offices or agencies"
+         "description" : "Resolution calling upon Congress to pass, and the President to sign, the Voting Rights Advancement Act of 2019 (H.R. 4.), which would revise and modernize portions of the Voting Rights Act of 1965 struck down in the Supreme Court decision Shelby County v. Holder."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1091-2018"
+               "name" : "Int 1872-2020"
+               "name" : "Int 1879-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6412"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18040"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-07-27T17:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=798467&GUID=6CD788D8-4CCB-4689-8D38-32CF919C4FB4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=798467&GUID=6CD788D8-4CCB-4689-8D38-32CF919C4FB4"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=798467&GUID=6CD788D8-4CCB-4689-8D38-32CF919C4FB4"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18040"

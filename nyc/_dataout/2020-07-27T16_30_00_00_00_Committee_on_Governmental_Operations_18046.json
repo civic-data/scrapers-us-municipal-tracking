@@ -1,0 +1,79 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6412\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "Resolution calling upon Congress to pass, and the President to sign, the Voting Rights Advancement Act of 2019 (H.R. 4.), which would revise and modernize portions of the Voting Rights Act of 1965 struck down in the Supreme Court decision Shelby County v. Holder."
+   "description" : "Voting Rights Advancement Act of 2019 (H.R. 4.)"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6412"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18046"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-07-27T16:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18046"
