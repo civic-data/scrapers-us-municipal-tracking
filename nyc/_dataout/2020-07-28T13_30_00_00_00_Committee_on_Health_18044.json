@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -43,6 +54,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a comprehensive cooling and communication plan"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to annual reporting of heat vulnerability and heat-related deaths"
@@ -58,14 +71,18 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Health"
    "name" : "Committee on Health"
                "name" : "Int 1945-2020"
@@ -78,7 +95,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -94,11 +113,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-07-28T13:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=798697&GUID=4BD2BE39-AB17-49B6-8B4E-E7F31B3FA8E1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IRUFMVEgtMDcyODIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=798697&GUID=4BD2BE39-AB17-49B6-8B4E-E7F31B3FA8E1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=798697&GUID=4BD2BE39-AB17-49B6-8B4E-E7F31B3FA8E1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18044"

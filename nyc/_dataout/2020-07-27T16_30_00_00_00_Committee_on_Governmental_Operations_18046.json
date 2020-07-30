@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Resolution calling upon Congress to pass, and the President to sign, the Voting Rights Advancement Act of 2019 (H.R. 4.), which would revise and modernize portions of the Voting Rights Act of 1965 struck down in the Supreme Court decision Shelby County v. Holder."
    "description" : "Voting Rights Advancement Act of 2019 (H.R. 4.)"
    "documents" : [
@@ -44,12 +51,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Governmental Operations"
    "name" : "Committee on Governmental Operations"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
@@ -60,6 +69,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -73,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1HT1ZPUFMtMDcyNzIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=799056&GUID=BE7B31B2-7FA9-4B96-ADBA-1E59CBC59DC4"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18046"

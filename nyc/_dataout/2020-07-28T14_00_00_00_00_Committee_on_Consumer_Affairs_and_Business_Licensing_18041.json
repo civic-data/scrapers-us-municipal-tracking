@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the charter and administrative code of the city of New York, in relation to changing the name of the Department of Consumer Affairs to the Department of Consumer and Worker Protection, and to repeal the following provisions of the New York city charter: section 20-a in relation to the office of labor standards; section 2204, in relation to the consumers council; and also to repeal the following provisions of the administrative code of the city of New York: subdivision b of section 20-9016 of chapter 1 of title 20-A in relation to hearings concerning shipboard gambling; subchapter 4 of chapter 2 of title 20 of the administrative code of the city of New York in relation to licenses for maintaining a billiard or pocket billiard room; section 20-526 of chapter 2 of title 20 in relation to the tow advisory board and other incidental technical amendments"
    "description" : "Changing the name of the Department of Consumer Affairs to the Department of Consumer and Worker Protection."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
                "name" : "Int 1609-2019"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -62,9 +81,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-07-28T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=798531&GUID=F5E377E6-DF48-47D7-959A-34F8C857630C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DT05TVU1FUkFGRkFJUlMtMDcyODIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=798531&GUID=F5E377E6-DF48-47D7-959A-34F8C857630C"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=798531&GUID=F5E377E6-DF48-47D7-959A-34F8C857630C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18041"
