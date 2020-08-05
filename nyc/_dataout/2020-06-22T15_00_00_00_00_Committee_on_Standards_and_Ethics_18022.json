@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
    "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "Meeting in Recess"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Standards and Ethics"
    "name" : "Committee on Standards and Ethics"
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=794704&GUID=FB6885D1-3C96-402B-889C-60AF241F3F4F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vcGxheWVyLnBocD9oYXNoPU93d2FtVHAxNGJSaA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=794704&GUID=FB6885D1-3C96-402B-889C-60AF241F3F4F"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=794704&GUID=FB6885D1-3C96-402B-889C-60AF241F3F4F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18022"
