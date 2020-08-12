@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -29,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
    "description" : "Oversight – Disciplinary Hearing Concerning Council Member Andy King."
    "documents" : [
@@ -38,11 +44,13 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "EXECUTIVE SESSION (Continuation of the July 31, 2020 Recessed Meeting)"
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Standards and Ethics"
    "name" : "Committee on Standards and Ethics"
@@ -52,6 +60,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -65,6 +74,8 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=801050&GUID=7611C17B-5059-410F-AF67-771EAE6EDCD5&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=801050&GUID=7611C17B-5059-410F-AF67-771EAE6EDCD5"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=801050&GUID=7611C17B-5059-410F-AF67-771EAE6EDCD5"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18053"
