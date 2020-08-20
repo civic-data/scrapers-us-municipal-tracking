@@ -1,0 +1,90 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6459\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Resiliency and Waterfronts, Committee on Parks and Recreation and the Committee on Environmental Protection"
+         "description" : "Oversight - Tree Removals and the Restoration of Power in the Aftermath of Tropical Storm Isaias."
+   "description" : "Oversight - Tree Removals and the Restoration of Power in the Aftermath of Tropical Storm Isaias."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+   "name" : "Committee on Consumer Affairs and Business Licensing"
+         "name" : "Committee on Environmental Protection"
+         "name" : "Committee on Resiliency and Waterfronts, Committee on Parks and Recreation"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6459"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts, Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "18058"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-14T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=801504&GUID=CB779600-C18D-4091-ACD9-8F64ECBA109E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=801504&GUID=CB779600-C18D-4091-ACD9-8F64ECBA109E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18058"
