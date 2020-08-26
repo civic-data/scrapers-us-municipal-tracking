@@ -1,0 +1,101 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1615-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6468\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a teacher retention reporting requirement and task force"
+         "description" : "Jointly with the Committee on Education"
+         "description" : "Oversight - Reopening New York City Schools"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+               "name" : "Int 1615-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-6468"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+   "participants" : [
+   "pupa_id" : "18067"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-29T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802070&GUID=793CE3ED-64AE-43C0-B56A-18799F009B5C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802070&GUID=793CE3ED-64AE-43C0-B56A-18799F009B5C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18067"

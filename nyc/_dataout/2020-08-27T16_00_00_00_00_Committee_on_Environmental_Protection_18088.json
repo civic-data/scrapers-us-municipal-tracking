@@ -1,0 +1,104 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1851-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1946-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1982-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to marginal emissions"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to outreach to building owners regarding making energy efficiency improvements"
+         "description" : "A Local Law to amend the administrative code of the city of New York, the New York city plumbing code and the New York city building code in relation to city-wide stormwater management controls"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+               "name" : "Int 1851-2020"
+               "name" : "Int 1946-2020"
+               "name" : "Int 1982-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "18088"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-08-27T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802564&GUID=FC800A73-B286-472C-97E1-86D5B5E6464E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802564&GUID=FC800A73-B286-472C-97E1-86D5B5E6464E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18088"

@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6447\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the definition of site safety training full compliance date"
+   "description" : "Definition of site safety training full compliance date."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-6447"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "18090"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-08-27T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802565&GUID=2542728F-0BFC-425B-AD71-1825603CBFDE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802565&GUID=2542728F-0BFC-425B-AD71-1825603CBFDE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18090"
