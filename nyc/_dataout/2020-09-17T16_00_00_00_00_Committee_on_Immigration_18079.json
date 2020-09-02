@@ -1,0 +1,170 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1399-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1404-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6386\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6518\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6534\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6535\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6558\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - Immigrant Exclusion in COVID-19 Response."
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A10433/S5167, which would allow for state agencies, municipalities, and authorities to provide state or local public benefits regardless of immigration status."
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would permit employment-based status holders to retain lawful status, after loss of employment, if such loss was related to the COVID-19 pandemic."
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would provide immigration relief for family members who derive lawful immigration status from a frontline worker who passed away due to COVID-19."
+         "description" : "Resolution calling on the United States Department of Homeland Security to halt all deportation proceedings for the length of the COVID-19 pandemic, as a means of restricting the global spread of this disease."
+         "description" : "Resolution calling on the United States Department of Homeland Security to place a moratorium on all removal proceedings for employment-based status holders that suffered a loss of employment during or due to the COVID-19 pandemic."
+         "description" : "Resolution calling on the United States Department of Justice to issue guidance that establishes protocols for the Executive Office of Immigration Review in times of public health crises, such as the SARS-CoV-2 outbreak."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1399-2020"
+               "name" : "Res 1404-2020"
+               "name" : "T2020-6386"
+               "name" : "T2020-6518"
+               "name" : "T2020-6534"
+               "name" : "T2020-6535"
+               "name" : "T2020-6558"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18079"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-17T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802202&GUID=C4F73D87-7C27-42F7-A435-30496802BB46&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802202&GUID=C4F73D87-7C27-42F7-A435-30496802BB46"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18079"
