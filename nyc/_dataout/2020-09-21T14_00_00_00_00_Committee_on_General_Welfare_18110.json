@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6596\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Impact of the COVID-19 Pandemic on SNAP Administration, Food Pantries, and Soup Kitchens."
+   "description" : "Oversight - The Impact of the COVID-19 Pandemic on SNAP Administration, Food Pantries, and Soup Kitchens."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on General Welfare"
+   "name" : "Committee on General Welfare"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-6596"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18110"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-21T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804735&GUID=CDE5606A-F4D5-4B76-9E73-CD128F94C698&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804735&GUID=CDE5606A-F4D5-4B76-9E73-CD128F94C698"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18110"

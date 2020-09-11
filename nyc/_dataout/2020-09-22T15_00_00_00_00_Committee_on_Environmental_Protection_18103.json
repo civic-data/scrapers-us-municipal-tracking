@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1947-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York in relation to rent regulated accommodations"
+   "description" : "Rent regulated accommodations."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+               "name" : "Int 1947-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "18103"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-22T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804003&GUID=5E7C56FF-5146-4AF7-8703-D0235F1619E1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804003&GUID=5E7C56FF-5146-4AF7-8703-D0235F1619E1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18103"

@@ -1,0 +1,85 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6598\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6599\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to extending temporary personal guaranty protection provisions for commercial tenants impacted by COVID-19"
+         "description" : "Oversight - The State of Small Businesses "
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Small Business"
+   "name" : "Committee on Small Business"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-6598"
+               "name" : "T2020-6599"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "18104"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-14T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804045&GUID=2CCB4052-CD9D-44EF-B037-5912D54E89C9&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804045&GUID=2CCB4052-CD9D-44EF-B037-5912D54E89C9"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18104"

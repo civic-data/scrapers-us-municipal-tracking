@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6597\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Future of Senior Centers after COVID-19."
+   "description" : "Oversight - The Future of Senior Centers after COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+   "name" : "Committee on Aging"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2020-6597"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+   "participants" : [
+   "pupa_id" : "18111"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-21T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804782&GUID=944F61B2-A2E7-4AAE-AC49-DE65071D20FD&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804782&GUID=944F61B2-A2E7-4AAE-AC49-DE65071D20FD"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18111"

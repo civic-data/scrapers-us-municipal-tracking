@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6481\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Sidewalk and Street Cleanliness in NYC."
+   "description" : "Oversight - Sidewalk and Street Cleanliness in NYC."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Sanitation and Solid Waste Management"
+   "name" : "Committee on Sanitation and Solid Waste Management"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-6481"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Sanitation and Solid Waste Management\"}"
+   "participants" : [
+   "pupa_id" : "18086"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-24T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802211&GUID=C82820CF-CE89-44E0-B732-AC9A49CACCFF&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802211&GUID=C82820CF-CE89-44E0-B732-AC9A49CACCFF"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18086"

@@ -1,0 +1,213 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0146-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1020-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1339-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2018-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2047-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2019-4051\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6576\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6580\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to online access to rental assistance program status"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting housing discrimination on the basis of arrest or criminal record"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to providing information about lawful source of income discrimination to city rental assistance applicants"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to rental assistance vouchers"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the Department of Homeless Services and the Human Resources Administration to track and report certain data regarding rental assistance programs."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of social services to provide domestic violence services at all shelters"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the prohibition against discrimination in housing accommodations based on lawful source of income"
+         "description" : "Jointly with the Committee on General Welfare"
+         "description" : "Oversight - Rental Assistance and Source of Income Discrimination."
+         "description" : "page break"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil and Human Rights"
+   "name" : "Committee on Civil and Human Rights"
+         "name" : "Committee on General Welfare"
+               "name" : "Int 0146-2018"
+               "name" : "Int 1020-2018"
+               "name" : "Int 1339-2019"
+               "name" : "Int 2018-2020"
+               "name" : "Int 2047-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+               "name" : "T2019-4051"
+               "name" : "T2020-6576"
+               "name" : "T2020-6580"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "order" : "8"
+         "order" : "9"
+         "organization_id" : "~{\"name\": \"Committee on Civil and Human Rights\"}"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18106"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-15T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804306&GUID=8C43D8E4-17D1-4EC9-A46C-4005162ED7E7&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804306&GUID=8C43D8E4-17D1-4EC9-A46C-4005162ED7E7"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18106"

@@ -1,0 +1,54 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Agenda - 1:30 p.m."
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "18064"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-23T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802028&GUID=82E4F6A0-F9BC-4A37-9FB9-2381967196E4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802028&GUID=82E4F6A0-F9BC-4A37-9FB9-2381967196E4"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18064"
