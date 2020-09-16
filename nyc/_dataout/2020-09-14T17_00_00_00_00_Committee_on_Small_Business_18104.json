@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to extending temporary personal guaranty protection provisions for commercial tenants impacted by COVID-19"
          "description" : "Oversight - The State of Small Businesses "
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Small Business"
    "name" : "Committee on Small Business"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-14T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804045&GUID=2CCB4052-CD9D-44EF-B037-5912D54E89C9&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804045&GUID=2CCB4052-CD9D-44EF-B037-5912D54E89C9"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=804045&GUID=2CCB4052-CD9D-44EF-B037-5912D54E89C9"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18104"

@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -12,6 +15,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,9 +40,10 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+   "description" : ""
          "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing, Committee on Resiliency and Waterfronts and the Committee on Environmental Protection"
          "description" : "Oversight - Tree Removals and the Restoration of Power in the Aftermath of Tropical Storm Isaias."
-   "description" : "Oversight - Tree Removals and the Restoration of Power in the Aftermath of Tropical Storm Isaias."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
@@ -48,11 +54,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing, Committee on Resiliency and Waterfronts"
          "name" : "Committee on Environmental Protection"
@@ -64,6 +72,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -81,10 +90,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-09-14T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802023&GUID=E4352E1D-5D60-4DDC-9D3C-790F1F8B8065&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802023&GUID=E4352E1D-5D60-4DDC-9D3C-790F1F8B8065"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=802023&GUID=E4352E1D-5D60-4DDC-9D3C-790F1F8B8065"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18061"

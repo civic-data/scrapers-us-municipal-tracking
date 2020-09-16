@@ -28,8 +28,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+   "description" : ""
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York in relation to rent regulated accommodations"
-   "description" : "Rent regulated accommodations."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
