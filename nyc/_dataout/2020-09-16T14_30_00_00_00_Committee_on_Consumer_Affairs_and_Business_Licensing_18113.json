@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0823-2018\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : "Allowing food service establishments to charge a COVID-19 recovery charge."
+         "description" : "A Local Law in relation to allowing food service establishments to charge a COVID-19 recovery charge"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+   "name" : "Committee on Consumer Affairs and Business Licensing"
+               "name" : "Int 0823-2018"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+   "participants" : [
+   "pupa_id" : "18113"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-16T14:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804859&GUID=38C4DD9A-B666-48E8-A994-CA8BB3210E6C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804859&GUID=38C4DD9A-B666-48E8-A994-CA8BB3210E6C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18113"
