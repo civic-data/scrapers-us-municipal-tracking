@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to reporting on the mental health of New Yorkers during the COVID-19 public health crisis"
          "description" : "Oversight - Increased Drug Overdose, Depression and Anxiety During COVID-19."
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Mental Health, Disabilities and Addiction"
    "name" : "Committee on Mental Health, Disabilities and Addiction"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-22T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802067&GUID=9AF45AD0-BB6A-4489-8E35-E33914C8DB2A&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802067&GUID=9AF45AD0-BB6A-4489-8E35-E33914C8DB2A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=802067&GUID=9AF45AD0-BB6A-4489-8E35-E33914C8DB2A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18065"

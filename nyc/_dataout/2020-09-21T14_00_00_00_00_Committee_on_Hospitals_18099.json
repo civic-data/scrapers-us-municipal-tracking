@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Criminal Justice"
          "description" : "Oversight - The Department of Correction and Correctional Health Services Management of COVID-19 in Jails."
    "description" : "Oversight - The Department of Correction and Correctional Health Services Management of COVID-19 in Jails."
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Criminal Justice"
          "name" : "Committee on Hospitals"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-09-21T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=803528&GUID=14CA3FEB-A441-43DE-B459-46A33CFEABA7&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=803528&GUID=14CA3FEB-A441-43DE-B459-46A33CFEABA7"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=803528&GUID=14CA3FEB-A441-43DE-B459-46A33CFEABA7"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18099"

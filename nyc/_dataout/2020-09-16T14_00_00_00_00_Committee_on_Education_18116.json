@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : "DOE to only open school buildings that have met the health and safety standards prescribed in the UFT 50-item checklist."
          "description" : "Resolution calling on the Department of Education to only open school buildings that have met the health and safety standards prescribed in the UFT 50-item checklist and implement a medically recommended mandatory randomized COVID-19 testing program for adults and students in all school buildings as agreed upon by the administration and the labor organizations representing school personnel including UFT, CSA, and DC37."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Education"
    "name" : "Committee on Education"
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -65,6 +84,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804969&GUID=33E02CB5-853B-407F-BC28-FD917520FBC3&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FRFVDQVRJT04tMDkxNjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804969&GUID=33E02CB5-853B-407F-BC28-FD917520FBC3"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=804969&GUID=33E02CB5-853B-407F-BC28-FD917520FBC3"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18116"

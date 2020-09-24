@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - The Impact of the COVID-19 Pandemic on SNAP Administration, Food Pantries, and Soup Kitchens."
    "description" : "Oversight - The Impact of the COVID-19 Pandemic on SNAP Administration, Food Pantries, and Soup Kitchens."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on General Welfare"
    "name" : "Committee on General Welfare"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-21T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=804735&GUID=CDE5606A-F4D5-4B76-9E73-CD128F94C698&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=804735&GUID=CDE5606A-F4D5-4B76-9E73-CD128F94C698"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=804735&GUID=CDE5606A-F4D5-4B76-9E73-CD128F94C698"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18110"
