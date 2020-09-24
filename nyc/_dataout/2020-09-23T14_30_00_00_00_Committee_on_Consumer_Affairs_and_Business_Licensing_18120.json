@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2032-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2049-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to displaced hotel service workers and hotel service disruption notifications"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring city employers to provide earned safe and sick time to employees"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+   "name" : "Committee on Consumer Affairs and Business Licensing"
+               "name" : "Int 2032-2020"
+               "name" : "Int 2049-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+   "participants" : [
+   "pupa_id" : "18120"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-09-23T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=805789&GUID=0BCD86D2-9693-4884-ABBF-98489EFCF5F0&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=805789&GUID=0BCD86D2-9693-4884-ABBF-98489EFCF5F0"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18120"

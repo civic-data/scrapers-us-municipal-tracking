@@ -1,0 +1,192 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1225-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1702-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1705-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2039-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6634\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6635\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6637\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Albany Crossings Apartments, Block 1858, Lot 24 (f.k.a. Lots 24, 25, 28, and 30), Block 1859, Lots 6, 10, 14, 15, and 16; Brooklyn, Community District No. 3, Council District 36."
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to notice regarding property tax rates"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the collection and maintenance of contact information of real property owners"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the department of finance providing a receipt of payment"
+         "description" : "A Local Law to authorize the extension of deadlines for the filing of applications and renewal applications for real property tax abatement and exemption programs."
+         "description" : "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY"
+         "description" : "Kingston Heights Apartments, Block 1676, Lot 1, Block 1854, Lots 12, 14, 16, and 19, Block 1863, Lot 44, Block 1864, Lot 73, Block 1871, Lots 3 and 5; Brooklyn, Community District No. 3, Council District 36."
+         "description" : "page break"
+         "description" : "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+               "name" : "Int 1225-2018"
+               "name" : "Int 1702-2019"
+               "name" : "Int 1705-2019"
+               "name" : "Int 2039-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-6634"
+               "name" : "T2020-6635"
+               "name" : "T2020-6637"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "order" : "8"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18121"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-23T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=805862&GUID=476B5AF9-FA31-4CE8-9940-3F27CFD63FD1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=805862&GUID=476B5AF9-FA31-4CE8-9940-3F27CFD63FD1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18121"

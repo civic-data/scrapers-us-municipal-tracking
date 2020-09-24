@@ -1,0 +1,118 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6642\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6655\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6658\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend local law number 77 for the year 2020, the administrative code of the city of New York and the New York city fire code, in relation to outdoor dining"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to authorizing the department of consumer and worker protection to issue temporary operating licenses to sidewalk café applicants if certain requirements are satisfied"
+         "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing"
+         "description" : "Oversight - The City’s Outdoor Dining and Open Streets Program during COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
+               "name" : "T2020-6642"
+               "name" : "T2020-6655"
+               "name" : "T2020-6658"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "18147"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-09-30T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806551&GUID=B9E3DB93-8AF4-4A3D-8D03-32F12DD2E4BB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806551&GUID=B9E3DB93-8AF4-4A3D-8D03-32F12DD2E4BB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18147"

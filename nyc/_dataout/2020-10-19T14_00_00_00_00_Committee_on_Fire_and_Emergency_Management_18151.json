@@ -1,0 +1,85 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1849-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1852-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the New York city fire code, in relation to establishing fire safety provisions for film production locations and requiring production location fire safety managers for certain scouting, rigging and production activities, and pyrotechnic usage"
+         "description" : "A Local Law to amend the New York city fire code, in relation to requiring any person permitted for scouting, rigging and production activities to provide film set blueprints in advance of permitted activities to the fire department"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Fire and Emergency Management"
+   "name" : "Committee on Fire and Emergency Management"
+               "name" : "Int 1849-2020"
+               "name" : "Int 1852-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Fire and Emergency Management\"}"
+   "participants" : [
+   "pupa_id" : "18151"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-19T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806627&GUID=30DA3D78-D42E-4A7D-B79A-8A8255F0C38F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806627&GUID=30DA3D78-D42E-4A7D-B79A-8A8255F0C38F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18151"
