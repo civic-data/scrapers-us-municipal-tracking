@@ -1,0 +1,107 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1760-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6674\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to tenant data privacy"
+         "description" : "Jointly with the Committee on Criminal Justice, Committee on Justice System, Committee on General Welfare and the Committee on Public Housing "
+         "description" : "Oversight - Housing and Reentry Remote Meeting"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Criminal Justice, Committee on Justice System, Committee on General Welfare"
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+         "name" : "Committee on Public Housing"
+               "name" : "Int 1760-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+               "name" : "T2020-6674"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Criminal Justice, Committee on Justice System, Committee on General Welfare\"}"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+         "organization_id" : "~{\"name\": \"Committee on Public Housing\"}"
+   "participants" : [
+   "pupa_id" : "18164"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-10-21T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806890&GUID=1071E502-1314-4B61-ADC0-36B5B705BF4F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806890&GUID=1071E502-1314-4B61-ADC0-36B5B705BF4F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18164"

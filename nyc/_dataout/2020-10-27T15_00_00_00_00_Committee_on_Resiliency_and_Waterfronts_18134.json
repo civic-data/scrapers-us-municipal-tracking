@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6667\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - 8th Anniversary of Superstorm Sandy and the 2020 Hurricane Season."
+   "description" : "Oversight - 8th Anniversary of Superstorm Sandy and the 2020 Hurricane Season."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Resiliency and Waterfronts"
+   "name" : "Committee on Resiliency and Waterfronts"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6667"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts\"}"
+   "participants" : [
+   "pupa_id" : "18134"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-27T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806394&GUID=3E8C6477-FCB8-4052-8948-2678BCA5B869&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806394&GUID=3E8C6477-FCB8-4052-8948-2678BCA5B869"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18134"
