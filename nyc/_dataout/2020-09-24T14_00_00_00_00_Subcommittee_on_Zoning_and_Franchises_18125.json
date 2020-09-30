@@ -7,6 +7,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -25,6 +29,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -49,6 +57,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -76,6 +87,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "Application No. C 190011 ZMK (50 Old Fulton Rezoning) submitted by Alwest Old Fulton, LLC pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12d, changing from an M2-1 District to a M1-5 District, Borough of Brooklyn, Council District 33, Community District 2."
@@ -107,6 +120,8 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -117,8 +132,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
                "name" : "LU 0658-2020"
                "name" : "LU 0678-2020"
                "name" : "LU 0679-2020"
@@ -141,7 +158,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -172,7 +191,7 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-24T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
@@ -182,6 +201,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806320&GUID=957BDD9B-BBCD-4B97-90D5-33BB89DB2997&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1aT05JTkctMDkyNDIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806320&GUID=957BDD9B-BBCD-4B97-90D5-33BB89DB2997"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806320&GUID=957BDD9B-BBCD-4B97-90D5-33BB89DB2997"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18125"

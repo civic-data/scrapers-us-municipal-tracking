@@ -8,6 +8,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -28,6 +32,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -54,6 +62,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -83,6 +94,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "Application No. 20205400 HKX (N 210006 HKX) submitted by the Landmarks Preservation Commission pursuant to Section 3020 of the Charter of the City of New York and Section 25 303 of the Administrative Code of the City of New York, for the designation of the Manida Street Historic District [517/LP-2644], which consists of properties which consists of the properties bounded by a line beginning on the eastern curbline of Manida Street at a point on a line extending westerly from the northern property line of 870 Manida Street, and extending easterly along said line and along the northern property line of 870 Manida Street, southerly along the eastern property lines of 870 to 814 Manida Street, westerly along the southern property line of 814 Manida Street to the eastern curbline of Manida Street, northerly along said curbline to a point on a line extending easterly from the southern property line of 819 Manida Street, westerly along said line across Manida Street and along the southern property line of 819 Manida Street, northerly along the western property lines of 819 to 861 Manida Street, easterly along the northern property line of 861 Manida Street and across Manida Street to its eastern curbline, and northerly along said curbline to the point of beginning, Borough of the Bronx, Community District 2, Council District 17."
@@ -117,6 +130,8 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -128,8 +143,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
                "name" : "LU 0666-2020"
                "name" : "LU 0667-2020"
                "name" : "LU 0668-2020"
@@ -154,7 +171,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -199,6 +218,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806319&GUID=5ADC143C-CA72-4781-9511-321A3839116F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1MQU5ETUFSS1MtMDkyMjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806319&GUID=5ADC143C-CA72-4781-9511-321A3839116F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806319&GUID=5ADC143C-CA72-4781-9511-321A3839116F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18124"

@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to extending temporary personal guaranty protection provisions for commercial tenants impacted by COVID-19"
    "description" : "Extending temporary personal guaranty protection provisions for commercial tenants impacted by COVID-19."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Small Business"
    "name" : "Committee on Small Business"
                "name" : "Int 2083-2020"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -62,9 +81,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-23T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806311&GUID=D599886D-1AD4-4E10-B38A-BACAF32315D2&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1TTUFMTEJVU0lORVNTLTA5MjMyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806311&GUID=D599886D-1AD4-4E10-B38A-BACAF32315D2"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806311&GUID=D599886D-1AD4-4E10-B38A-BACAF32315D2"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18123"

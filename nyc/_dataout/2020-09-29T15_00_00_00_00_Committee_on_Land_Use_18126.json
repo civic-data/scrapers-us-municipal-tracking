@@ -16,6 +16,7 @@
    ]
    ]
    }
+   }
 {
 }
    "agenda" : [
@@ -30,10 +31,11 @@
    "end_date" : ""
          "entity_type" : "organization"
          "extras" : {}
-   "extras" : {}
+   "extras" : {
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "VOTE"
          "media" : []
    "media" : []
                "media_type" : "application/pdf"

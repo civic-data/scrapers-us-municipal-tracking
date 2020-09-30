@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Sidewalk and Street Cleanliness in NYC."
    "description" : "Oversight - Sidewalk and Street Cleanliness in NYC."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Sanitation and Solid Waste Management"
    "name" : "Committee on Sanitation and Solid Waste Management"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-24T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802211&GUID=C82820CF-CE89-44E0-B732-AC9A49CACCFF&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802211&GUID=C82820CF-CE89-44E0-B732-AC9A49CACCFF"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=802211&GUID=C82820CF-CE89-44E0-B732-AC9A49CACCFF"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18086"

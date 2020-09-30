@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Election Administration during COVID-19 Pandemic."
    "description" : "Oversight - Election Administration during COVID-19 Pandemic."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Governmental Operations"
    "name" : "Committee on Governmental Operations"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-09-25T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=802201&GUID=90751209-E81F-42EC-BCC2-60156F0A7078&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=802201&GUID=90751209-E81F-42EC-BCC2-60156F0A7078"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=802201&GUID=90751209-E81F-42EC-BCC2-60156F0A7078"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18078"

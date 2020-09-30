@@ -6,6 +6,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -22,6 +26,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -48,6 +56,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -76,6 +87,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
          "description" : "Albany Crossings Apartments, Block 1858, Lot 24 (f.k.a. Lots 24, 25, 28, and 30), Block 1859, Lots 6, 10, 14, 15, and 16; Brooklyn, Community District No. 3, Council District 36."
@@ -108,6 +121,8 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
@@ -120,8 +135,10 @@
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
                "name" : "Int 1225-2018"
@@ -142,7 +159,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -176,7 +195,7 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-09-23T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
@@ -187,6 +206,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=805862&GUID=476B5AF9-FA31-4CE8-9940-3F27CFD63FD1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTA5MjMyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=805862&GUID=476B5AF9-FA31-4CE8-9940-3F27CFD63FD1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=805862&GUID=476B5AF9-FA31-4CE8-9940-3F27CFD63FD1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18121"
