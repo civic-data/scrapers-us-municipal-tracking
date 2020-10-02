@@ -1,12 +1,15 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -15,6 +18,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -40,6 +45,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - NYC's COVID-19 Testing and Contact Tracing Program, Part II"
@@ -55,12 +61,14 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Health"
          "name" : "Committee on Hospitals"
@@ -73,6 +81,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -91,11 +100,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-09-30T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806718&GUID=46411264-A5E0-4AEA-BA67-1AF8C3FDF9A0&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806718&GUID=46411264-A5E0-4AEA-BA67-1AF8C3FDF9A0"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806718&GUID=46411264-A5E0-4AEA-BA67-1AF8C3FDF9A0"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18152"
