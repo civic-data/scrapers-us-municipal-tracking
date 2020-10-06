@@ -1,9 +1,13 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -16,6 +20,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -31,6 +37,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "All items reported out of the Subcommittees."
    "documents" : [
@@ -40,13 +47,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Land Use"
    "name" : "Committee on Land Use"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
@@ -55,6 +64,7 @@
          "note" : "api"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -68,7 +78,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806324&GUID=10BF1C7F-E7D5-4CDF-8E01-979F0B40B878&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1MQU5EVVNFLTA5MjkyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806324&GUID=10BF1C7F-E7D5-4CDF-8E01-979F0B40B878"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806324&GUID=10BF1C7F-E7D5-4CDF-8E01-979F0B40B878"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18126"

@@ -33,9 +33,9 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+   "description" : ""
          "description" : "Jointly with the Subcommittee on Zoning and Franchises"
          "description" : "Oversight - Broadband and the Digital Divide "
-   "description" : "Oversight - Broadband and the Digital Divide"
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
@@ -53,7 +53,7 @@
                "media_type" : "application/pdf"
          "name" : "Committee on Technology"
    "name" : "Committee on Technology"
-      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
          "name" : "Subcommittee on Zoning and Franchises"
                "name" : "T2020-6706"
       "note" : ""
