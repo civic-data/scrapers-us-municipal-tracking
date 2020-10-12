@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6643\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The 2020 Census in New York City"
+   "description" : "Oversight - The 2020 Census in New York City"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 4)"
+               "name" : "T2020-6643"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18182"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-14T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=808913&GUID=7059425D-952D-4433-9809-58947DE890D3&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=808913&GUID=7059425D-952D-4433-9809-58947DE890D3"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18182"

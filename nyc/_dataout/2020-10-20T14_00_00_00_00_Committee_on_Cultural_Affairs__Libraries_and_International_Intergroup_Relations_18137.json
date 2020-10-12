@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6734\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Black Lives Matter, Anti-racism, Structural Racism and the Arts"
+   "description" : "Oversight - Black Lives Matter, Anti-racism, Structural Racism and the Arts"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+   "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6734"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Cultural Affairs, Libraries and International Intergroup Relations\"}"
+   "participants" : [
+   "pupa_id" : "18137"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-20T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806419&GUID=76E9C656-69AF-4022-84D6-123B5C28C966&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806419&GUID=76E9C656-69AF-4022-84D6-123B5C28C966"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18137"
