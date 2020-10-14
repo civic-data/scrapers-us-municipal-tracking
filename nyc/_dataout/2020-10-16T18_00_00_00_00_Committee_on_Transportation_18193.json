@@ -1,0 +1,119 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0018-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Res 0098-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6676\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6751\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to suspending monetary liability for parking violations issued to essential workers"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to providing for-hire vehicles with an initial thirty day inspection grace period"
+         "description" : "Oversight - TLC's Response to COVID-19 and Driver Assistance Programs."
+         "description" : "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, legislation making it a felony to assault a driver licensed by the Taxi and Limousine Commission."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+               "name" : "Int 0018-2018"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "Res 0098-2018"
+               "name" : "T2020-6676"
+               "name" : "T2020-6751"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "18193"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-16T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809662&GUID=16BFA190-1FAA-416F-8D00-A2457587E3BB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809662&GUID=16BFA190-1FAA-416F-8D00-A2457587E3BB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18193"

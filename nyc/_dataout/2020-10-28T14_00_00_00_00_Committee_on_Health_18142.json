@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6744\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Women and Gender Equity"
+         "description" : "Oversight - Sexual and Reproductive Rights in New York City"
+   "description" : "Oversight - Sexual and Reproductive Rights in New York City"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+         "name" : "Committee on Women and Gender Equity"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-6744"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Women and Gender Equity\"}"
+   "participants" : [
+   "pupa_id" : "18142"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-10-28T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806451&GUID=854DCB77-2667-4299-B229-1473C99C8B6E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806451&GUID=854DCB77-2667-4299-B229-1473C99C8B6E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18142"
