@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -23,6 +28,7 @@
    ]
    ]
    ]
+   }
    }
 {
 }
@@ -35,6 +41,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to the provision of information to tenants of the New York city housing authority regarding the mold ombudsperson"
          "description" : "Oversight -  An Update on NYCHA’s Plan to Address Chronic Mold Conditions at NYCHA Developments."
@@ -45,13 +52,16 @@
          "entity_type" : "organization"
          "extras" : {}
          "extras" : {}
-   "extras" : {}
+   "extras" : {
+         "links" : [
          "links" : [
    "links" : []
    "location" : {
+      "location note" : "Meeting Recessed due to Zoom issues."
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Public Housing"
    "name" : "Committee on Public Housing"
@@ -63,6 +73,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +87,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-07T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806501&GUID=2A5018EA-5F99-40F7-B8CD-7F12C2618D75&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806501&GUID=2A5018EA-5F99-40F7-B8CD-7F12C2618D75"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806501&GUID=2A5018EA-5F99-40F7-B8CD-7F12C2618D75"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18144"
