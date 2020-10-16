@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6655\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law in relation to space heaters, the establishment of a permanent outdoor dining program, and to amend local law number 77 for the year 2020, in relation to the expiration of the outdoor dining program"
+   "description" : "Expiration of the outdoor dining program."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+   "name" : "Committee on Consumer Affairs and Business Licensing"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
+               "name" : "T2020-6655"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+   "participants" : [
+   "pupa_id" : "18194"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-13T16:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809778&GUID=EA030B62-FD08-4F99-993E-D55BDFACCDBA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809778&GUID=EA030B62-FD08-4F99-993E-D55BDFACCDBA"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809778&GUID=EA030B62-FD08-4F99-993E-D55BDFACCDBA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18194"

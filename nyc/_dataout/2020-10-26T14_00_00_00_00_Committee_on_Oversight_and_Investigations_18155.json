@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6665\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Hospitals"
+         "description" : "Oversight - Examining the City's Support of NYC Hospitals During the COVID-19 Pandemic."
+   "description" : "Oversight - Examining the City's Support of NYC Hospitals During the COVID-19 Pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Hospitals"
+         "name" : "Committee on Oversight and Investigations"
+   "name" : "Committee on Oversight and Investigations"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+               "name" : "T2020-6665"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+         "organization_id" : "~{\"name\": \"Committee on Oversight and Investigations\"}"
+   "participants" : [
+   "pupa_id" : "18155"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-10-26T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806722&GUID=68F03FFE-BEEE-4E7C-A223-0D46F8E3C703&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806722&GUID=68F03FFE-BEEE-4E7C-A223-0D46F8E3C703"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18155"
