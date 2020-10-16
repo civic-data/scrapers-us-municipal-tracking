@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Housing and Buildings "
          "description" : "Oversight - Examining the City's Deed Theft and Deed Fraud Crisis"
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-13T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18149"

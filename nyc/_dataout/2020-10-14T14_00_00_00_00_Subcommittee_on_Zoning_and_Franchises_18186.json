@@ -11,6 +11,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -37,6 +39,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -53,6 +56,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -105,6 +110,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Application No. C 160146 MMK (Industry City) submitted by 1-10 Bush Terminal Owner L.P. and 19-20 Bush Terminal Owner L.P. pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the elimination, discontinuance and closing of 40ᵗʰ Street between First and Second Avenues; the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map Nos. X-2750 and V-2751 dated November 26, 2018 and signed by the Borough President, Borough of Brooklyn, Community District 7, Council District 38."
          "description" : "Application No. C 190011 ZMK (50 Old Fulton Rezoning) submitted by Alwest Old Fulton, LLC pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12d, changing from an M2-1 District to a M1-5 District, Borough of Brooklyn, Council District 33, Community District 2."
@@ -147,6 +153,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -162,6 +169,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
                "name" : "LU 0658-2020"
                "name" : "LU 0674-2020"
@@ -193,6 +201,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -236,7 +245,7 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-14T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
@@ -250,6 +259,8 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809310&GUID=702A9C52-01CE-45DF-86FC-0E9D52C7EB08&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809310&GUID=702A9C52-01CE-45DF-86FC-0E9D52C7EB08"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809310&GUID=702A9C52-01CE-45DF-86FC-0E9D52C7EB08"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18186"

@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Subcommittee on Zoning and Franchises"
          "description" : "Oversight - Broadband and the Digital Divide "
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Technology"
    "name" : "Committee on Technology"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-13T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=805764&GUID=84B2B1CF-AC71-426E-B5EE-F1AF594AAAFB&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=805764&GUID=84B2B1CF-AC71-426E-B5EE-F1AF594AAAFB"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=805764&GUID=84B2B1CF-AC71-426E-B5EE-F1AF594AAAFB"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18118"
