@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
+         "date" : ""
          "date" : ""
    "description" : ""
 Binary file (standard input) matches

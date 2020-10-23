@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Needs of Veterans During COVID-19."
    "description" : "Oversight - Needs of Veterans During COVID-19."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Veterans"
    "name" : "Committee on Veterans"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-19T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=807293&GUID=D2D24A8F-8720-4B64-8CE9-05517EDB749E&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=807293&GUID=D2D24A8F-8720-4B64-8CE9-05517EDB749E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=807293&GUID=D2D24A8F-8720-4B64-8CE9-05517EDB749E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18171"

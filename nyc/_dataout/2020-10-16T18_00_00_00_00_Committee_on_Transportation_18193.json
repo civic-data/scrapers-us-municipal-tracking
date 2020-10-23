@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -21,6 +24,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -49,6 +54,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to suspending monetary liability for parking violations issued to essential workers"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to providing for-hire vehicles with an initial thirty day inspection grace period"
@@ -67,6 +73,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -74,6 +81,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
@@ -89,6 +97,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -108,12 +117,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-16T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809662&GUID=16BFA190-1FAA-416F-8D00-A2457587E3BB&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809662&GUID=16BFA190-1FAA-416F-8D00-A2457587E3BB"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809662&GUID=16BFA190-1FAA-416F-8D00-A2457587E3BB"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18193"

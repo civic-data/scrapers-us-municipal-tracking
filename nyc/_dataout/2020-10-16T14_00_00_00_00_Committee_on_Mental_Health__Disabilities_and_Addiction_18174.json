@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Higher Education"
          "description" : "Oversight - Mental Health Resources for Students at CUNY"
    "description" : "Oversight - Mental Health Resources for Students at CUNY"
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Higher Education"
          "name" : "Committee on Mental Health, Disabilities and Addiction"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-16T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=807552&GUID=E601DDA3-FFFB-4FC5-A56F-4F114A0468BC&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=807552&GUID=E601DDA3-FFFB-4FC5-A56F-4F114A0468BC"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=807552&GUID=E601DDA3-FFFB-4FC5-A56F-4F114A0468BC"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18174"

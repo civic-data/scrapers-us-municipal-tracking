@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -19,6 +22,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -47,6 +52,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring the Department of Education to report on metrics regarding remote learning during the COVID-19 pandemic"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on remote learning attendance"
@@ -65,6 +71,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -72,6 +79,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Education"
          "name" : "Committee on Health"
@@ -86,6 +94,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -107,12 +116,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-16T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=807906&GUID=6218DEBB-41CF-4D83-9EE1-F4E7CE7070DD&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=807906&GUID=6218DEBB-41CF-4D83-9EE1-F4E7CE7070DD"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=807906&GUID=6218DEBB-41CF-4D83-9EE1-F4E7CE7070DD"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18179"

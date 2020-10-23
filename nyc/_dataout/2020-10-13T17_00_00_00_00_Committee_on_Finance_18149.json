@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -23,6 +27,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -39,6 +45,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Housing and Buildings "
          "description" : "Oversight - Examining the City's Deed Theft and Deed Fraud Crisis"
@@ -52,13 +59,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
          "name" : "Committee on Housing and Buildings"
@@ -71,6 +80,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -89,7 +99,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IT1VTSU5HLTEwMTMyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806589&GUID=9B01B89D-A897-49C8-B97E-4D0BF1568B41"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18149"

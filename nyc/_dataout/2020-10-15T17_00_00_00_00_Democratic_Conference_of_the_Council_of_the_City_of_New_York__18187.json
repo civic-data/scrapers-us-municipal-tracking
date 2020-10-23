@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY"
    "description" : "Ms. Rodney L. Pepe Souvenir, Esq. as the NYC Board of Elections' Democratic Elections Commissioner for Kings County (M 244)."
          "description" : "The appointment of Ms. Rodney L. Pepe Souvenir, Esq. as the NYC Board of Elections' Democratic Elections Commissioner for Kings County (M 244)."
@@ -39,13 +52,17 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
    "name" : "Democratic Conference of the Council of the City of New York "
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
                "name" : "T2020-6410"
@@ -53,6 +70,8 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -64,10 +83,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-15T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809376&GUID=01962E9A-ADEC-4CE1-B63B-C48F50AD564A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1ERU1DT05GLTEwMTUyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809376&GUID=01962E9A-ADEC-4CE1-B63B-C48F50AD564A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809376&GUID=01962E9A-ADEC-4CE1-B63B-C48F50AD564A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18187"

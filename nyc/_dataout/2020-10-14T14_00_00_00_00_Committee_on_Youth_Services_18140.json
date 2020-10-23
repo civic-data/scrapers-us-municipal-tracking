@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Immigration"
          "description" : "Oversight - Adult Literacy and Digital Literacy in Immigrant Communities"
    "description" : "Oversight - Adult Literacy and Digital Literacy in Immigrant Communities"
@@ -45,12 +58,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Immigration"
          "name" : "Committee on Youth Services"
    "name" : "Committee on Youth Services"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +94,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-10-14T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806422&GUID=A0728E4D-AAF4-4698-A4B5-EBF8D540902D&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFT01URS1JTU1JR1JBVElPTi0xMDE0MjAyMC5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806422&GUID=A0728E4D-AAF4-4698-A4B5-EBF8D540902D"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806422&GUID=A0728E4D-AAF4-4698-A4B5-EBF8D540902D"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18140"
