@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"M 0253-2020\"}"
+               "bill_id" : "~{\"identifier\": \"M 0254-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Communication from the Mayor - Submitting the name of Deborah Marton to the Council for its advice and consent regarding her appointment as a member of the New York City Art Commission, known as the Public Design Commission, pursuant to Sections 31 and 851 of the New York City Charter."
+         "description" : "Communication from the Mayor - Submitting the name of Kenseth Armstead to the Council for its advice and consent regarding his appointment as a member of the New York City Art Commission, known as the Public Design Commission, pursuant to Sections 31 and 851 of the New York City Charter."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+               "name" : "M 0253-2020"
+               "name" : "M 0254-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "18216"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-10-29T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=811024&GUID=127AABC4-BC56-407E-ADA9-566C9585AC87&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=811024&GUID=127AABC4-BC56-407E-ADA9-566C9585AC87"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18216"
