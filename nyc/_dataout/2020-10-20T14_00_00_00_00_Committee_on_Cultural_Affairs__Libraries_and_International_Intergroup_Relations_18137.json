@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Oversight - Black Lives Matter, Anti-racism, Structural Racism and the Arts"
    "description" : "Oversight - Black Lives Matter, Anti-racism, Structural Racism and the Arts"
    "documents" : [
@@ -37,11 +50,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
    "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
@@ -50,7 +67,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -63,6 +82,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806419&GUID=76E9C656-69AF-4022-84D6-123B5C28C966&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DVUxUVVJBTEFGRkFJUlMtMTAyMDIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806419&GUID=76E9C656-69AF-4022-84D6-123B5C28C966"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806419&GUID=76E9C656-69AF-4022-84D6-123B5C28C966"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18137"

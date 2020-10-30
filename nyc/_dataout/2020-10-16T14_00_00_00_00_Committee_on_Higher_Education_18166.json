@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -23,6 +27,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -39,6 +45,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Mental Health, Disabilities and Addiction"
          "description" : "Oversight - Mental Health Resources for Students at CUNY"
    "description" : "Oversight - Mental Health Resources for Students at CUNY"
@@ -52,13 +59,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Higher Education"
    "name" : "Committee on Higher Education"
          "name" : "Committee on Mental Health, Disabilities and Addiction"
@@ -71,6 +80,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -89,7 +99,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806919&GUID=682FE3F7-2B76-456B-ABFE-2C2520F5E0BB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1ISUdIRVJFRC0xMDE2MjAyMC5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806919&GUID=682FE3F7-2B76-456B-ABFE-2C2520F5E0BB"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806919&GUID=682FE3F7-2B76-456B-ABFE-2C2520F5E0BB"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18166"

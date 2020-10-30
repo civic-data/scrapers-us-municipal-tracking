@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Application No. C 200103 ZMQ (110-40 Saultell Avenue Rezoning) submitted by Tuchman Associates, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10b, changing from an R6B District to an R6 District, Borough of Queens, Council District 21, Community District 4."
          "description" : "Application No. N 200104 ZRQ (110-40 Saultell Avenue Rezoning) submitted by Tuchman Associates, LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying Appendix F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Queens, Council District 21, Community District 4."
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
                "name" : "LU 0689-2020"
                "name" : "LU 0690-2020"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-22T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=810409&GUID=FA76CE49-CBB6-48C8-BEA1-27F997A57C07&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1aT05JTkctMTAyMjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=810409&GUID=FA76CE49-CBB6-48C8-BEA1-27F997A57C07"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=810409&GUID=FA76CE49-CBB6-48C8-BEA1-27F997A57C07"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18197"
