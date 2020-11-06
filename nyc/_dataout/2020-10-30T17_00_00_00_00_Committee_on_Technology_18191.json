@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -23,6 +27,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -39,6 +45,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Small Business"
          "description" : "Oversight - How Technology can Assist Small Businesses during the Pandemic."
    "description" : "Oversight - How Technology can Assist Small Businesses during the Pandemic."
@@ -52,13 +59,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Small Business"
          "name" : "Committee on Technology"
    "name" : "Committee on Technology"
@@ -71,6 +80,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -89,7 +99,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809545&GUID=FAB46D06-8353-4F70-BB34-F0CC0617BE58&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1URUNITk9MT0dZLTEwMzAyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809545&GUID=FAB46D06-8353-4F70-BB34-F0CC0617BE58"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809545&GUID=FAB46D06-8353-4F70-BB34-F0CC0617BE58"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18191"

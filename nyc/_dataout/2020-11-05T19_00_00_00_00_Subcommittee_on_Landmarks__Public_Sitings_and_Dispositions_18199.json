@@ -1,16 +1,27 @@
             {
+            {
+            {
             }
+            }
+            }
+         ]
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -24,6 +35,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "See Land Use Calendar"
    "documents" : [
@@ -32,18 +45,24 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
          "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
    "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -53,9 +72,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-11-05T19:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=810477&GUID=641D442F-A08B-4544-95A9-318A81D947FB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1MQU5ETUFSS1MtMTEwNTIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=810477&GUID=641D442F-A08B-4544-95A9-318A81D947FB"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=810477&GUID=641D442F-A08B-4544-95A9-318A81D947FB"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18199"
