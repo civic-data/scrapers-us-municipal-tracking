@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - Sexual and Reproductive Rights in New York City"
@@ -45,12 +58,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Health"
          "name" : "Committee on Women and Gender Equity"
    "name" : "Committee on Women and Gender Equity"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -79,6 +98,10 @@
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=806450&GUID=F0592933-A5FE-4D72-BA8A-B505620EC6A4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1XT01FTi0xMDI4MjAyMC5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=806450&GUID=F0592933-A5FE-4D72-BA8A-B505620EC6A4"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=806450&GUID=F0592933-A5FE-4D72-BA8A-B505620EC6A4"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18141"

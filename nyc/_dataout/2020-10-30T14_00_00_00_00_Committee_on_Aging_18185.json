@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Oversight - The Future of Senior Home Delivered Meals"
          "description" : "Resolution calling upon the Department for the Aging to ensure that halal meals are available as part of the home delivered meals program."
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-10-30T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=809236&GUID=8D77A684-3454-450D-93B2-5E98ACBC0C32&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=809236&GUID=8D77A684-3454-450D-93B2-5E98ACBC0C32"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=809236&GUID=8D77A684-3454-450D-93B2-5E98ACBC0C32"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18185"
