@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6855\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Reviewing the City's Indirect Cost Rate Funding Initiative During the COVID-19 Pandemic."
+   "description" : "Oversight - Reviewing the City's Indirect Cost Rate Funding Initiative During the COVID-19 Pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Contracts"
+   "name" : "Committee on Contracts"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6855"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Contracts\"}"
+   "participants" : [
+   "pupa_id" : "18246"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-11-25T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=813445&GUID=1ABF948F-F20F-442E-9CE1-2CAFBD6CF7AB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=813445&GUID=1ABF948F-F20F-442E-9CE1-2CAFBD6CF7AB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18246"

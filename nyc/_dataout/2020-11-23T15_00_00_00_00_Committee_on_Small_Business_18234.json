@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6850\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Preventing Further Business loss During a COVID-19 Second Wave."
+   "description" : "Oversight - Preventing Further Business loss During a COVID-19 Second Wave."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Small Business"
+   "name" : "Committee on Small Business"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2020-6850"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "18234"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-11-23T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=812495&GUID=4FF210E9-F8FD-4E96-9A0D-9F00B8C700EA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=812495&GUID=4FF210E9-F8FD-4E96-9A0D-9F00B8C700EA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18234"
