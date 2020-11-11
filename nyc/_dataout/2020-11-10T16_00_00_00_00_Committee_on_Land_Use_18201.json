@@ -1,11 +1,16 @@
             {
+            {
             }
+            }
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -25,6 +30,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "See Land Use Calendar"
    "documents" : [
@@ -33,11 +39,13 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Land Use"
    "name" : "Committee on Land Use"
@@ -45,6 +53,7 @@
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -55,9 +64,11 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-11-10T16:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=810479&GUID=5F9CD0FF-1840-4AA3-9F8D-67E96409AB1B&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=810479&GUID=5F9CD0FF-1840-4AA3-9F8D-67E96409AB1B"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=810479&GUID=5F9CD0FF-1840-4AA3-9F8D-67E96409AB1B"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18201"
