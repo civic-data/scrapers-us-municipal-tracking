@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6900\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Impact of COVID-19 on Art and Cultural Educational Programming in New York City."
+   "description" : "Oversight - The Impact of COVID-19 on Art and Cultural Educational Programming in New York City."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+   "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2020-6900"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Cultural Affairs, Libraries and International Intergroup Relations\"}"
+   "participants" : [
+   "pupa_id" : "18256"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-15T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=814035&GUID=E26AC2B3-36A1-461F-A644-5A5BDCE3305D&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=814035&GUID=E26AC2B3-36A1-461F-A644-5A5BDCE3305D"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18256"

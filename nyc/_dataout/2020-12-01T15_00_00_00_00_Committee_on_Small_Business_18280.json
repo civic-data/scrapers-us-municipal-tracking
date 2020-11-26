@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6878\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Consumer Affairs and Business Licensing"
+         "description" : "Oversight - The City’s Open Storefronts Program"
+   "description" : "Oversight - The City’s Open Storefronts Program"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Consumer Affairs and Business Licensing"
+         "name" : "Committee on Small Business"
+   "name" : "Committee on Small Business"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2020-6878"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Consumer Affairs and Business Licensing\"}"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "18280"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-12-01T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=816422&GUID=5035AEFA-0F08-4EF0-B9E0-E14D8BE455C4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=816422&GUID=5035AEFA-0F08-4EF0-B9E0-E14D8BE455C4"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18280"

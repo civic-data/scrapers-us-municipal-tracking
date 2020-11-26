@@ -1,0 +1,127 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1693-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1694-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1695-2019\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to studying age discrimination in the workplace"
+         "description" : "A Local Law to amend the New York city charter, in relation to a center for older workforce development"
+         "description" : "A Local Law to amend the New York city charter, in relation to recommendations regarding age discrimination and developing the older adult workforce"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Aging"
+   "name" : "Committee on Aging"
+               "name" : "Int 1693-2019"
+               "name" : "Int 1694-2019"
+               "name" : "Int 1695-2019"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+   "participants" : [
+   "pupa_id" : "18285"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-11-19T16:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=816591&GUID=172E79F0-A814-401D-AB83-4955BFE1F7B5&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1BR0lORy0xMTE5MjAyMC5tcDQ%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=816591&GUID=172E79F0-A814-401D-AB83-4955BFE1F7B5"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=816591&GUID=172E79F0-A814-401D-AB83-4955BFE1F7B5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18285"

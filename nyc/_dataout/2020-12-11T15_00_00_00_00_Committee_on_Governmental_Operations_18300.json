@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1994-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6913\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6914\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to a voter education campaign regarding ranked choice voting"
+         "description" : "A Local Law to amend the New York city charter, in relation to the reporting of unofficial election night results for ranked choice elections"
+         "description" : "Oversight - Ranked Choice Voting (RCV) Implementation in NYC."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1994-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-6913"
+               "name" : "T2020-6914"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18300"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-11T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=819080&GUID=AE3D7084-9BF7-42EB-9EC7-7ABD76324DC5&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=819080&GUID=AE3D7084-9BF7-42EB-9EC7-7ABD76324DC5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18300"

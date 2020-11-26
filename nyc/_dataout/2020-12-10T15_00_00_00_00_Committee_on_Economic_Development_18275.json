@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6898\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Small Business"
+         "description" : "Oversight - Workforce Development and Combating Unemployment"
+   "description" : "Oversight - Workforce Development and Combating Unemployment"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Economic Development"
+   "name" : "Committee on Economic Development"
+         "name" : "Committee on Small Business"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-6898"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Economic Development\"}"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "18275"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-12-10T15:00:00+00:00"
+   "status" : "cancelled"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=816229&GUID=5861B07A-D0B3-4892-9054-23D6D4214B20&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=816229&GUID=5861B07A-D0B3-4892-9054-23D6D4214B20"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18275"
