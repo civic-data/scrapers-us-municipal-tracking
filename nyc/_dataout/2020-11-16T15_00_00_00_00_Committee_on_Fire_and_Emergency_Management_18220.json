@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the New York city fire code, in relation to machines used to resurface ice"
          "description" : "Oversight - FDNY Bureau of Fire Prevention’s Role in Promoting Safe COVID-19 Reopening."
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
                "name" : "Int 1891-2020"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-11-16T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=811612&GUID=733644D6-05F9-41A3-B893-1D5B471FA15F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSVJFLTExMTYyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=811612&GUID=733644D6-05F9-41A3-B893-1D5B471FA15F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=811612&GUID=733644D6-05F9-41A3-B893-1D5B471FA15F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18220"

@@ -34,8 +34,8 @@
       "coordinates" : null
          "date" : ""
          "description" : "Jointly with the Committee on Health"
+   "description" : "Oversight - COVID-19 Vaccine"
          "description" : "Oversight - Vaccines and Future COVID-19 Treatments."
-   "description" : "Oversight - Vaccines and Future COVID-19 Treatments."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
@@ -75,7 +75,7 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-11-24T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "cancelled"
          "subjects" : []
          "subjects" : []
                "text" : ""

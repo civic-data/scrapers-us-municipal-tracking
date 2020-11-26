@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -19,6 +27,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to an annual report on the progress of the Brooklyn Navy Yard master plan"
          "description" : "Oversight - Brooklyn Navy Yard"
@@ -47,12 +60,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Economic Development"
    "name" : "Committee on Economic Development"
                "name" : "Int 1839-2019"
@@ -63,7 +80,9 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -76,10 +95,14 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-11-20T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=813069&GUID=C238084B-C093-4C48-98B9-22D19182CD48&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FQ09OT01JQ0RFVkVMT1BNRU5ULTExMjAyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=813069&GUID=C238084B-C093-4C48-98B9-22D19182CD48"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=813069&GUID=C238084B-C093-4C48-98B9-22D19182CD48"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18242"

@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Oversight - The State of Historic Houses Under the Jurisdiction of the Parks Department."
    "description" : "Oversight - The State of Historic Houses Under the Jurisdiction of the Parks Department."
    "documents" : [
@@ -37,11 +50,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Parks and Recreation"
    "name" : "Committee on Parks and Recreation"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
@@ -50,7 +67,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +79,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-11-18T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=812437&GUID=A72EC072-43AD-4E8D-8A7F-DF9EB317703E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1QQVJLUy0xMTE4MjAyMC5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=812437&GUID=A72EC072-43AD-4E8D-8A7F-DF9EB317703E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=812437&GUID=A72EC072-43AD-4E8D-8A7F-DF9EB317703E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18232"
