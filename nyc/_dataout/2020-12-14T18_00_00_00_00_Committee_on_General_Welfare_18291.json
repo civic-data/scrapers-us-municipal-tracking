@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6453\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6872\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6924\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to a supportive housing tenant’s bill of rights"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to outreach to unsheltered individuals"
+         "description" : "Oversight - Supportive Housing"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on General Welfare"
+   "name" : "Committee on General Welfare"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2020-6453"
+               "name" : "T2020-6872"
+               "name" : "T2020-6924"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18291"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-14T18:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=817852&GUID=9E3586CD-AFAE-4A3A-B0A4-5775E6F68478&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=817852&GUID=9E3586CD-AFAE-4A3A-B0A4-5775E6F68478"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18291"

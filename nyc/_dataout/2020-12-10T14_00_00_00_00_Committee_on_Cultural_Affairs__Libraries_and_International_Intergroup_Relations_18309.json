@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2034-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2068-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to the temporary use of outdoor space for artistic and cultural events"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to coordinating the use of open space for art and cultural programming"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+   "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+               "name" : "Int 2034-2020"
+               "name" : "Int 2068-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Cultural Affairs, Libraries and International Intergroup Relations\"}"
+   "participants" : [
+   "pupa_id" : "18309"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-10T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821091&GUID=435DC636-9BB0-480D-9F00-9F0748FB84B9&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821091&GUID=435DC636-9BB0-480D-9F00-9F0748FB84B9"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18309"

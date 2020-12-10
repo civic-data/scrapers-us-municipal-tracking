@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2149-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1469-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6877\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to establishing climate indicators"
+         "description" : "Oversight - Climate Change and Environmental Quality: A Public Health Issue."
+         "description" : "Resolution calling on nations around the world to implement, the United States Senate to approve, and the president to ratify a fossil fuel non-proliferation treaty."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+               "name" : "Int 2149-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "Res 1469-2020"
+               "name" : "T2020-6877"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "18268"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-15T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=815824&GUID=DBF90E38-C77C-4309-A670-D1AECF2325FA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=815824&GUID=DBF90E38-C77C-4309-A670-D1AECF2325FA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18268"

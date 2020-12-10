@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "See Land Use Calendar"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+         "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+   "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Landmarks, Public Sitings and Dispositions\"}"
+   "participants" : [
+   "pupa_id" : "18312"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2020-12-14T19:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821146&GUID=8AFE5134-71C3-4A4E-8CBF-2D5F0CDDBA5F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821146&GUID=8AFE5134-71C3-4A4E-8CBF-2D5F0CDDBA5F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18312"

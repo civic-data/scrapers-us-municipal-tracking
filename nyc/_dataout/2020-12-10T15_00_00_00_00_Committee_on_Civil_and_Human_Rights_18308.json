@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1314-2018\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting discrimination based on one’s arrest record, pending criminal accusations or criminal convictions"
+   "description" : "Prohibiting discrimination based on one’s arrest record, pending criminal accusations or criminal convictions."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil and Human Rights"
+   "name" : "Committee on Civil and Human Rights"
+               "name" : "Int 1314-2018"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Civil and Human Rights\"}"
+   "participants" : [
+   "pupa_id" : "18308"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-10T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821090&GUID=87DB9A8F-69EF-4156-AB5C-21E75480E838&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821090&GUID=87DB9A8F-69EF-4156-AB5C-21E75480E838"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18308"

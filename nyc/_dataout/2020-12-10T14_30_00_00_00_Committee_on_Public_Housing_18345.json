@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1911-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law in relation to the provision of information to tenants of the New York city housing authority regarding the mold ombudsperson"
+   "description" : "Provision of information to tenants of the NYCHA regarding the mold ombudsperson."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Housing"
+   "name" : "Committee on Public Housing"
+               "name" : "Int 1911-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Public Housing\"}"
+   "participants" : [
+   "pupa_id" : "18345"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-10T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=823911&GUID=9FBEF643-104D-4E35-B232-D06E19B446BE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=823911&GUID=9FBEF643-104D-4E35-B232-D06E19B446BE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18345"

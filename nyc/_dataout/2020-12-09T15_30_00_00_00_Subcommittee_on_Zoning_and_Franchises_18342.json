@@ -1,0 +1,96 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"LU 0694-2020\"}"
+               "bill_id" : "~{\"identifier\": \"LU 0695-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "Application No. C 200033 ZMQ (Special Flushing Waterfront District) submitted by FWRA, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 10a and 10b, changing from a C4-2 District to an M1-2/R7-1 District, changing from an M3-1 District to an M1-2/R7-1 District, and establishing a Special Flushing Waterfront District (FW), Borough of Queens, Community District 7, Council District 20."
+         "description" : "Application No. N 200034 ZRQ (Special Flushing Waterfront District) submitted by FWRA, LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, establishing the Special Flushing Waterfront District (creating Article XII, Chapter 7) and modifying related Sections, including APPENDIX F (Inclusionary Housing designated areas and Mandatory Inclusionary Housing areas) to establish a Mandatory Inclusionary Housing Area utilizing Options 1 and 2, Borough of Queens, Community District 7, Council District 20."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "name" : "LU 0694-2020"
+               "name" : "LU 0695-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+         "name" : "Subcommittee on Zoning and Franchises"
+   "name" : "Subcommittee on Zoning and Franchises"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Subcommittee on Zoning and Franchises\"}"
+   "participants" : [
+   "pupa_id" : "18342"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-09T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=823373&GUID=44DB13BE-2FA5-4B60-8B67-EEA348C6AA14&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=823373&GUID=44DB13BE-2FA5-4B60-8B67-EEA348C6AA14"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=823373&GUID=44DB13BE-2FA5-4B60-8B67-EEA348C6AA14"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18342"
