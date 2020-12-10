@@ -34,8 +34,8 @@
       "coordinates" : null
          "date" : ""
          "description" : "Jointly with the Committee on Immigration"
+   "description" : "Oversight - Older Adult Immigrant Population"
          "description" : "Oversight - Older Adult Immigration Population."
-   "description" : "Oversight - Older Adult Immigration Population."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
@@ -75,7 +75,7 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-12-14T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "cancelled"
          "subjects" : []
          "subjects" : []
                "text" : ""

@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Small Business"
          "description" : "Oversight - The City’s Open Storefronts Program"
    "description" : "Oversight - The City’s Open Storefronts Program"
@@ -45,12 +58,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
          "name" : "Committee on Small Business"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +94,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-12-01T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=816423&GUID=6EE66AB3-B8B0-4521-9FE8-6A11FE54C5A6&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1TTUJVU0lORVNTLTEyMDEyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=816423&GUID=6EE66AB3-B8B0-4521-9FE8-6A11FE54C5A6"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=816423&GUID=6EE66AB3-B8B0-4521-9FE8-6A11FE54C5A6"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18281"
