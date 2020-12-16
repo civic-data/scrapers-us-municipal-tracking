@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails"
          "description" : "Oversight - Ending Solitary Confinement in New York City Jails."
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Criminal Justice"
    "name" : "Committee on Criminal Justice"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-12-11T15:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18301"

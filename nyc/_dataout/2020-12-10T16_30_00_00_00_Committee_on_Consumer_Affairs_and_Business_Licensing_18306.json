@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -29,6 +40,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring businesses to notify customers of the use of biometric identifier technology and prohibiting the sale of biometric identifier information"
    "description" : "Requiring businesses to notify customers of the use of biometric identifier technology and prohibiting the sale of biometric identifier information."
    "documents" : [
@@ -38,12 +51,16 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
                "name" : "Int 1170-2018"
@@ -52,7 +69,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -62,9 +81,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-12-10T16:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821085&GUID=C76486AA-BF1D-4CE6-923D-45FBD94C052A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DT05TVU1FUkFGRkFJUlMtMTIxMDIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821085&GUID=C76486AA-BF1D-4CE6-923D-45FBD94C052A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=821085&GUID=C76486AA-BF1D-4CE6-923D-45FBD94C052A"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18306"
