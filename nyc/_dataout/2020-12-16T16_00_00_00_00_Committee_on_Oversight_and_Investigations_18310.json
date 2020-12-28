@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -33,6 +44,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Public Safety"
          "description" : "Oversight – Racism, Bias, and Hate Speech in the NYPD."
    "description" : "Oversight – Racism, Bias, and Hate Speech in the NYPD."
@@ -45,12 +58,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Oversight and Investigations"
    "name" : "Committee on Oversight and Investigations"
          "name" : "Committee on Public Safety"
@@ -60,8 +77,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -75,10 +94,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2020-12-16T16:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821131&GUID=336CB9C8-D509-4E2A-A037-18438D0C349E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1QVUJTQUZFLTEyMTYyMDIwLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821131&GUID=336CB9C8-D509-4E2A-A037-18438D0C349E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=821131&GUID=336CB9C8-D509-4E2A-A037-18438D0C349E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18310"

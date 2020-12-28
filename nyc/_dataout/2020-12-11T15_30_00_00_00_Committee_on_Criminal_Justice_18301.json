@@ -2,6 +2,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -10,6 +12,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -24,6 +28,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -41,6 +47,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails"
          "description" : "Oversight - Ending Solitary Confinement in New York City Jails."
@@ -54,13 +61,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Criminal Justice"
    "name" : "Committee on Criminal Justice"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
@@ -73,6 +82,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -90,7 +100,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DUklNSU5BTEpVU1RJQ0UtMTIxMTIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=819356&GUID=7340F15F-F191-478D-9347-087A310B5470"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18301"

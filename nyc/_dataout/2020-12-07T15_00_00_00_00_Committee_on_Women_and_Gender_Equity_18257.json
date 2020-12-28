@@ -35,6 +35,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -142,6 +144,7 @@
          "notes" : []
          "notes" : []
          "notes" : []
+         "note" : "web"
          "order" : "0"
          "order" : "1"
          "order" : "2"
@@ -171,6 +174,7 @@
                "text" : ""
                "text" : ""
                "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=814138&GUID=FAA4C2E8-DE3D-4559-96F2-EEBFE5BF717C&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1HRU5ERVItMTIwNzIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=814138&GUID=FAA4C2E8-DE3D-4559-96F2-EEBFE5BF717C"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=814138&GUID=FAA4C2E8-DE3D-4559-96F2-EEBFE5BF717C"

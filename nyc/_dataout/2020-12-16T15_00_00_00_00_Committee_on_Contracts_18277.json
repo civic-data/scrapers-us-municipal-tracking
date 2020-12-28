@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Oversight - Review of Agency Compliance with Local Law 63 of 2011 Requiring Cost-Benefit Analyses of Displacement of City Workers in Solicitations for Certain Contracts."
    "documents" : [
@@ -37,11 +50,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Contracts"
    "name" : "Committee on Contracts"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
@@ -50,7 +67,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +79,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2020-12-16T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=816234&GUID=BA44F2E8-6383-4492-AEF4-68015CBDE766&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DT05UUkFDVFMtMTIxNjIwMjAubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=816234&GUID=BA44F2E8-6383-4492-AEF4-68015CBDE766"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=816234&GUID=BA44F2E8-6383-4492-AEF4-68015CBDE766"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18277"
