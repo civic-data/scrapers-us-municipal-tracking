@@ -1,0 +1,93 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1770-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to whistleblower protections for individuals subject to alleged adverse personnel actions"
+   "description" : "Whistleblower protections for individuals subject to alleged adverse personnel actions."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Oversight and Investigations"
+   "name" : "Committee on Oversight and Investigations"
+               "name" : "Int 1770-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 4) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Oversight and Investigations\"}"
+   "participants" : [
+   "pupa_id" : "18357"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-16T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=826144&GUID=910CF01C-F167-4C8D-A1E6-FDF1AA178A9A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1PVkVSU0lHSFQtMTIxNjIwMjAubXA0&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=826144&GUID=910CF01C-F167-4C8D-A1E6-FDF1AA178A9A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=826144&GUID=910CF01C-F167-4C8D-A1E6-FDF1AA178A9A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18357"

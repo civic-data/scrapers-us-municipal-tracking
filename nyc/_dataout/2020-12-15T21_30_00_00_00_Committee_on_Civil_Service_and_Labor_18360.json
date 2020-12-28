@@ -1,0 +1,110 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1396-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1415-2019\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to fast food employee layoffs"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to wrongful discharge of fast food employees"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+               "name" : "Int 1396-2019"
+               "name" : "Int 1415-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 5) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+   "participants" : [
+   "pupa_id" : "18360"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-15T21:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=826797&GUID=105631A2-EE79-4FA7-9CA6-65BD4833B99E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DSVZJTFNFUlZJQ0UtMTIxNTIwMjAubXA0&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=826797&GUID=105631A2-EE79-4FA7-9CA6-65BD4833B99E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=826797&GUID=105631A2-EE79-4FA7-9CA6-65BD4833B99E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18360"

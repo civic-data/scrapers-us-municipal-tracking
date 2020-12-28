@@ -1,0 +1,110 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2058-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2104-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to requiring the department of education to report on metrics regarding remote learning during the COVID-19 pandemic"
+         "description" : "A Local Law in relation to requiring the department of education to report on remote learning attendance"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+               "name" : "Int 2058-2020"
+               "name" : "Int 2104-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 5) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+   "participants" : [
+   "pupa_id" : "18351"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2020-12-15T20:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=825390&GUID=568FA273-028C-41A2-B8C6-770AF9D8646A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FRFVDQVRJT04tMTIxNTIwMjBqb2luZWQubXA0&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=825390&GUID=568FA273-028C-41A2-B8C6-770AF9D8646A"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=825390&GUID=568FA273-028C-41A2-B8C6-770AF9D8646A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18351"
