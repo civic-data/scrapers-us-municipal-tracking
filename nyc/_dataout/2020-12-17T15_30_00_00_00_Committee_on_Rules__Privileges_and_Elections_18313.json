@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -29,6 +33,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -47,6 +53,7 @@
          "classification" : []
    "classification" : "event"
       "coordinates" : null
+         "date" : ""
          "date" : ""
          "date" : ""
    "description" : ""
