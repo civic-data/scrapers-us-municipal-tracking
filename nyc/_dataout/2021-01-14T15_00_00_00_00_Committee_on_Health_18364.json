@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-7001\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - Oral Health and Access to Dental Care in New York City."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2020-7001"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+   "participants" : [
+   "pupa_id" : "18364"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-14T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828434&GUID=8B107FA3-29E4-4A4E-9D64-5368C877B5D3&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=828434&GUID=8B107FA3-29E4-4A4E-9D64-5368C877B5D3"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18364"

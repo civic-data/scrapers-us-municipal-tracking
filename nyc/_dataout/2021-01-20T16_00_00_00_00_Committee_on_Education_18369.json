@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-7000\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - Impact of COVID-19 on Student Learning and Academic Achievement."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2020-7000"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+   "participants" : [
+   "pupa_id" : "18369"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-20T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828714&GUID=7790F68B-9BFD-4AF9-9495-F039E7D8059C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=828714&GUID=7790F68B-9BFD-4AF9-9495-F039E7D8059C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18369"

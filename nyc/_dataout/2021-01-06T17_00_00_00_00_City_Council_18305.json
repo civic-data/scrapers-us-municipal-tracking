@@ -1,0 +1,56 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Charter Meeting - 12:00 PM"
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "CHARTER MEETING"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "18305"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-01-06T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=820952&GUID=EB853268-AEEA-4820-AE45-9FD6B24CA439&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=820952&GUID=EB853268-AEEA-4820-AE45-9FD6B24CA439"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18305"

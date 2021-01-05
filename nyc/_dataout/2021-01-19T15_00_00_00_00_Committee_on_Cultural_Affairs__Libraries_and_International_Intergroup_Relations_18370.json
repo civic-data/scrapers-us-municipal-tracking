@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2194-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2195-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2020-6997\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to requiring the department of cultural affairs to study the real estate issues impacting cultural spaces"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to certification of artists and the issuance of identity cards for certified artists"
+         "description" : "Oversight - The Impact of COVID-19 on NYC Artists and the Perspective of Working Artists During the Pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+   "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
+               "name" : "Int 2194-2020"
+               "name" : "Int 2195-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6997"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Cultural Affairs, Libraries and International Intergroup Relations\"}"
+   "participants" : [
+   "pupa_id" : "18370"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-19T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18370"
