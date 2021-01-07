@@ -1,0 +1,87 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2020-6346\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7022\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY"
+         "description" : "Resolution amending Rule 7.00 of the Rules of the Council in relation to changes in membership to the Standing Committees of the Council."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2020-6346"
+               "name" : "T2021-7022"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "18382"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-06T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=830375&GUID=50639E77-5232-40B0-A0ED-7007CC2D586A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=830375&GUID=50639E77-5232-40B0-A0ED-7007CC2D586A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18382"

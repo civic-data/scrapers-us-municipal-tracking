@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7035\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - Review of Agency Compliance with Local Law 63 of 2011 Requiring Cost-Benefit Analyses of Displacement of City Workers in Solicitations for Certain Contracts."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Contracts"
+   "name" : "Committee on Contracts"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 4)"
+               "name" : "T2021-7035"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Contracts\"}"
+   "participants" : [
+   "pupa_id" : "18392"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-27T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=831000&GUID=921FB51D-39F2-4A8D-B171-8E02F9DDBCCD&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=831000&GUID=921FB51D-39F2-4A8D-B171-8E02F9DDBCCD"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18392"
