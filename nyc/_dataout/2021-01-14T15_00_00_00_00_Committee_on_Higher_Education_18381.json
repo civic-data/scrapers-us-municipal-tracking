@@ -44,7 +44,7 @@
                "media_type" : "application/pdf"
          "name" : "Committee on Higher Education"
    "name" : "Committee on Higher Education"
-      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
                "name" : "T2021-7002"
       "note" : ""
          "note" : "Agenda"
@@ -60,7 +60,7 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-01-14T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=829813&GUID=9980A448-E5A1-4E74-B32F-1F24DB1FA1AB&Options=info|&Search="

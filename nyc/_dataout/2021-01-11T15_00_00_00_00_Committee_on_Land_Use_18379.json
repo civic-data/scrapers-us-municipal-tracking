@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the New York city charter, in relation to requiring a racial disparity report for certain land use applications"
    "documents" : [
@@ -37,20 +50,26 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Land Use"
    "name" : "Committee on Land Use"
                "name" : "Int 1572-2019"
-      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +79,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-01-11T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=829692&GUID=2F8FEE3A-D5AE-4E32-9BF5-2D935AD6C868&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1MQU5EVVNFLTAxMTEyMDIxXzE2MTA0OTkwMDEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=829692&GUID=2F8FEE3A-D5AE-4E32-9BF5-2D935AD6C868"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=829692&GUID=2F8FEE3A-D5AE-4E32-9BF5-2D935AD6C868"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18379"
