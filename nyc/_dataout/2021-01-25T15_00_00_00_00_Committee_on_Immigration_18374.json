@@ -1,0 +1,85 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1229-2020\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7041\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - Reducing Barriers to Citizenship"
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, the Adoptee Citizenship Act of 2019 (H.R. 2731 / S. 1554), in order to secure U.S. citizenship of internationally adopted children who are now adults or aging into adulthood."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "Res 1229-2020"
+               "name" : "T2021-7041"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18374"
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-25T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828764&GUID=EB5E1C03-E366-489F-8687-8DFEB8CA9933&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=828764&GUID=EB5E1C03-E366-489F-8687-8DFEB8CA9933"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18374"

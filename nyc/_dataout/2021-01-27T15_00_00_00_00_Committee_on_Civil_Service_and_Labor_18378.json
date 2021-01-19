@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7048\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Oversight - The State of Labor During COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Civil Service and Labor"
+   "name" : "Committee on Civil Service and Labor"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2021-7048"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Civil Service and Labor\"}"
+   "participants" : [
+   "pupa_id" : "18378"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-27T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=829601&GUID=0B4B89FA-BD16-4E9B-AEA0-52C30E6A1DA1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=829601&GUID=0B4B89FA-BD16-4E9B-AEA0-52C30E6A1DA1"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18378"

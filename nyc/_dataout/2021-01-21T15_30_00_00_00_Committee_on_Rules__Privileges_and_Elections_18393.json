@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7037\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Communication from the New York City Public Advocate submitting the name of Celia “Cea” Weaver for appointment as a member of the New York City Planning Commission pursuant to §§ 31 and 192(a) of the New York City Charter. "
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Rules, Privileges and Elections"
+   "name" : "Committee on Rules, Privileges and Elections"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7037"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Rules, Privileges and Elections\"}"
+   "participants" : [
+   "pupa_id" : "18393"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-21T15:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=831692&GUID=C6C3E277-80FD-4615-A48D-93E74D81E194&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=831692&GUID=C6C3E277-80FD-4615-A48D-93E74D81E194"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18393"

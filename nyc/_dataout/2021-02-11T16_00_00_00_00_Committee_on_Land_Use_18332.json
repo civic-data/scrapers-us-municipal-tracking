@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "All items reported out of the Subcommittees."
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Land Use"
+   "name" : "Committee on Land Use"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+   "participants" : [
+   "pupa_id" : "18332"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-02-11T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821221&GUID=71CE5F92-5198-4B39-844E-033AD571E6C5&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821221&GUID=71CE5F92-5198-4B39-844E-033AD571E6C5"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18332"

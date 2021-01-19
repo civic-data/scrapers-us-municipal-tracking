@@ -1,0 +1,61 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "See Land Use Calendar"
+   "documents" : [
+   "end_date" : ""
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+         "name" : "Subcommittee on Zoning and Franchises"
+   "name" : "Subcommittee on Zoning and Franchises"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Subcommittee on Zoning and Franchises\"}"
+   "participants" : [
+   "pupa_id" : "18316"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-02-09T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=821200&GUID=8F23F691-89B7-40D7-BB58-C56E930E25AB&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=821200&GUID=8F23F691-89B7-40D7-BB58-C56E930E25AB"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18316"
