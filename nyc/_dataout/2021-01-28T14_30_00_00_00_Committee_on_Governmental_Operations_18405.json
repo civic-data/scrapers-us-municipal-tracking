@@ -1,0 +1,115 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1420-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1832-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1994-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to a voter education campaign regarding ranked choice voting"
+         "description" : "A Local Law in relation to requiring a study and report on 311 complaints resulting in unconfirmed conditions"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring 311 to notify each agency when a request for service or complaint has not been closed within the number of days specified by such agency’s service level agreement"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 1420-2019"
+               "name" : "Int 1832-2019"
+               "name" : "Int 1994-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18405"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-01-28T14:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18405"

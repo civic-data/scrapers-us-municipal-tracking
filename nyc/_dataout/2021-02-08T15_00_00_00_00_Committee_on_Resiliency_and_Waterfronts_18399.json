@@ -1,0 +1,118 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0566-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0962-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7076\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a free elevation certificate program"
+         "description" : "A Local Law to amend the New York city building code, in relation to allowed amount of impermeable area at zoning lots"
+         "description" : "Jointly with the Committee on Housing and Buildings"
+         "description" : "Oversight – Neighborhood Resiliency"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Housing and Buildings"
+         "name" : "Committee on Resiliency and Waterfronts"
+   "name" : "Committee on Resiliency and Waterfronts"
+               "name" : "Int 0566-2018"
+               "name" : "Int 0962-2018"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "T2021-7076"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+         "organization_id" : "~{\"name\": \"Committee on Resiliency and Waterfronts\"}"
+   "participants" : [
+   "pupa_id" : "18399"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-02-08T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834598&GUID=E667A416-E824-49F1-AAE9-ED4427ABE92C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834598&GUID=E667A416-E824-49F1-AAE9-ED4427ABE92C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18399"
