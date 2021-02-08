@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to climate resiliency design guidelines and resiliency scoring"
          "description" : "A Local Law to amend the New York city building code, in relation to additional freeboard for structures in the floodplain"
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Resiliency and Waterfronts"
    "name" : "Committee on Resiliency and Waterfronts"
                "name" : "Int 2092-2020"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +111,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-01-25T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=830495&GUID=6B1F175E-9AEB-4EF7-AFC3-EC30F2886AC6&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1XQVRFUkZST05UUy0wMTI1MjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=830495&GUID=6B1F175E-9AEB-4EF7-AFC3-EC30F2886AC6"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=830495&GUID=6B1F175E-9AEB-4EF7-AFC3-EC30F2886AC6"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18385"

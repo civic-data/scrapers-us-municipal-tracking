@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring the department of cultural affairs to study the real estate issues impacting cultural spaces"
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to certification of artists and the issuance of identity cards for certified artists"
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
    "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
                "name" : "Int 2194-2020"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +111,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-01-19T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DVUxUVVJBTEFGRkFJUlMtMDExOTIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18370"
