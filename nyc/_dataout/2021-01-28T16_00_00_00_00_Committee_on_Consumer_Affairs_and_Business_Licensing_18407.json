@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,8 +41,9 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
-   "description" : ""
+         "date" : ""
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to expanding the availability of food vendor permits, creating an office of street vendor enforcement, and establishing a street vendor advisory board"
+   "description" : "Expanding the availability of food vendor permits, creating an office of street vendor enforcement, and establishing a street vendor advisory board."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
                "name" : "Int 1116-2018"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=835088&GUID=C0BD2769-B75A-4A34-9421-903B85955629&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DT05TVU1FUi0wMTI4MjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=835088&GUID=C0BD2769-B75A-4A34-9421-903B85955629"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=835088&GUID=C0BD2769-B75A-4A34-9421-903B85955629"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18407"

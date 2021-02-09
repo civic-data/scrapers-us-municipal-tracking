@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Oversight - New York City Emergency Planning."
    "documents" : [
@@ -44,12 +51,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
@@ -60,6 +69,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -73,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=829735&GUID=816944E1-3F73-40C5-96C0-551C2528C64F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSVJFLTAxMjYyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=829735&GUID=816944E1-3F73-40C5-96C0-551C2528C64F"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=829735&GUID=816944E1-3F73-40C5-96C0-551C2528C64F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18380"

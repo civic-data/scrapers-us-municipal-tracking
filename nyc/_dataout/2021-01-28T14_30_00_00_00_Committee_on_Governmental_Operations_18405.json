@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -29,6 +33,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -49,6 +55,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to a voter education campaign regarding ranked choice voting"
          "description" : "A Local Law in relation to requiring a study and report on 311 complaints resulting in unconfirmed conditions"
@@ -65,15 +72,17 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Governmental Operations"
    "name" : "Committee on Governmental Operations"
                "name" : "Int 1420-2019"
@@ -88,6 +97,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -109,7 +119,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1HT1ZPUFMtMDEyODIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=834918&GUID=9CB55930-9E55-42F2-BBAF-4B1D08E3143E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18405"

@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend local law number 49 for the year 2019, relating to establishing a demonstration program to facilitate the creation and alteration of habitable apartments in basements and cellars of certain one- and two-family dwellings, in relation to extending the time limit for filing construction documents for such program"
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Housing and Buildings"
    "name" : "Committee on Housing and Buildings"
                "name" : "Int 2204-2021"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=836067&GUID=A71497E5-A20A-462C-88DC-D895479B08B4&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IT1VTSU5HLTAxMjgyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=836067&GUID=A71497E5-A20A-462C-88DC-D895479B08B4"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=836067&GUID=A71497E5-A20A-462C-88DC-D895479B08B4"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18418"

@@ -4,6 +4,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -16,6 +18,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -34,6 +38,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -55,6 +61,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation air quality monitoring at designated “heavy use” thoroughfares."
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to phasing out the use of fuel oil grade no. 4"
@@ -74,15 +81,17 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Environmental Protection"
    "name" : "Committee on Environmental Protection"
                "name" : "Int 0960-2018"
@@ -99,6 +108,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -124,7 +134,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=832225&GUID=7DFD9C98-1757-4052-BE7C-A63266E271CF&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FTlZJUk9OTUVOVEFMLTAxMjYyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=832225&GUID=7DFD9C98-1757-4052-BE7C-A63266E271CF"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=832225&GUID=7DFD9C98-1757-4052-BE7C-A63266E271CF"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18394"
