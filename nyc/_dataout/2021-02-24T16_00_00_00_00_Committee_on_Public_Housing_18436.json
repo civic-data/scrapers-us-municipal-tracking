@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7118\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Public Safety at NYCHA"
+   "description" : "Oversight - Public Safety at NYCHA"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Housing"
+   "name" : "Committee on Public Housing"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7118"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Public Housing\"}"
+   "participants" : [
+   "pupa_id" : "18436"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-24T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837660&GUID=BA68A361-0405-4804-9507-FDEDC45F6BB8&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837660&GUID=BA68A361-0405-4804-9507-FDEDC45F6BB8"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18436"

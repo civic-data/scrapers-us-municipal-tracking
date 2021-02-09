@@ -1,0 +1,102 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2026-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2027-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2067-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to requiring the department of citywide administrative services to study electric powered takeoff and landing vehicles"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to collection of safety and route information regarding helicopters operating on city-owned property"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reducing noise caused by chartered helicopters"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Economic Development"
+   "name" : "Committee on Economic Development"
+               "name" : "Int 2026-2020"
+               "name" : "Int 2027-2020"
+               "name" : "Int 2067-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Economic Development\"}"
+   "participants" : [
+   "pupa_id" : "18431"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-17T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837525&GUID=92047FD9-6144-4EB6-A921-7CE8E0B0E83B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837525&GUID=92047FD9-6144-4EB6-A921-7CE8E0B0E83B"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18431"

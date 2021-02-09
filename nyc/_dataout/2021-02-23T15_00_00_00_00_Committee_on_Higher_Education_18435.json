@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7116\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Admissions Policies at CUNY Early College High Schools."
+   "description" : "Oversight - Admissions Policies at CUNY Early College High Schools."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Higher Education"
+   "name" : "Committee on Higher Education"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7116"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Higher Education\"}"
+   "participants" : [
+   "pupa_id" : "18435"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-23T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837659&GUID=ED526122-2D39-4B37-959B-EA5E2D2484E9&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837659&GUID=ED526122-2D39-4B37-959B-EA5E2D2484E9"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18435"
