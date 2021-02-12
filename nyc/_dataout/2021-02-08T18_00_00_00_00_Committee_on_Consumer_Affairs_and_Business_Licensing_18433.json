@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - The Office of Financial Empowerment"
    "description" : "Oversight - The Office of Financial Empowerment"
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -63,6 +72,8 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837621&GUID=0D73A3E5-6C6D-4F03-B3EC-8163868865C3&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837621&GUID=0D73A3E5-6C6D-4F03-B3EC-8163868865C3"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=837621&GUID=0D73A3E5-6C6D-4F03-B3EC-8163868865C3"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18433"
