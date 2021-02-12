@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7128\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The Juvenile Justice System During COVID-19."
+   "description" : "Oversight - The Juvenile Justice System During COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on General Welfare"
+   "name" : "Committee on General Welfare"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2021-7128"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18429"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-19T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837342&GUID=7D1779B1-C849-4051-9502-E7BA19E2140F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837342&GUID=7D1779B1-C849-4051-9502-E7BA19E2140F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18429"
