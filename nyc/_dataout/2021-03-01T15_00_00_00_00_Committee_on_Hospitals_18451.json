@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7147\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Access to Language Services and Equitable Care in NYC Hospitals During COVID-19."
+   "description" : "Oversight - Access to Language Services and Equitable Care in NYC Hospitals During COVID-19."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Hospitals"
+   "name" : "Committee on Hospitals"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2021-7147"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+   "participants" : [
+   "pupa_id" : "18451"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-01T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843703&GUID=895A95C7-00CE-4A62-8CE9-D82901045D93&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843703&GUID=895A95C7-00CE-4A62-8CE9-D82901045D93"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18451"

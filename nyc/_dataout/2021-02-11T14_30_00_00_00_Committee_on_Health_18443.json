@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2064-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the creation of an advisory board for gender and racial equity in hospitals"
+   "description" : "Creation of an advisory board for gender and racial equity in hospitals."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+               "name" : "Int 2064-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+   "participants" : [
+   "pupa_id" : "18443"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-11T14:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=842636&GUID=BDC3311D-A113-4075-86B8-B715255A6F12&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=842636&GUID=BDC3311D-A113-4075-86B8-B715255A6F12"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=842636&GUID=BDC3311D-A113-4075-86B8-B715255A6F12"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18443"

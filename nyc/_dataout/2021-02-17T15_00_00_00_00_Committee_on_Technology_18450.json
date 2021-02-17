@@ -1,0 +1,141 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2225-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1529-2021\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7143\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7144\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to the creation of a unified scheduling system for COVID-19 vaccinations"
+         "description" : "A Local Law in relation to the establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof"
+         "description" : "Jointly with the Committee on Health and the Committee on Aging"
+         "description" : "Oversight - COVID-19 and Seniors: Addressing Equity, Access to the Vaccine, and Scheduling Vaccination Appointments Online in NYC."
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to protect New York State’s safety net providers and Special Needs Plans by eliminating the Medicaid pharmacy carve-out."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+         "name" : "Committee on Health"
+         "name" : "Committee on Technology"
+   "name" : "Committee on Technology"
+               "name" : "Int 2225-2021"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
+               "name" : "Res 1529-2021"
+               "name" : "T2021-7143"
+               "name" : "T2021-7144"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+   "participants" : [
+   "pupa_id" : "18450"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-02-17T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843558&GUID=C7F0B2FD-CB38-4105-AF42-351566E2FC09&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843558&GUID=C7F0B2FD-CB38-4105-AF42-351566E2FC09"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18450"

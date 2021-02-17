@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2186-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the New York city charter, in relation to requiring a comprehensive long-term plan"
+   "description" : "Requiring a comprehensive long-term plan."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+   "name" : "Committee on Governmental Operations"
+               "name" : "Int 2186-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+   "participants" : [
+   "pupa_id" : "18438"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-23T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837705&GUID=62B8214B-2ACD-48C5-BB16-D236CB8543BD&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837705&GUID=62B8214B-2ACD-48C5-BB16-D236CB8543BD"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18438"

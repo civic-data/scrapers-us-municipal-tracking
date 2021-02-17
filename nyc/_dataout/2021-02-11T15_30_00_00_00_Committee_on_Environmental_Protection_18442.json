@@ -1,0 +1,115 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1592-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1593-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1966-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating a pilot program to test sewage for SARS-CoV-2"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the transfer of land, buildings and facilities of Rikers Island to the department of citywide administrative services"
+         "description" : "A Local Law to direct the mayor’s office of long-term planning and sustainability to study the feasibility of different types of renewable energy sources combined with battery storage on Rikers Island."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+               "name" : "Int 1592-2019"
+               "name" : "Int 1593-2019"
+               "name" : "Int 1966-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "18442"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-11T15:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=838683&GUID=E8764F0B-5BF6-430C-802A-638BB1ECD337&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=838683&GUID=E8764F0B-5BF6-430C-802A-638BB1ECD337"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=838683&GUID=E8764F0B-5BF6-430C-802A-638BB1ECD337"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18442"

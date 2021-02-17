@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2044-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : "Accessory sign violations and waiving penalties and fees for signs that are accessory to a use on the same zoning lot."
+         "description" : "A Local Law in relation to accessory sign violations and waiving penalties and fees for signs that are accessory to a use on the same zoning lot"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+               "name" : "Int 2044-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 4)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "18440"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-10T20:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=838061&GUID=439D0A04-37AF-4A17-9961-166B070AD654&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=838061&GUID=439D0A04-37AF-4A17-9961-166B070AD654"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=838061&GUID=439D0A04-37AF-4A17-9961-166B070AD654"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18440"

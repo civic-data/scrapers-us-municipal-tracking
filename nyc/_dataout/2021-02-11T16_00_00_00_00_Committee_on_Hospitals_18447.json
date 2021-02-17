@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 0512-2018\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : "Require medical schools to train all students about \"implicit bias\"."
+         "description" : "Resolution calling on New York State to require medical schools to train all students about \"implicit bias\"."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Hospitals"
+   "name" : "Committee on Hospitals"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 0512-2018"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Hospitals\"}"
+   "participants" : [
+   "pupa_id" : "18447"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-11T16:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843158&GUID=2C8CF86A-DDF5-4DB0-A5A4-ED8DD6AE7206&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843158&GUID=2C8CF86A-DDF5-4DB0-A5A4-ED8DD6AE7206"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=843158&GUID=2C8CF86A-DDF5-4DB0-A5A4-ED8DD6AE7206"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18447"
