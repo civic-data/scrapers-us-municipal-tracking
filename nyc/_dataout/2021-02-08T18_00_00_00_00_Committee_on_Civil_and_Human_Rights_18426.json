@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city commission on human rights to investigate past professional conduct by employees of the police department found to have engaged in biased acts and to make remedial recommendations, and to repeal section 8-131 of such code, relating to the inapplicability of certain provisions of chapter 1 of title 8 of such code to acts committed by members of the police department in the course of performing their official duties"
    "description" : "Requiring the NYC city commission on human rights to investigate past professional conduct by employees of the police dept found to have engaged in biased acts."
    "documents" : [
@@ -37,11 +50,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Civil and Human Rights"
    "name" : "Committee on Civil and Human Rights"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
@@ -50,7 +67,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -63,6 +82,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837161&GUID=7DCEE1ED-88BC-49EA-B0CD-27B797A29DE5&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IVU1BTlJJR0hUUy0wMjA4MjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837161&GUID=7DCEE1ED-88BC-49EA-B0CD-27B797A29DE5"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=837161&GUID=7DCEE1ED-88BC-49EA-B0CD-27B797A29DE5"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18426"

@@ -11,6 +11,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,12 +35,13 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+   "description" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - COVID and Seniors: Protecting Older Adults in the Community."
-   "description" : "Oversight - COVID and Seniors: Protecting Older Adults in the Community."
    "documents" : [
    "end_date" : ""
                "entity_type" : "bill"
+         "entity_type" : "organization"
          "entity_type" : "organization"
          "entity_type" : "organization"
          "extras" : {}
@@ -54,12 +57,14 @@
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
          "name" : "Committee on Health"
+         "name" : "Committee on Technology"
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 2) -"
                "name" : "T2021-7097"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "participant"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -69,6 +74,7 @@
          "order" : "1"
          "organization_id" : "~{\"name\": \"Committee on Aging\"}"
          "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
    "participants" : [
    "pupa_id" : "18404"
          "related_entities" : [

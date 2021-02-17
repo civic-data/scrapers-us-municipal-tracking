@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -11,6 +14,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -33,6 +38,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Jointly with the Committee on Aging"
          "description" : "Oversight - Older Adult Immigrant Population."
    "description" : "Oversight - Older Adult Immigrant Population."
@@ -45,11 +51,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
          "name" : "Committee on Immigration"
@@ -60,6 +68,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -75,10 +84,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-02-10T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834885&GUID=325D7DC6-D2BF-4EB6-B065-6BC49D0CC4E6&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834885&GUID=325D7DC6-D2BF-4EB6-B065-6BC49D0CC4E6"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=834885&GUID=325D7DC6-D2BF-4EB6-B065-6BC49D0CC4E6"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18401"
