@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,7 @@
          ]
          ]
          ]
+         ]
       {
       {
       {
@@ -24,6 +27,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -56,6 +61,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to the creation of a unified scheduling system for COVID-19 vaccinations"
          "description" : "A Local Law in relation to the establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof"
@@ -78,6 +84,7 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
@@ -86,6 +93,7 @@
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
          "name" : "Committee on Health"
@@ -103,6 +111,7 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -129,13 +138,15 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-02-17T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843558&GUID=C7F0B2FD-CB38-4105-AF42-351566E2FC09&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843558&GUID=C7F0B2FD-CB38-4105-AF42-351566E2FC09"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=843558&GUID=C7F0B2FD-CB38-4105-AF42-351566E2FC09"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18450"

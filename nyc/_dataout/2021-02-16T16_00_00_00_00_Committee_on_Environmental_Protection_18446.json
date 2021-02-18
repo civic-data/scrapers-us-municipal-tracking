@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties for failure to comply with backflow prevention requirements"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the sustainable energy loan program"
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Environmental Protection"
    "name" : "Committee on Environmental Protection"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-16T16:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=842755&GUID=48D1D655-6347-44D9-89CA-BEEE78881011&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=842755&GUID=48D1D655-6347-44D9-89CA-BEEE78881011"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=842755&GUID=48D1D655-6347-44D9-89CA-BEEE78881011"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18446"

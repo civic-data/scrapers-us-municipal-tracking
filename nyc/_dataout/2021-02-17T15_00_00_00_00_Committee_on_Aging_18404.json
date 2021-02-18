@@ -1,9 +1,12 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
@@ -12,6 +15,8 @@
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - COVID and Seniors: Protecting Older Adults in the Community."
@@ -48,11 +54,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
@@ -64,6 +72,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
@@ -81,10 +90,12 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-02-17T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18404"
