@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - IBO's Evaluation of the New York City Industrial Development Agency's Industrial Program."
    "description" : "Oversight - IBO's Evaluation of the New York City Industrial Development Agency's Industrial Program."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-19T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843731&GUID=9A98DEF3-0267-434C-A5CF-5247E26E8919&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843731&GUID=9A98DEF3-0267-434C-A5CF-5247E26E8919"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=843731&GUID=9A98DEF3-0267-434C-A5CF-5247E26E8919"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18452"

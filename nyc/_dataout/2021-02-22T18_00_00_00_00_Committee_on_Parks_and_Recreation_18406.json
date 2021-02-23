@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the New York city charter, in relation to the establishment of an office of sports recreation and the repeal of chapter 21-A of such charter relating to the New York city sports commission"
          "description" : "Oversight - Examining the Parks Department’s Permitting Process for the Use of Athletic Fields at Parks."
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Parks and Recreation"
    "name" : "Committee on Parks and Recreation"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-22T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=835087&GUID=B511F8EA-E434-403A-99D5-0870933F38E1&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=835087&GUID=B511F8EA-E434-403A-99D5-0870933F38E1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=835087&GUID=B511F8EA-E434-403A-99D5-0870933F38E1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18406"

@@ -3,6 +3,8 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
@@ -13,6 +15,8 @@
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -29,6 +33,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -48,6 +54,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring the department of citywide administrative services to study electric powered takeoff and landing vehicles"
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to collection of safety and route information regarding helicopters operating on city-owned property"
@@ -64,14 +71,16 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Economic Development"
    "name" : "Committee on Economic Development"
                "name" : "Int 2026-2020"
@@ -86,6 +95,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -107,7 +117,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837525&GUID=92047FD9-6144-4EB6-A921-7CE8E0B0E83B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FQ09OREVWLTAyMTcyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837525&GUID=92047FD9-6144-4EB6-A921-7CE8E0B0E83B"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=837525&GUID=92047FD9-6144-4EB6-A921-7CE8E0B0E83B"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18431"

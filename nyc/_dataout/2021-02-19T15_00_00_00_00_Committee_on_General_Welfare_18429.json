@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - The Juvenile Justice System During COVID-19."
    "description" : "Oversight - The Juvenile Justice System During COVID-19."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on General Welfare"
    "name" : "Committee on General Welfare"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-19T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837342&GUID=7D1779B1-C849-4051-9502-E7BA19E2140F&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837342&GUID=7D1779B1-C849-4051-9502-E7BA19E2140F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=837342&GUID=7D1779B1-C849-4051-9502-E7BA19E2140F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18429"

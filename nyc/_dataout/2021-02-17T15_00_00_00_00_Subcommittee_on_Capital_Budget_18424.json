@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Restarting the City's Capital Program in Light of COVID-19."
    "description" : "Oversight - Restarting the City's Capital Program in Light of COVID-19."
    "documents" : [
@@ -44,12 +51,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
          "name" : "Subcommittee on Capital Budget"
    "name" : "Subcommittee on Capital Budget"
@@ -60,6 +69,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -73,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=836789&GUID=4AEA5A73-0418-4E4A-AB25-88499AA43826&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DQVBCVURHRVQtMDIxNzIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=836789&GUID=4AEA5A73-0418-4E4A-AB25-88499AA43826"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=836789&GUID=4AEA5A73-0418-4E4A-AB25-88499AA43826"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18424"

@@ -9,6 +9,10 @@
       {
       {
       {
+      {
+      {
+      }
+      }
       }
       }
       }
@@ -34,6 +38,8 @@
    "end_date" : ""
                "entity_type" : "bill"
          "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
          "extras" : {}
    "extras" : {}
          "links" : [
@@ -44,17 +50,23 @@
                "media_type" : "application/pdf"
          "name" : "Committee on Governmental Operations"
    "name" : "Committee on Governmental Operations"
+         "name" : "Committee on Land Use"
                "name" : "Int 2186-2020"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+         "name" : "Subcommittee on Capital Budget"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
          "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
          "notes" : []
          "note" : "web"
          "order" : "0"
          "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
    "participants" : [
    "pupa_id" : "18438"
          "related_entities" : [

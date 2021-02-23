@@ -2,6 +2,10 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
@@ -10,6 +14,10 @@
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -24,6 +32,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -42,6 +53,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to establishing a freedom trail task force"
          "description" : "A Local Law in relation to the creation of a frontline worker memorial task force"
@@ -57,13 +70,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
    "name" : "Committee on Cultural Affairs, Libraries and International Intergroup Relations"
                "name" : "Int 0293-2018"
@@ -76,7 +93,9 @@
                "note" : "consideration"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -92,11 +111,15 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-18T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=835169&GUID=80208416-5F06-487E-9F6A-4CC3BDD1C09B&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DVUxUVVJBTEFGRkFJUlMtMDIxODIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=835169&GUID=80208416-5F06-487E-9F6A-4CC3BDD1C09B"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=835169&GUID=80208416-5F06-487E-9F6A-4CC3BDD1C09B"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18410"

@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -25,6 +29,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -41,6 +47,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Health"
          "description" : "Oversight - COVID and Seniors: Protecting Older Adults in the Community."
@@ -55,13 +62,15 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
          "name" : "Committee on Health"
@@ -76,6 +85,7 @@
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -95,7 +105,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1BR0lORy0wMjE3MjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=834889&GUID=62EFB5B2-4CF8-4825-8CD1-88E84AB341D8"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18404"
