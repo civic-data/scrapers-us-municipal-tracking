@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2225-2021\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law in relation to the establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof"
+   "description" : "Establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+   "name" : "Committee on Aging"
+               "name" : "Int 2225-2021"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+   "participants" : [
+   "pupa_id" : "18466"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-25T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845813&GUID=EB9C7B98-C35C-4C46-B567-EB9F9A5A41F8&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845813&GUID=EB9C7B98-C35C-4C46-B567-EB9F9A5A41F8"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18466"

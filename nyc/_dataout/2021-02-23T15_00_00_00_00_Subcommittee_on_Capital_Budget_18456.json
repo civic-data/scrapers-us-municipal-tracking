@@ -1,0 +1,90 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2186-2020\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "A Local Law to amend the New York city charter, in relation to requiring a comprehensive long-term plan"
+         "description" : "Jointly with the Committee on Governmental Operations and the Committee on Land Use"
+   "description" : "Requiring a comprehensive long-term plan."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Governmental Operations"
+         "name" : "Committee on Land Use"
+               "name" : "Int 2186-2020"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
+         "name" : "Subcommittee on Capital Budget"
+   "name" : "Subcommittee on Capital Budget"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Governmental Operations\"}"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
+   "participants" : [
+   "pupa_id" : "18456"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-02-23T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=844708&GUID=8075AAE9-1C09-4D5B-9721-2B48F6133BAA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=844708&GUID=8075AAE9-1C09-4D5B-9721-2B48F6133BAA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18456"
