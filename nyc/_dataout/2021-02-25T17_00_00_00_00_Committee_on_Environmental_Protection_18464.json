@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1591-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law in relation to conducting a study regarding the feasibility of constructing a new wastewater treatment facility on Rikers Island"
+   "description" : "Conducting a study regarding the feasibility of constructing a new wastewater treatment facility on Rikers Island."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Environmental Protection"
+   "name" : "Committee on Environmental Protection"
+               "name" : "Int 1591-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Environmental Protection\"}"
+   "participants" : [
+   "pupa_id" : "18464"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-25T17:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18464"

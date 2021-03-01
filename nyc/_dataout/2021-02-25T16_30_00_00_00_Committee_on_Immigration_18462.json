@@ -1,0 +1,132 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1416-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1417-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1418-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1419-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would permit employment-based status holders to retain lawful status, after loss of employment, if such loss was related to the COVID-19 pandemic."
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would provide immigration relief for family members who derive lawful immigration status from a frontline worker who passed away due to COVID-19."
+         "description" : "Resolution calling on the United States Department of Homeland Security to halt all deportation proceedings for the length of the COVID-19 pandemic, as a means of restricting the global spread of this disease."
+         "description" : "Resolution calling on the United States Department of Homeland Security to place a moratorium on all removal proceedings for employment-based status holders that suffered a loss of employment during or due to the COVID-19 pandemic."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+               "name" : "Res 1416-2020"
+               "name" : "Res 1417-2020"
+               "name" : "Res 1418-2020"
+               "name" : "Res 1419-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18462"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-25T16:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845751&GUID=1C4F052B-0E41-45C0-AA43-B4300EA2009F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845751&GUID=1C4F052B-0E41-45C0-AA43-B4300EA2009F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845751&GUID=1C4F052B-0E41-45C0-AA43-B4300EA2009F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18462"

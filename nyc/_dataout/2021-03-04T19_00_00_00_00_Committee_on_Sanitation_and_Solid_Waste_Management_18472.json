@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7191\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n2:00 p.m. \t   Department of Sanitation\r\n4:00 p.m.\t   Public \r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing - Sanitation and Solid Waste Management"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Sanitation and Solid Waste Management"
+   "name" : "Committee on Sanitation and Solid Waste Management"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7191"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Sanitation and Solid Waste Management\"}"
+   "participants" : [
+   "pupa_id" : "18472"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-04T19:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845892&GUID=C552F718-4392-40C9-8C8C-A91E1180DBDE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845892&GUID=C552F718-4392-40C9-8C8C-A91E1180DBDE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18472"

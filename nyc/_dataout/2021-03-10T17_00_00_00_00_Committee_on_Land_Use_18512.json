@@ -1,0 +1,76 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7232\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n12:00 p.m.     Department of City Planning\t        \r\n*2:00 p.m.     Department of Information, Technology \r\n                         & Telecommunications\r\n*3:00 p.m.     Public\r\n\r\n* Jointly with the Committee on Technology\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing -  Land Use"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Public Testimony"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Land Use"
+   "name" : "Committee on Land Use"
+         "name" : "Committee on Technology"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7232"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+   "participants" : [
+   "pupa_id" : "18512"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-10T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=846441&GUID=621AD3B4-EA8D-46DC-86CA-46FECB67D149&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=846441&GUID=621AD3B4-EA8D-46DC-86CA-46FECB67D149"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18512"

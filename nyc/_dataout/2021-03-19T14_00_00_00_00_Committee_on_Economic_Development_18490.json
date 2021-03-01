@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7209\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n10:00 a.m.     Economic Development Corporation         \r\n11:00 p.m.     Public\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing -  Economic Development"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Economic Development"
+   "name" : "Committee on Economic Development"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7209"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Economic Development\"}"
+   "participants" : [
+   "pupa_id" : "18490"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-19T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845960&GUID=E1EE3499-38E9-420F-8F6C-647F683FFA2C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845960&GUID=E1EE3499-38E9-420F-8F6C-647F683FFA2C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18490"

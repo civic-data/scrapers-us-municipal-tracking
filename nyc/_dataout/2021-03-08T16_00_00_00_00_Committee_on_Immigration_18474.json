@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7193\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n11:00 a.m.     Mayor’s Office of Immigrant Affairs\r\n12:00 p.m.     Public\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing -  Immigration"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2021-7193"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18474"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-08T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845914&GUID=F1658CF1-DAF2-49E9-A98A-8CECCD4BE61F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845914&GUID=F1658CF1-DAF2-49E9-A98A-8CECCD4BE61F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18474"

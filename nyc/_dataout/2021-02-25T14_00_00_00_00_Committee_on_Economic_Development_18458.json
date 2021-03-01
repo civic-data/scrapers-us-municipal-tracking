@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1839-2019\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to an annual report on the progress of the Brooklyn Navy Yard master plan"
+   "description" : "Annual report on the progress of the Brooklyn Navy Yard master plan."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Economic Development"
+   "name" : "Committee on Economic Development"
+               "name" : "Int 1839-2019"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Economic Development\"}"
+   "participants" : [
+   "pupa_id" : "18458"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-02-25T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=844773&GUID=842D9C36-0390-43BE-935F-E2C701B23832&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=844773&GUID=842D9C36-0390-43BE-935F-E2C701B23832"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=844773&GUID=842D9C36-0390-43BE-935F-E2C701B23832"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18458"

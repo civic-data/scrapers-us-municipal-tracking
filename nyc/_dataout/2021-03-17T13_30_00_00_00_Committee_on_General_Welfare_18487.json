@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7206\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n  9:30 a.m.     Administration for Children’s Services \r\n10:30 a.m.     Human Resources Administration / \r\n                          Department of Social Services\r\n                          Department of Homeless Services\r\n  1:00 p.m.     Public\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing -  General Welfare"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on General Welfare"
+   "name" : "Committee on General Welfare"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7206"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18487"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-17T13:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845949&GUID=8F4DDE93-DBD3-4193-B673-FC894745E4FA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845949&GUID=8F4DDE93-DBD3-4193-B673-FC894745E4FA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18487"

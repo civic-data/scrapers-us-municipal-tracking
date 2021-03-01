@@ -1,0 +1,82 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7187\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n   *10:00 a.m.    Office of Management and Budget\r\n **12:30 p.m.    Comptroller\r\n   **1:15 p.m.    Independent Budget Office\r\n   **1:45 p.m.    Public\r\n\r\n * Jointly with the Committee on Contracts and \r\n          the Subcommittee on Capital Budget\r\n**Jointly with the Subcommittee on Capital Budget\r\n\r\n"
+   "description" : "Preliminary Budget Hearing - Finance"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Public Testimony"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Contracts"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+         "name" : "Subcommittee on Capital Budget"
+               "name" : "T2021-7187"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Contracts\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
+   "participants" : [
+   "pupa_id" : "18467"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-02T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845866&GUID=0F3BD1D1-2F62-41D4-B03E-EB79FDA0147A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845866&GUID=0F3BD1D1-2F62-41D4-B03E-EB79FDA0147A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18467"
