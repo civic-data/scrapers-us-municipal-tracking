@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -36,6 +41,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the New York city fire code, in relation to establishing fire safety provisions for film production locations and requiring production location fire safety managers for certain rigging, filming and production activities"
          "description" : "A Local Law to amend the New York city fire code, in relation to fire safety at film production locations and to providing the fire department and local firehouses with information about field conditions at film production locations"
@@ -48,12 +54,14 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Fire and Emergency Management"
    "name" : "Committee on Fire and Emergency Management"
@@ -65,6 +73,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -78,10 +87,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-25T14:30:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=844772&GUID=303FEC4E-5399-4C6F-A5E7-7E811DFB916E&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=844772&GUID=303FEC4E-5399-4C6F-A5E7-7E811DFB916E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=844772&GUID=303FEC4E-5399-4C6F-A5E7-7E811DFB916E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18457"

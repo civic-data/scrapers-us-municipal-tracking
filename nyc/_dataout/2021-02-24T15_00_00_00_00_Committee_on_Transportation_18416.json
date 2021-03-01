@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of a crash investigation and analysis unit within the department of transportation"
    "description" : "Establishment of a crash investigation and analysis unit within the DOT."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-24T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=835987&GUID=2E46C5BD-5E85-44F3-8C95-B31E29E307FF&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=835987&GUID=2E46C5BD-5E85-44F3-8C95-B31E29E307FF"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=835987&GUID=2E46C5BD-5E85-44F3-8C95-B31E29E307FF"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18416"

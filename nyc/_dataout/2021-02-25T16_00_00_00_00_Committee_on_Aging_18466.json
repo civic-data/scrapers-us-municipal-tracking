@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -29,6 +34,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "A Local Law in relation to the establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof"
    "description" : "Establishment of a plan for COVID-19 vaccination of homebound seniors, reporting on such plan, and providing for the repeal of such provisions upon the expiration thereof."
    "documents" : [
@@ -38,11 +44,13 @@
          "extras" : {}
    "extras" : {
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Aging"
    "name" : "Committee on Aging"
@@ -52,6 +60,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -62,9 +71,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-02-25T16:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845813&GUID=EB9C7B98-C35C-4C46-B567-EB9F9A5A41F8&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845813&GUID=EB9C7B98-C35C-4C46-B567-EB9F9A5A41F8"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845813&GUID=EB9C7B98-C35C-4C46-B567-EB9F9A5A41F8"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18466"
