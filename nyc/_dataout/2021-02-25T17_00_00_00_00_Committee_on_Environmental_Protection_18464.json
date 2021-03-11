@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "A Local Law in relation to conducting a study regarding the feasibility of constructing a new wastewater treatment facility on Rikers Island"
    "description" : "Conducting a study regarding the feasibility of constructing a new wastewater treatment facility on Rikers Island."
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Environmental Protection"
    "name" : "Committee on Environmental Protection"
                "name" : "Int 1591-2019"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FTlZJUk9OTUVOVEFMLTAyMjUyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845798&GUID=52B0E91D-0D19-4296-B290-762F6E66EB32"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18464"

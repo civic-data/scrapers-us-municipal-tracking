@@ -1,18 +1,23 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -35,6 +40,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law in relation to requiring the waiver and refund of certain civil penalties, and allowing additional civil penalty relief, during the COVID-19 pandemic"
          "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to adjusting penalties and allowing opportunities to cure for certain violations"
@@ -47,11 +53,13 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Small Business"
    "name" : "Committee on Small Business"
@@ -63,6 +71,7 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "notes" : []
@@ -76,10 +85,12 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-03-01T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=837664&GUID=CECD5CFC-69F7-47F7-95EF-4B90C1A47F73&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=837664&GUID=CECD5CFC-69F7-47F7-95EF-4B90C1A47F73"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=837664&GUID=CECD5CFC-69F7-47F7-95EF-4B90C1A47F73"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18437"

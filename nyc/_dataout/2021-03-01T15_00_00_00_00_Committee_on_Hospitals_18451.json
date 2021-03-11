@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "Oversight - Access to Language Services and Equitable Care in NYC Hospitals During COVID-19."
    "description" : "Oversight - Access to Language Services and Equitable Care in NYC Hospitals During COVID-19."
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Hospitals"
    "name" : "Committee on Hospitals"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-03-01T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=843703&GUID=895A95C7-00CE-4A62-8CE9-D82901045D93&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=843703&GUID=895A95C7-00CE-4A62-8CE9-D82901045D93"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=843703&GUID=895A95C7-00CE-4A62-8CE9-D82901045D93"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18451"
