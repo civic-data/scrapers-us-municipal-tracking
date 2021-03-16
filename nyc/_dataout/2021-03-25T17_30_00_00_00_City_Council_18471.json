@@ -1,0 +1,54 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Agenda - 1:30 p.m. "
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "18471"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-03-25T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845891&GUID=5383BC6A-0DAE-43E3-9A62-C4E0E0472277&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845891&GUID=5383BC6A-0DAE-43E3-9A62-C4E0E0472277"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18471"

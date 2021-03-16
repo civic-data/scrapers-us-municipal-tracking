@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7250\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n12:00 p.m.     District Attorneys/Special Narcotics Prosecutor\r\n  1:00 p.m.     Public"
+   "description" : "Preliminary Budget Hearing - Public Safety"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7250"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "18517"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-22T16:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=847633&GUID=AC4F085F-97DB-41B4-928F-98FFFB843B4E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=847633&GUID=AC4F085F-97DB-41B4-928F-98FFFB843B4E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18517"
