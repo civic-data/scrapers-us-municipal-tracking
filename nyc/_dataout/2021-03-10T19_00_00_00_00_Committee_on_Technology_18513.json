@@ -1,15 +1,20 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -30,6 +35,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n\t        \r\n2:00 p.m.     Department of Information, Technology \r\n                         & Telecommunications\r\n3:00 p.m.     Public\r\n\r\nJointly with the Committee on Land Use\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
    "description" : "Preliminary Budget Hearing -  Technology"
    "documents" : [
@@ -40,10 +46,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Land Use"
          "name" : "Committee on Technology"
@@ -54,6 +62,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "notes" : []
@@ -66,9 +75,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-03-10T19:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=846442&GUID=5EFAFC84-31CD-4429-9DD5-6459FA872F49&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=846442&GUID=5EFAFC84-31CD-4429-9DD5-6459FA872F49"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=846442&GUID=5EFAFC84-31CD-4429-9DD5-6459FA872F49"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18513"

@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -32,6 +43,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n10:00 a.m.   Office of Management and Budget\r\n\r\nJointly with the Committee on Finance and \r\n   the Subcommittee on Capital Budget\r\n"
    "description" : "Preliminary Budget Hearing - Contracts"
    "documents" : [
@@ -43,11 +56,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Contracts"
    "name" : "Committee on Contracts"
          "name" : "Committee on Finance"
@@ -58,9 +75,11 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,6 +94,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845869&GUID=D1A2B95E-262C-4EFC-8A82-66D988B2E526&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTAzMDIyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845869&GUID=D1A2B95E-262C-4EFC-8A82-66D988B2E526"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845869&GUID=D1A2B95E-262C-4EFC-8A82-66D988B2E526"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18469"

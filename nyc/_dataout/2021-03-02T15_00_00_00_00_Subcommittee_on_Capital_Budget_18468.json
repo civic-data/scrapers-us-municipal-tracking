@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -11,6 +17,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -18,6 +26,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -32,6 +43,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n   *10:00 a.m.    Office of Management and Budget\r\n **12:30 p.m.    Comptroller\r\n   **1:15 p.m.    Independent Budget Office\r\n   **1:45 p.m.    Public\r\n\r\n * Jointly with the Committee on Finance and \r\n          the Committee on Contracts\r\n**Jointly with the Committee on Finance"
    "description" : "Preliminary Budget Hearing - Capital Budget"
    "documents" : [
@@ -43,11 +56,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Contracts"
          "name" : "Committee on Finance"
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
@@ -58,9 +75,11 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,6 +94,10 @@
    "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845868&GUID=7045F70C-DB23-4E92-BC7E-3261DF8A26B1&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTAzMDIyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845868&GUID=7045F70C-DB23-4E92-BC7E-3261DF8A26B1"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845868&GUID=7045F70C-DB23-4E92-BC7E-3261DF8A26B1"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18468"

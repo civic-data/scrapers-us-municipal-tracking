@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -10,12 +16,17 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -30,6 +41,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n  10:00 a.m.      Department of Buildings \r\n*11:00 a.m.      Department of Housing Preservation and \r\n                             Development\r\n  *2:00 p.m.      Public   \r\n\r\n* Jointly with the Subcommittee on Capital Budget\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
    "description" : "Preliminary Budget Hearing -  Housing and Buildings"
    "documents" : [
@@ -40,11 +53,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Housing and Buildings"
    "name" : "Committee on Housing and Buildings"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
@@ -54,8 +71,10 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -66,9 +85,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-03-05T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845981&GUID=92645B19-3D0C-4ADD-8953-1838621D092F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1IT1VTSU5HLTAzMDUyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845981&GUID=92645B19-3D0C-4ADD-8953-1838621D092F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845981&GUID=92645B19-3D0C-4ADD-8953-1838621D092F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18495"
