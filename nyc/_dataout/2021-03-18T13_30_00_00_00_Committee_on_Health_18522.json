@@ -1,0 +1,121 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0864-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2236-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1529-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1535-2021\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to the creation of a unified scheduling system for COVID-19 vaccinations, and to provide for the repeal thereof"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to investigations by the department of health and mental hygiene in connection with lead poisoning incidents"
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation allowing local health departments to implement changes to improve the COVID-19 vaccine roll out."
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to protect New York State’s safety net providers and Special Needs Plans by eliminating the Medicaid pharmacy carve-out."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+   "name" : "Committee on Health"
+               "name" : "Int 0864-2018"
+               "name" : "Int 2236-2021"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1529-2021"
+               "name" : "Res 1535-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+   "participants" : [
+   "pupa_id" : "18522"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-18T13:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=849546&GUID=F1EFBB7E-4FB6-439A-9B18-107D6FFFBFD0&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=849546&GUID=F1EFBB7E-4FB6-439A-9B18-107D6FFFBFD0"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18522"
