@@ -1,14 +1,19 @@
             {
             {
+            {
+            }
             }
             }
          ]
          ]
+         ]
       {
       {
       {
       {
       {
+      {
+      }
       }
       }
       }
@@ -28,6 +33,7 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n2:00 p.m.      MTA/NYC Transit \r\n3:00 p.m.      Public\r\n\r\n       \t\r\n\r\n\r\n\r\n "
    "description" : "Preliminary Budget Hearing -  Transportation"
    "documents" : [
@@ -37,10 +43,12 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
    "media" : []
+               "media_type" : "application/pdf"
                "media_type" : "application/pdf"
          "name" : "Committee on Transportation"
    "name" : "Committee on Transportation"
@@ -50,6 +58,7 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "notes" : []
          "note" : "web"
@@ -60,9 +69,11 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-03-23T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
+               "text" : ""
                "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851197&GUID=C858CFB1-8ED9-4716-9A56-33DA8F571F76&Options=info|&Search="
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851197&GUID=C858CFB1-8ED9-4716-9A56-33DA8F571F76"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=851197&GUID=C858CFB1-8ED9-4716-9A56-33DA8F571F76"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18532"

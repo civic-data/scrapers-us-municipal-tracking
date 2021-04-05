@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n10:00 a.m.     Department of Consumer and Worker Protection \r\n11:00 a.m.     Public\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
    "description" : "Preliminary Budget Hearing -  Consumer Affairs and Business Licensing"
    "documents" : [
@@ -44,12 +51,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Consumer Affairs and Business Licensing"
    "name" : "Committee on Consumer Affairs and Business Licensing"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
@@ -60,6 +69,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -73,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845948&GUID=A459BF5E-A7DF-4D04-BB7B-A02DCC49AEEE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1DT05TVU1FUkFGRkFJUlMtMDMxNjIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845948&GUID=A459BF5E-A7DF-4D04-BB7B-A02DCC49AEEE"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845948&GUID=A459BF5E-A7DF-4D04-BB7B-A02DCC49AEEE"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18486"
