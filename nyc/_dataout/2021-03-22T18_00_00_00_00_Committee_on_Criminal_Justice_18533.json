@@ -1,0 +1,79 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7198\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n2:00 p.m.\t   Department of Correction \t \r\n3:30 p.m.\t   Department of Probation \r\n4:00 p.m.        Board of Correction\r\n4:30 p.m.\t   Public\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
+   "description" : "Preliminary Budget Hearing -  Criminal Justice"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Criminal Justice"
+   "name" : "Committee on Criminal Justice"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 4)"
+               "name" : "T2021-7198"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Criminal Justice\"}"
+   "participants" : [
+   "pupa_id" : "18533"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-22T18:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851553&GUID=EA710E7E-8286-4538-8605-D93F7999EEEE&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851553&GUID=EA710E7E-8286-4538-8605-D93F7999EEEE"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=851553&GUID=EA710E7E-8286-4538-8605-D93F7999EEEE"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18533"

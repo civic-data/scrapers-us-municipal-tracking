@@ -1,0 +1,149 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1671-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2220-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1538-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1547-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1584-2021\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to creating a right of security against unreasonable search and seizure, and against excessive force regardless of whether such force is used in connection with a search or seizure, that is enforceable by civil action and requiring the law department to post online certain information regarding such civil actions"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on traffic encounters"
+         "description" : "Resolution adopting a plan pursuant to State Executive Order Number 203."
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S5252/A6012, which would remove the New York City Police Commissioner’s exclusive authority over police discipline."
+         "description" : "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S2984/A1951, which would require New York Police Department officers to live within the five boroughs of New York City."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Public Safety"
+   "name" : "Committee on Public Safety"
+               "name" : "Int 1671-2019"
+               "name" : "Int 2220-2021"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1538-2021"
+               "name" : "Res 1547-2021"
+               "name" : "Res 1584-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Public Safety\"}"
+   "participants" : [
+   "pupa_id" : "18565"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-25T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853154&GUID=8771F654-D0EF-43ED-9AAF-A72714D93571&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853154&GUID=8771F654-D0EF-43ED-9AAF-A72714D93571"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=853154&GUID=8771F654-D0EF-43ED-9AAF-A72714D93571"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18565"

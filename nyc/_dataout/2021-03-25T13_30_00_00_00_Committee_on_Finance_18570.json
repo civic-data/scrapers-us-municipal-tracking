@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1583-2021\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : "Establish the billionaire mark to market tax act, and to use the revenue generated to establish an excluded worker fund. (S.4482/A.5092)"
+         "description" : "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.4482/A.5092, which would establish the billionaire mark to market tax act, and to use the revenue generated to establish an excluded worker fund."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "Res 1583-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18570"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-03-25T13:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18570"
