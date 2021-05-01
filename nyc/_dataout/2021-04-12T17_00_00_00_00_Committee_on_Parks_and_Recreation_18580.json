@@ -1,0 +1,79 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1888-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting vehicles on boardwalks"
+   "description" : "Prohibiting vehicles on boardwalks."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Parks and Recreation"
+   "name" : "Committee on Parks and Recreation"
+               "name" : "Int 1888-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "18580"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-12T17:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18580"

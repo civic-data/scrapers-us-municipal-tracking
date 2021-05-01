@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7389\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - The use of tele-medicine in the delivery of emergency medical services."
+   "description" : "Oversight - The use of tele-medicine in the delivery of emergency medical services."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Fire and Emergency Management"
+   "name" : "Committee on Fire and Emergency Management"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7389"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Fire and Emergency Management\"}"
+   "participants" : [
+   "pupa_id" : "18581"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-19T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=856239&GUID=BF25F844-6270-4E62-BBCF-276822292914&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=856239&GUID=BF25F844-6270-4E62-BBCF-276822292914"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18581"

@@ -1,0 +1,54 @@
+            {
+            }
+         ]
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Agenda - 1:30 p.m. "
+   "documents" : [
+   "end_date" : ""
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+   "name" : "City Council"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+   "participants" : []
+   "pupa_id" : "18543"
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-04-22T17:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851706&GUID=8E0C6422-29CE-4937-9EE2-46A25F0AF362&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851706&GUID=8E0C6422-29CE-4937-9EE2-46A25F0AF362"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18543"

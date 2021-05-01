@@ -1,0 +1,118 @@
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0139-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 0150-2018\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7304\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to a task force regarding the transportation of homeless students"
+         "description" : "A local law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on student health services in correlation with student housing status for students in kindergarten through grade eight"
+         "description" : "Jointly with the Committee on General Welfare"
+         "description" : "Oversight - Youth in Shelter and the School System."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education"
+   "name" : "Committee on Education"
+         "name" : "Committee on General Welfare"
+               "name" : "Int 0139-2018"
+               "name" : "Int 0150-2018"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7304"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Education\"}"
+         "organization_id" : "~{\"name\": \"Committee on General Welfare\"}"
+   "participants" : [
+   "pupa_id" : "18558"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-04-16T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851840&GUID=13595142-99A8-4963-9545-47D79C48F4DF&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851840&GUID=13595142-99A8-4963-9545-47D79C48F4DF"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18558"

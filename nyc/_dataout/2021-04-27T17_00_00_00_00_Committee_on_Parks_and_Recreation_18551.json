@@ -1,0 +1,84 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7384\"}"
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Jointly with the Committee on Health"
+         "description" : "Oversight - Hart Island and the City's Public Burial Process & Assistance Program."
+   "description" : "Oversight - Hart Island and the City's Public Burial Process & Assistance Program."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Health"
+         "name" : "Committee on Parks and Recreation"
+   "name" : "Committee on Parks and Recreation"
+      "name" : "- REMOTE HEARING (VIRTUAL ROOM 3) -"
+               "name" : "T2021-7384"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "organization_id" : "~{\"name\": \"Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "18551"
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-04-27T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851820&GUID=ABAF8FB5-3AA8-4B0F-BAA7-068E2BAAFB01&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851820&GUID=ABAF8FB5-3AA8-4B0F-BAA7-068E2BAAFB01"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18551"

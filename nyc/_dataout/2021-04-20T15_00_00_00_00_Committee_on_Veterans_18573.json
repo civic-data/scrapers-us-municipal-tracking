@@ -1,0 +1,101 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1616-2019\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7386\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reporting on senior veterans and social service and affordable housing programs for veterans"
+         "description" : "Jointly with the Committee on Aging"
+         "description" : "Oversight - Supporting NYC’s Aging Veteran Population."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Aging"
+         "name" : "Committee on Veterans"
+   "name" : "Committee on Veterans"
+               "name" : "Int 1616-2019"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "T2021-7386"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Aging\"}"
+         "organization_id" : "~{\"name\": \"Committee on Veterans\"}"
+   "participants" : [
+   "pupa_id" : "18573"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-04-20T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853500&GUID=50785B48-401B-4063-8715-4A0D56E4789C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853500&GUID=50785B48-401B-4063-8715-4A0D56E4789C"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18573"

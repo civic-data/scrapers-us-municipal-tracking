@@ -1,0 +1,68 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7362\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "description" : "Oversight - Internet Master Plan One Year Later "
+   "description" : "Oversight - Internet Master Plan One Year Later"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Technology"
+   "name" : "Committee on Technology"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7362"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+   "participants" : [
+   "pupa_id" : "18563"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-14T17:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853067&GUID=29D12A4E-434F-476C-BBB1-D853BA6C3EE9&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853067&GUID=29D12A4E-434F-476C-BBB1-D853BA6C3EE9"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18563"

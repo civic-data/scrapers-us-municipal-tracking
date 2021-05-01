@@ -1,0 +1,101 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7349\"}"
+               "bill_id" : "~{\"identifier\": \"T2021-7359\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "Jointly with the Committee on Housing and Buildings"
+         "description" : "Oversight - Housing Disparities facing Immigrant New Yorkers."
+         "description" : "Resolution calling on the State Legislature to pass, and the Governor to sign, legislation that would expand eligibility for the Disability Rent Increase Exemption to include certain categories of immigrant New Yorkers who are currently excluded."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Housing and Buildings"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "T2021-7349"
+               "name" : "T2021-7359"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18549"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-04-13T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851812&GUID=C6736295-5967-4F59-BFED-1F49295439AA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851812&GUID=C6736295-5967-4F59-BFED-1F49295439AA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18549"
