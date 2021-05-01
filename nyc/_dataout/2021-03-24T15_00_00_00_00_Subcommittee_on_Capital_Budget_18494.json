@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -21,6 +25,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -36,6 +42,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2022, The Preliminary Capital Commitment Plan for Fiscal Years 2021-2025 and The Fiscal 2021 Preliminary Mayor’s Management Report\r\n\r\n11:00 a.m.      Department of Design and Construction\r\n12:00 p.m.      Public   \r\n\r\nJointly with the Committee on Finance\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n "
    "description" : "Preliminary Budget Hearing -  Capital Budget"
    "documents" : [
@@ -47,12 +54,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
       "name" : "- REMOTE HEARING (VIRTUAL ROOM 1) -"
          "name" : "Subcommittee on Capital Budget"
@@ -65,6 +74,7 @@
          "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -79,7 +89,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=845980&GUID=25B43A48-4227-412B-893D-A382E3DED910&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTAzMjQyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=845980&GUID=25B43A48-4227-412B-893D-A382E3DED910"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=845980&GUID=25B43A48-4227-412B-893D-A382E3DED910"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18494"

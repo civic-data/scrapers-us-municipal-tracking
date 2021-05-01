@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +41,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
    "description" : "Establish the billionaire mark to market tax act, and to use the revenue generated to establish an excluded worker fund. (S.4482/A.5092)"
          "description" : "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.4482/A.5092, which would establish the billionaire mark to market tax act, and to use the revenue generated to establish an excluded worker fund."
    "documents" : [
@@ -45,13 +52,15 @@
    "extras" : {
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
       "location note" : "VOTE"
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Finance"
    "name" : "Committee on Finance"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
@@ -62,6 +71,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -75,7 +85,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTAzMjUyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=853391&GUID=AF53752F-4BCB-4D98-AFDF-3FBA3052782F"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18570"
