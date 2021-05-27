@@ -1,12 +1,16 @@
             {
             {
             {
+            {
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+      {
       {
       {
       {
@@ -19,6 +23,8 @@
       }
       }
       }
+      }
+   ]
    ]
    ]
    ]
@@ -34,6 +40,7 @@
       "coordinates" : null
          "date" : ""
          "date" : ""
+         "date" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting vehicles on boardwalks"
    "description" : "Prohibiting vehicles on boardwalks."
    "documents" : [
@@ -44,12 +51,14 @@
    "extras" : {}
          "links" : [
          "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
                "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Parks and Recreation"
    "name" : "Committee on Parks and Recreation"
                "name" : "Int 1888-2020"
@@ -60,6 +69,7 @@
                "note" : "consideration"
          "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -73,7 +83,9 @@
          "subjects" : []
                "text" : ""
                "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1QQVJLUy0wNDEyMjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=856102&GUID=B12323AE-E892-4F47-8B18-C8BCB7E0469E"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18580"

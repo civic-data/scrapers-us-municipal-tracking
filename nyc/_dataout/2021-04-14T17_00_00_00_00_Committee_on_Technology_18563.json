@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -9,11 +15,16 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -28,6 +39,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
          "description" : "Oversight - Internet Master Plan One Year Later "
    "description" : "Oversight - Internet Master Plan One Year Later"
    "documents" : [
@@ -37,11 +50,15 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Technology"
    "name" : "Committee on Technology"
       "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
@@ -50,7 +67,9 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -60,9 +79,13 @@
          "related_entities" : [
    "sources" : [
    "start_date" : "2021-04-14T17:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853067&GUID=29D12A4E-434F-476C-BBB1-D853BA6C3EE9&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1URUNITk9MT0dZLTA0MTQyMDIxLm1wNA%3d%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853067&GUID=29D12A4E-434F-476C-BBB1-D853BA6C3EE9"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=853067&GUID=29D12A4E-434F-476C-BBB1-D853BA6C3EE9"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18563"

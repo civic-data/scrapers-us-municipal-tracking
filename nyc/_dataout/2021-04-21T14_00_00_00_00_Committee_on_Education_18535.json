@@ -1,7 +1,13 @@
             {
             {
+            {
+            {
             }
             }
+            }
+            }
+         ]
+         ]
          ]
          ]
       {
@@ -12,6 +18,8 @@
       {
       {
       {
+      {
+      {
       }
       }
       }
@@ -20,6 +28,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -35,6 +46,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "Jointly with the Committee on Criminal Justice and the Committee on General Welfare"
          "description" : "Oversight - Educational Programming in Jails and Juvenile Detention."
@@ -48,12 +61,16 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Criminal Justice"
          "name" : "Committee on Education"
    "name" : "Committee on Education"
@@ -64,9 +81,11 @@
          "note" : "Agenda"
          "note" : "api"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "note" : "web"
@@ -81,10 +100,14 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-04-21T14:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=851684&GUID=58734083-5E33-4522-8C3B-6A2300321EBD&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1FRFVDQVRJT04tMDQyMTIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=851684&GUID=58734083-5E33-4522-8C3B-6A2300321EBD"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=851684&GUID=58734083-5E33-4522-8C3B-6A2300321EBD"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18535"

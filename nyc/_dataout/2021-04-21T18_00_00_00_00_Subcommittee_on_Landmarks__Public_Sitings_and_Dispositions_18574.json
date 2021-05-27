@@ -1,16 +1,27 @@
             {
+            {
+            {
             }
+            }
+            }
+         ]
+         ]
          ]
       {
       {
       {
       {
       {
+      {
+      {
       }
       }
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -24,6 +35,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "See Land Use Calendar"
    "documents" : [
@@ -32,18 +45,24 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
-      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
          "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
    "name" : "Subcommittee on Landmarks, Public Sitings and Dispositions"
       "note" : ""
          "note" : "Agenda"
          "note" : "api"
+         "note" : "Minutes"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "note" : "web"
          "order" : "0"
@@ -53,9 +72,13 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-04-21T18:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=854498&GUID=59286BD9-6472-4270-A611-87B8FC2B4B9C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1MQU5ETUFSS1MtMDQyMTIwMjEubXA0&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=854498&GUID=59286BD9-6472-4270-A611-87B8FC2B4B9C"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=854498&GUID=59286BD9-6472-4270-A611-87B8FC2B4B9C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18574"

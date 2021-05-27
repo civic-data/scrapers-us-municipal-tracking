@@ -1,12 +1,20 @@
             {
             {
             {
+            {
+            {
+            }
+            }
             }
             }
             }
          ]
          ]
          ]
+         ]
+         ]
+      {
+      {
       {
       {
       {
@@ -23,6 +31,9 @@
       }
       }
       }
+      }
+      }
+   ]
    ]
    ]
    ]
@@ -40,6 +51,8 @@
    "classification" : "event"
       "coordinates" : null
          "date" : ""
+         "date" : ""
+         "date" : ""
    "description" : ""
          "description" : "A Local Law to amend the administrative code of the city of New York, in relation to reporting on senior veterans and social service and affordable housing programs for veterans"
          "description" : "Jointly with the Committee on Aging"
@@ -55,13 +68,17 @@
          "extras" : {}
    "extras" : {}
          "links" : [
+         "links" : [
+         "links" : [
    "links" : []
    "location" : {
          "media" : []
          "media" : []
          "media" : []
-   "media" : []
+   "media" : [
                "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
          "name" : "Committee on Aging"
          "name" : "Committee on Veterans"
    "name" : "Committee on Veterans"
@@ -73,8 +90,10 @@
          "note" : "api"
                "note" : "consideration"
                "note" : "consideration"
+         "note" : "Minutes"
          "note" : "participant"
          "note" : "participant"
+         "note" : "Recording"
          "notes" : []
          "notes" : []
          "notes" : []
@@ -91,11 +110,15 @@
          "related_entities" : []
    "sources" : [
    "start_date" : "2021-04-20T15:00:00+00:00"
-   "status" : "confirmed"
+   "status" : "passed"
          "subjects" : []
          "subjects" : []
          "subjects" : []
                "text" : ""
+               "text" : ""
+               "text" : ""
          "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=853500&GUID=50785B48-401B-4063-8715-4A0D56E4789C&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1BR0lORy0wNDIwMjAyMS5tcDQ%3d&Mode2=Video"
                "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=853500&GUID=50785B48-401B-4063-8715-4A0D56E4789C"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=853500&GUID=50785B48-401B-4063-8715-4A0D56E4789C"
          "url" : "https://webapi.legistar.com/v1/nyc/events/18573"
