@@ -1,0 +1,180 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 0354-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1127-2018\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1366-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1635-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1667-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1737-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1939-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to after hours work authorization"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to expediting permits"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to penalties for the unauthorized alteration or demolition of a premises calendared by the landmarks preservation commission"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring certain insurance filings with the department of buildings"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring contractors and the department of buildings to make information regarding environmental monitoring of construction work publicly available"
+         "description" : "A Local Law to amend the New York city building code, in relation to requiring standby power for nursing homes, adult homes, enriched housing and certain assisted living facilities"
+         "description" : "A Local Law to amend the New York city charter and the New York city building code in relation to the display of artwork on temporary protective structures on construction sites"
+         "description" : "page break"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Housing and Buildings"
+   "name" : "Committee on Housing and Buildings"
+               "name" : "Int 0354-2018"
+               "name" : "Int 1127-2018"
+               "name" : "Int 1366-2019"
+               "name" : "Int 1635-2019"
+               "name" : "Int 1667-2019"
+               "name" : "Int 1737-2019"
+               "name" : "Int 1939-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "organization_id" : "~{\"name\": \"Committee on Housing and Buildings\"}"
+   "participants" : [
+   "pupa_id" : "18596"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-05-04T14:30:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=858507&GUID=E346BB62-EAD7-483D-9226-91929711352A&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=858507&GUID=E346BB62-EAD7-483D-9226-91929711352A"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18596"

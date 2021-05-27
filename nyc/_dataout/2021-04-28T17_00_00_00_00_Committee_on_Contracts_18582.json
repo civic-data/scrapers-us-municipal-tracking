@@ -1,0 +1,113 @@
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1995-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2006-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2137-2020\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to establishing prevailing wage requirements for city-contracted human service workers"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to establishing prevailing wage requirements for security guards at city-contracted shelters"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to shelter security guard trainings"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Contracts"
+   "name" : "Committee on Contracts"
+               "name" : "Int 1995-2020"
+               "name" : "Int 2006-2020"
+               "name" : "Int 2137-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "organization_id" : "~{\"name\": \"Committee on Contracts\"}"
+   "participants" : [
+   "pupa_id" : "18582"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-28T17:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=857385&GUID=57F6D883-AB73-48DF-A451-6E7DE4ADAA74&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=857385&GUID=57F6D883-AB73-48DF-A451-6E7DE4ADAA74"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=857385&GUID=57F6D883-AB73-48DF-A451-6E7DE4ADAA74"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18582"

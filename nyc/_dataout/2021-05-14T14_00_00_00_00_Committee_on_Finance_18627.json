@@ -1,0 +1,86 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7470\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2022 EXECUTIVE BUDGET HEARINGS\r\n\r\n  *10:00 - 12:00    Housing Preservation and Development\r\n**12:00 -   1:00    Sanitation\r\n***1:00 -   2:00    Small Business Services\r\n\r\n\r\n  *Jointly with the Committee on Housing & Buildings\r\n\r\n**Jointly with the Committee on Sanitation & Solid Waste Management\r\n\r\n***Jointly with the Committee on Small Business\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+         "name" : "Committee on Housing & Buildings"
+         "name" : "Committee on Sanitation & Solid Waste Management"
+         "name" : "Committee on Small Business"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7470"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Housing & Buildings\"}"
+         "organization_id" : "~{\"name\": \"Committee on Sanitation & Solid Waste Management\"}"
+         "organization_id" : "~{\"name\": \"Committee on Small Business\"}"
+   "participants" : [
+   "pupa_id" : "18627"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-05-14T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=859169&GUID=5B9D4152-34D7-4FCB-8023-C02549E53F3E&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=859169&GUID=5B9D4152-34D7-4FCB-8023-C02549E53F3E"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18627"

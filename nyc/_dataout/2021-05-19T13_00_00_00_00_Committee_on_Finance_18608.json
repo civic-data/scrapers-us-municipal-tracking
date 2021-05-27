@@ -1,0 +1,80 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7447\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2022 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n     *9:00 -  11:00      Education \r\n **11:00 -    1:00      School Construction Authority \r\n ***1:00 -    2:00      Health & Mental Hygiene\r\n\r\n\r\n*Jointly with the Committee on Education \r\n\r\n**Jointly with the Committee on Education and the Subcommittee on Capital Budget\r\n\r\n***Jointly with the Committee on Health and the Committee on Mental Health, Disabilities and Addiction\r\n\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Education, Subcommittee on Capital Budget, Committee on Health"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+         "name" : "Committee on Mental Health, Disabilities and Addiction"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7447"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Education, Subcommittee on Capital Budget, Committee on Health\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Mental Health, Disabilities and Addiction\"}"
+   "participants" : [
+   "pupa_id" : "18608"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-05-19T13:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=858947&GUID=39FA6CF4-02A0-4D19-A9F9-B054C4FDF820&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=858947&GUID=39FA6CF4-02A0-4D19-A9F9-B054C4FDF820"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18608"

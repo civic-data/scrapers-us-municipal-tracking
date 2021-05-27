@@ -1,0 +1,92 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7486\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2022 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n    10:00 -  11:00      Finance\r\n  *11:00 -  12:00      Information Technology and \r\n                                    Telecommunications \r\n**12:00 -    2:00      Parks and Recreation\r\n***2:00 -    3:00      Corrections\r\n\r\n\r\n*Jointly with the Committee on Land Use, the Committee on Technology and the Subcommittee on Capital Budget\r\n\r\n**Jointly with the Committee on Parks and Recreation \r\n\r\n***Jointly with the Committee on Criminal Justice\r\n\r\n"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Criminal Justice"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+         "name" : "Committee on Land Use"
+         "name" : "Committee on Technology"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+         "name" : "Subcommittee on Capital Budget the Committee on Parks and Recreation"
+               "name" : "T2021-7486"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Criminal Justice\"}"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Committee on Land Use\"}"
+         "organization_id" : "~{\"name\": \"Committee on Technology\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget the Committee on Parks and Recreation\"}"
+   "participants" : [
+   "pupa_id" : "18635"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-05-20T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=859219&GUID=CF03BB78-095E-4C90-A39F-208C1026F223&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=859219&GUID=CF03BB78-095E-4C90-A39F-208C1026F223"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18635"

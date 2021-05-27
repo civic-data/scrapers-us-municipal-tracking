@@ -1,0 +1,81 @@
+            {
+            {
+            {
+            }
+            }
+            }
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Res 1229-2020\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : "Adoptee Citizenship Act of 2019 (H.R. 1593 / S. 967)"
+         "description" : "Resolution calling on the United States Congress to pass, and the President to sign, the Adoptee Citizenship Act of 2021 (H.R. 1593 / S. 967), in order to secure U.S. citizenship of internationally adopted children who are now adults or aging into adulthood."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Immigration"
+   "name" : "Committee on Immigration"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1229-2020"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Immigration\"}"
+   "participants" : [
+   "pupa_id" : "18614"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-29T14:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=859136&GUID=8DA0729A-A95B-4A0A-B8DE-CEA427238CCA&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=859136&GUID=8DA0729A-A95B-4A0A-B8DE-CEA427238CCA"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=859136&GUID=8DA0729A-A95B-4A0A-B8DE-CEA427238CCA"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18614"

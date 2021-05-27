@@ -1,0 +1,214 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 1811-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 1819-2019\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2253-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2277-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2279-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2280-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2281-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2282-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1610-2021\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law in relation to creating a pilot program to establish micro-distribution centers for distributing goods via sustainable modes of transportation"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to commercial loading zones"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to expanding commercial loading zones"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to redesigning the truck route network to improve safety and reduce traffic congestion and emissions"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to requiring secure package storage in certain buildings"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to street markings indicating locations of fire hydrants"
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a theatre district safety zone"
+         "description" : "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an office of sustainable delivery systems and requiring large generator of truck traffic buildings to produce and implement a delivery and servicing plan"
+         "description" : "page break"
+         "description" : "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.2757/A.6748, which would change the existing width restriction that makes most electric cargo bicycles illegal."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Transportation"
+   "name" : "Committee on Transportation"
+               "name" : "Int 1811-2019"
+               "name" : "Int 1819-2019"
+               "name" : "Int 2253-2021"
+               "name" : "Int 2277-2021"
+               "name" : "Int 2279-2021"
+               "name" : "Int 2280-2021"
+               "name" : "Int 2281-2021"
+               "name" : "Int 2282-2021"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1610-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "order" : "5"
+         "order" : "6"
+         "order" : "7"
+         "order" : "8"
+         "order" : "9"
+         "organization_id" : "~{\"name\": \"Committee on Transportation\"}"
+   "participants" : [
+   "pupa_id" : "18597"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : []
+   "sources" : [
+   "start_date" : "2021-05-05T15:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=858527&GUID=CBEB0A30-9BEE-4373-9581-161FAF6E39D2&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=858527&GUID=CBEB0A30-9BEE-4373-9581-161FAF6E39D2"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18597"

@@ -1,0 +1,130 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"Int 2099-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2100-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Int 2164-2020\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1600-2021\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "A Local Law to amend the administrative code of the city of New York, in relation to the reporting on non-depository city financial services."
+         "description" : "A Local Law to amend the New York city charter, in relation to providing notice of public meetings conducted by the banking commission"
+         "description" : "A Local Law to amend the New York city charter, in relation to reporting on moneys on deposit"
+         "description" : "Resolution calling upon the State Legislature to pass, and the Governor to sign, A.5782/S.176, which would establish the New York Public Banking Act, and A.3309/S.3016, which would establish an Empire State Public Bank."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+               "name" : "Int 2099-2020"
+               "name" : "Int 2100-2020"
+               "name" : "Int 2164-2020"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 3)"
+               "name" : "Res 1600-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18583"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-28T15:00:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=857553&GUID=87A881BE-69E3-4B4A-BBA4-D7312DD94B4F&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=857553&GUID=87A881BE-69E3-4B4A-BBA4-D7312DD94B4F"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=857553&GUID=87A881BE-69E3-4B4A-BBA4-D7312DD94B4F"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18583"

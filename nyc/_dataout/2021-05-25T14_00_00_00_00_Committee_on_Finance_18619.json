@@ -1,0 +1,70 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7461\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2022 EXECUTIVE BUDGET HEARINGS\r\n\r\n*Begins 10:00   - Public\r\n\r\n*Members of the public can sign up to testify at the May 25th virtual public hearing via Zoom Web and/or via Phone at least 24 hours in advance of hearing. Written testimony may be submitted up to 72 hours after hearing has been adjourned."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "Members of the public can sign up to testify at the May 25th virtual public hearing via Zoom Web and/or via Phone at least 24 hours in advance of hearing. Written testimony may be submitted up to 72 hours after hearing has been adjourned."
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+               "name" : "T2021-7461"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18619"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-05-25T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=859145&GUID=901F18E8-4A25-43BC-BCDC-3A6D64357EF6&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=859145&GUID=901F18E8-4A25-43BC-BCDC-3A6D64357EF6"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18619"

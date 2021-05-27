@@ -1,0 +1,161 @@
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            {
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+            }
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   ]
+   }
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"LU 0755-2021\"}"
+               "bill_id" : "~{\"identifier\": \"LU 0756-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1603-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1604-2021\"}"
+               "bill_id" : "~{\"identifier\": \"Res 1605-2021\"}"
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+         "date" : ""
+         "date" : ""
+   "description" : ""
+         "description" : "Astoria Towers, Block 1704, Lots 12 and 172; Queens, Community District No. 3, Council District 21."
+         "description" : "Clermont Area, Block 1961, Lot 27; Brooklyn, Community District No. 2, Council District 35,"
+         "description" : "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget."
+         "description" : "Resolution concerning an amendment to the District Plan of the Flatbush Avenue Business Improvement District that authorizes additional services for the district and changes the method of assessment upon which the district charge is based, and setting the date, time and place for the public hearing of the local law authorizing such changes as set forth in the amended District Plan of the Flatbush Avenue Business Improvement District."
+         "description" : "Resolution concerning an amendment to the district plan of the Queens Plaza/Court Square Business Improvement District that provides for a change in the method of assessment upon which the district charge is based, and setting the date, time and place for the public hearing of the local law authorizing such change."
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+         "extras" : {}
+   "extras" : {
+         "links" : [
+         "links" : [
+         "links" : [
+   "links" : []
+   "location" : {
+      "location note" : "VOTE"
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+         "media" : []
+   "media" : [
+               "media_type" : "application/pdf"
+               "media_type" : "application/pdf"
+               "media_type" : "text/html"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+               "name" : "LU 0755-2021"
+               "name" : "LU 0756-2021"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 1)"
+               "name" : "Res 1603-2021"
+               "name" : "Res 1604-2021"
+               "name" : "Res 1605-2021"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+               "note" : "consideration"
+         "note" : "Minutes"
+         "note" : "participant"
+         "note" : "Recording"
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "order" : "1"
+         "order" : "2"
+         "order" : "3"
+         "order" : "4"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+   "participants" : [
+   "pupa_id" : "18593"
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-04-22T13:30:00+00:00"
+   "status" : "passed"
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+         "subjects" : []
+               "text" : ""
+               "text" : ""
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=858398&GUID=08078AA5-FF54-41EC-B3A5-62E3C3306EE8&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov//Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVJFTU9URS1GSU5BTkNFLTA0MjIyMDIxLm1wNA%3d%3d&Mode2=Video"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=858398&GUID=08078AA5-FF54-41EC-B3A5-62E3C3306EE8"
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=M&ID=858398&GUID=08078AA5-FF54-41EC-B3A5-62E3C3306EE8"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18593"

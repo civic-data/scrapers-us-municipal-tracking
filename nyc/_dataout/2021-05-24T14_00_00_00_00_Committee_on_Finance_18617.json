@@ -1,0 +1,74 @@
+            {
+            {
+            }
+            }
+         ]
+         ]
+      {
+      {
+      {
+      {
+      {
+      {
+      }
+      }
+      }
+      }
+      }
+      }
+   ]
+   ]
+   ]
+   ]
+   }
+{
+}
+   "agenda" : [
+   "all_day" : false
+               "bill_id" : "~{\"identifier\": \"T2021-7459\"}"
+         "classification" : []
+   "classification" : "event"
+      "coordinates" : null
+         "date" : ""
+   "description" : ""
+         "description" : "NEW YORK CITY COUNCIL FISCAL YEAR 2022 EXECUTIVE BUDGET HEARINGS\r\n\r\n*10:00  -   1:00      Office of Management & Budget \r\n    1:00  -   2:00      Comptroller\r\n    2:00  -   3:00      Independent Budget Office\r\n    \r\n   \r\n*Jointly with the Subcommittee on Capital Budget"
+   "documents" : [
+   "end_date" : ""
+               "entity_type" : "bill"
+         "entity_type" : "organization"
+         "entity_type" : "organization"
+         "extras" : {}
+   "extras" : {}
+         "links" : [
+   "links" : []
+   "location" : {
+         "media" : []
+   "media" : []
+               "media_type" : "application/pdf"
+         "name" : "Committee on Finance"
+   "name" : "Committee on Finance"
+      "name" : "REMOTE HEARING (VIRTUAL ROOM 2)"
+         "name" : "Subcommittee on Capital Budget"
+               "name" : "T2021-7459"
+      "note" : ""
+         "note" : "Agenda"
+         "note" : "api"
+               "note" : "consideration"
+         "note" : "participant"
+         "note" : "participant"
+         "notes" : []
+         "note" : "web"
+         "order" : "0"
+         "organization_id" : "~{\"name\": \"Committee on Finance\"}"
+         "organization_id" : "~{\"name\": \"Subcommittee on Capital Budget\"}"
+   "participants" : [
+   "pupa_id" : "18617"
+         "related_entities" : [
+   "sources" : [
+   "start_date" : "2021-05-24T14:00:00+00:00"
+   "status" : "confirmed"
+         "subjects" : []
+               "text" : ""
+         "url" : "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=859143&GUID=A8371F98-731F-4532-8E5E-79533C4A52D7&Options=info|&Search="
+               "url" : "https://legistar.council.nyc.gov/View.ashx?M=A&ID=859143&GUID=A8371F98-731F-4532-8E5E-79533C4A52D7"
+         "url" : "https://webapi.legistar.com/v1/nyc/events/18617"
